@@ -40,3 +40,104 @@
     <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
+
+
+{% if page.images %}
+  <!-- Image slider -->
+  {% if page.images.slider %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url | bust_file_cache }}"></script>
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <style>
+      /* Make the image fully responsive */
+      .carousel-control-prev, .carousel-control-next {
+        width: 8%;
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 50px;
+        color: white;
+        opacity: 1;
+      }
+      .carousel-control-prev-icon, .carousel-control-next-icon {
+        font-size: 30px;
+      }
+      .carousel-control-prev:hover, .carousel-control-next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+      }
+        /* Carousel Indicator Styles */
+      .carousel-indicators {
+        bottom: 10px;
+      }
+      .carousel-indicators li {
+        background-color: #000;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+        margin-left: 5px;
+      }
+      .carousel-indicators .active {
+        background-color: #fff;
+        width: 15px;
+        height: 15px;
+      }
+    </style>
+    <!-- Swiper styles -->
+    <style>
+      html,
+      body {
+        position: relative;
+        height: 100%;
+      }
+
+      body {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper {
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+
+      .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+      }
+    </style>
+  {% endif %}
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
