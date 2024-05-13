@@ -36,9 +36,8 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
 
 <div class="container">
     <div id="demo" class="carousel slide" data-ride="carousel">
-    
-          <!-- Indicators -->
-          <ol class="carousel-indicators">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
             <li data-target="#demo" data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
@@ -48,46 +47,44 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
             <li data-target="#demo" data-slide-to="6"></li>
             <li data-target="#demo" data-slide-to="7"></li>
             <li data-target="#demo" data-slide-to="8"></li>
-          </ol>
-          
-          <!-- The slideshow -->
-          <div class="carousel-inner" role="listbox">
+        </ol>
+        <!-- The slideshow -->
+        <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Md Abrar Jahin is receiving the dean's award" class="d-block img-fluid" style="height:500px; width:619px;">
+              <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Md Abrar Jahin is receiving the dean's award" class="d-block img-fluid" style="height:50%; width:61.9%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me1.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:500px;">
+              <img src="https://abrar2652.github.io/assets/img/me1.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:50%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Md Abrar Jahin presenting @undergrad thesis pre-defense" class="d-block img-fluid" style="height:500px; width:375px;">
+              <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Md Abrar Jahin presenting @undergrad thesis pre-defense" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:666.66px;">
+              <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:66.66%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:500px; width:375px;">
+              <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:500px; width:667.75px;">
+              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.66%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:500px; width:625px;">
+              <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:50%; width:62.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me4.png" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:500px;">
+              <img src="https://abrar2652.github.io/assets/img/me4.png" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:50%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:375px;">
+              <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
-        
-          
-          <!-- Left and right controls -->
-          <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        </div>
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
-          </a>
-          <a class="carousel-control-next" href="#demo" data-slide="next">
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
             <span class="carousel-control-next-icon"></span>
-          </a>
+        </a>
     </div>
 </div>
 
