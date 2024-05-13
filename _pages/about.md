@@ -30,21 +30,8 @@ I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Enginee
 
 Although in the undergraduate admission test (2018), I got the opportunity to choose CSE as my subject in SUST (700th merit position), I was not very confident about programming at that time and thought that I'd not be able to be the topper if I chose CSE. That's why I meticulously opted for IPE, and from my 1st year (2018), I started learning Python for Data Science through an online course designed by UC San Diego. I got involved in international Mathematics and Astrophysics Olympiads at the undergraduate level and experienced my first taste of success on the international stage. Then, I never stopped and looked back. 
 
-<br>
-
-<!--
-<center>
-<img src="https://Abrar2652.github.io/assets/img/dean_award.jpg" alt="Dean's Award" width="50%">
-</center>
-<br>
--->
-
-
-
 
 <div class="container">
-
-
 <div id="demo" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->
@@ -52,6 +39,12 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
     <li data-target="#demo" data-slide-to="0" class="active"></li>
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
+    <li data-target="#demo" data-slide-to="5"></li>
+    <li data-target="#demo" data-slide-to="6"></li>
+    <li data-target="#demo" data-slide-to="7"></li>
+    <li data-target="#demo" data-slide-to="8"></li>
   </ol>
   
   <!-- The slideshow -->
@@ -63,10 +56,22 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
       <img src="https://abrar2652.github.io/assets/img/me1.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:500px;">
     </div>
     <div class="carousel-item">
-      <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:375px;">
+      <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Md Abrar Jahin presenting @undergrad thesis pre-defense" class="d-block img-fluid" style="height:500px; width:375px;">
     </div>
     <div class="carousel-item">
       <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:666.66px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:500px; width:375px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:500px; width:667.75px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:500px; width:625px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/me4.png" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:500px;">
     </div>
     <div class="carousel-item">
       <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:375px;">
@@ -81,13 +86,6 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
-
-
-
-
-
-
-
 
 
 <br>
