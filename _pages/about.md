@@ -34,6 +34,59 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
 </center>
 <br>
 
+
+
+
+<div class="container">
+
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ol>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+      <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/me1.jpg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Chicago" class="d-block img-fluid" style="height:400px; width:570px;">
+    </div>
+    <div class="carousel-item">
+      <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="New York" class="d-block img-fluid" style="height:400px; width:310px;">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+
 ## Early Research Achievements
 As a Bangladeshi undergraduate student, I seized a unique opportunity to undertake two international research internships in the same year. As the team leader and winner of the ["Smart Roads – Winter Road Maintenance Hackathon 2021"](https://dit4bears.devpost.com/project-gallery){:target="_blank"}, I was offered a 3-week Machine Learning research internship at [UiT - The Arctic University of Norway](https://en.uit.no/){:target="_blank"}. During this internship, I contributed to the [DIT4BEARs Smart Roads project](http://dit4bears.org/){:target="_blank"}.
 
