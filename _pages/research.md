@@ -41,48 +41,6 @@ images:
 </div>
 
 
-
-<div id="demo" class="carousel slide carousel-fade carousel-dark" data-ride="carousel">
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-    <li data-target="#demo" data-slide-to="3"></li>
-    <li data-target="#demo" data-slide-to="4"></li>
-  </ul>
-  
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-interval="10000">
-      <img src="/assets/img/research/oist_plots_1.gif" alt="Abrar's comparative genomics research @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-    <div class="carousel-item active" data-interval="10000">
-      <img src="/assets/img/research/oist_plots_2.gif" alt="Abrar's comparative genomics research @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-    <div class="carousel-item active" data-interval="10000">
-      <img src="/assets/img/research/oist_plots_3.gif" alt="Abrar's comparative genomics research @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-    <div class="carousel-item" data-interval="10000">
-      <img src="/assets/img/research/sliding_windows.gif" alt="Abrar's comparative genomics research @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-    <div class="carousel-item" data-interval="10000">
-      <img src="/assets/img/research/pcs_fit.gif" alt="Abrar's comparative genomics research @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-  </div>
-  
-  <!-- Left and right controls -->
-  <button class="carousel-control-prev" type="button" data-target="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-target="#demo" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </button>
-</div>
-
-
 <br>
 
 | Visiting Researcher            | Mar 2024 - Present |
@@ -111,15 +69,11 @@ images:
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
     <li data-target="#demo" data-slide-to="3"></li>
-    <li data-target="#demo" data-slide-to="4"></li>
   </ul>
   
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active" data-interval="2000">
-      <img src="/assets/img/research/oist_affiliation.gif" alt="Abrar's affiliation @OIST" class="d-block w-100" style="max-height: 500px;">
-    </div>
-    <div class="carousel-item" data-interval="2000">
       <img src="/assets/img/research/oist_vrs_cert.png" alt="Abrar's OIST VRS certificate" class="d-block w-100" style="max-height: 500px;">
     </div>
     <div class="carousel-item" data-interval="2000">
