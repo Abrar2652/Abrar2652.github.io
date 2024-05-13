@@ -1,0 +1,96 @@
+- title: General
+  type: map
+  contents:
+    - name: Full Name
+      value: Md Abrar Jahin
+    - name: Email
+      value: abrar.jahin.2652[at]gmail.com
+    - name: Pronouns
+      value: he/him
+    - name: Links
+      links:
+        - name: LinkedIn
+          link: https://www.linkedin.com/in/md-abrar-jahin
+        - name: Scholar
+          link: https://scholar.google.com/citations?user=VKKO-zAAAAAJ
+        - name: GitHub
+          link: https://github.com/Abrar2652
+        - name: ResearchGate
+          link: https://www.researchgate.net/profile/Md-Abrar-Jahin-2/
+        - name: Knowledge Panel
+          link: https://g.co/kgs/MebhtwM
+
+- title: Education
+  type: time_table
+  contents:
+    - title: B.Sc. in Industrial & Production Engineering
+      institution: Khulna University of Engineering & Technology
+      department: Department of Industrial Engineering and Management
+      year: 2019 - 2024
+
+- title: Papers
+  type: time_table
+  contents:
+    - title: FairDeDup - Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication
+      year: 2024
+      maindescription: Computer Vision and Pattern Recognition
+    - title: <a href="/assets/pdf/valet.pdf">VALET - Vision-And-LanguagE Testing with Reusable Components</a>
+      year: 2023
+      maindescription: NeurIPS Queer in AI Workshop
+    - title: <a href="https://arxiv.org/abs/2311.05071">On the Behavior of Audio-Visual Fusion Architectures in Identity Verificaiton Tasks</a>
+      year: 2023
+      maindescription: arXiv preprint
+    - title: <a href="https://arxiv.org/abs/2309.06703">VLSlice - Interactive Vision-and-Language Slice Discovery</a>
+      year: 2023
+      maindescription: International Conference on Computer Vision
+    - title: <a href="https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_30.pdf">Conditional Emulation of Global Precipitation With Generative Adversarial Networks</a>
+      year: 2022
+      maindescription: ICLR Workshop on AI for Earth and Space Science
+    - title: <a href="https://arxiv.org/abs/2107.14369">Fine-Grained Classroom Activity Detection from Audio with Neural Networks</a>
+      year: 2022
+      maindescription: AAAI Workshop on AI for Education
+    - title: Conditioned Emulation of Global Climate Models With Generative Adversarial Networks
+      year: 2021
+      maindescription: NOAA Workshop on Leveraging AI in Envrionmental Sciences
+
+
+- title: Research Experiences
+  type: time_table
+  contents:
+    - title: Visiting Researcher
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2024 - Present
+      maindescription: Advised by Prof. Jonathan Miller [BS (Yale); PhD Biology (Cambridge); PhD Physics (Caltech)]
+      description:
+        - Research project "Evolutionary Dynamics of Strongly Conserved Sequences"
+
+    - title: Visiting Research Student (VRS)
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2023 - 2024
+      maindescription: Advised by Prof. Jonathan Miller
+      description:
+        - Collaborated with Dr. Lucia Zifcakova, Dr. Priscila Do Nascimento Biller, Dr. Zdenek Lajbner, and Dr. Reuven Pnini
+    - title: Research Intern (RI)
+      institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
+      department: Physics and Biology Unit
+      year: 2021 - 2022
+      maindescription: Advised by Prof. Jonathan Miller
+      description:
+        - Awarded with full-funded scholarship with a daily allowance of JPY 2400 per working day (taxable)
+
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, C/C++, R, Kotlin, SQL, SAS, Data Structure and Algorithm, Object Orient Programming
+    - name: AI
+      value: TensorFlow, PyTorch, Keras, scikit-learn, spaCy, scipy, Transformers, XAI, NLP, DASK, IBM Watson
+    - name: Analysis
+      value: Microsoft Excel, IBM SPSS, Minitab, TORA, Beautiful Soup, Biopython, Bioconductor, NetworkX, ggplot2, matplotlib, seaborn, plotly
+    - name: Research
+      value: LaTeX, Microsoft Word, Zotero, Mendeley, Publish or Perish 8.0, Gephi, VOSviewer
+    - name: Others
+      value: Unix, Git, GCP, PyCharm, IntelliJ, Unity 2D, SolidWorks 2022, AutoCAD 2021
