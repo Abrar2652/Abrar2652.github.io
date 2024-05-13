@@ -123,6 +123,8 @@ During my time at BZS for primary education, I excelled in a highly competitive 
 
 
 <!--
+Use https://www.posterburner.com/Image-Size-Finder.aspx website to calculate the image dimensions and then use the aspect ratio to make the carousel's dimension adaptive. I took the width 500px and adjusted height maintaining the ratio and finally converting it to percentage. If 519.28px is the width, then the percentage will be 51.928%, if the container dimension remains by-default.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
