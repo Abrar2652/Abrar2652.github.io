@@ -29,10 +29,13 @@ I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Enginee
 Although in the undergraduate admission test (2018), I got the opportunity to choose CSE as my subject in SUST (700th merit position), I was not very confident about programming at that time and thought that I'd not be able to be the topper if I chose CSE. That's why I meticulously opted for IPE, and from my 1st year (2018), I started learning Python for Data Science through an online course designed by UC San Diego. I got involved in international Mathematics and Astrophysics Olympiads at the undergraduate level and experienced my first taste of success on the international stage. Then, I never stopped and looked back. 
 
 <br>
+
+<!--
 <center>
 <img src="https://Abrar2652.github.io/assets/img/dean_award.jpg" alt="Dean's Award" width="50%">
 </center>
 <br>
+-->
 
 
 
@@ -52,19 +55,19 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
   <!-- The slideshow -->
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+      <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Md Abrar Jahin is receiving the dean's award" class="d-block img-fluid" style="height:500px; width:619px;">
     </div>
     <div class="carousel-item">
-      <img src="https://abrar2652.github.io/assets/img/me1.jpg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+      <img src="https://abrar2652.github.io/assets/img/me1.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:500px;">
     </div>
     <div class="carousel-item">
-      <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Los Angeles" class="d-block img-fluid" style="height:400px; width:380px;">
+      <img src="https://abrar2652.github.io/assets/img/predefense.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:375px;">
     </div>
     <div class="carousel-item">
-      <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Chicago" class="d-block img-fluid" style="height:400px; width:570px;">
+      <img src="https://abrar2652.github.io/assets/img/me2.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:666.66px;">
     </div>
     <div class="carousel-item">
-      <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="New York" class="d-block img-fluid" style="height:400px; width:310px;">
+      <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:500px; width:375px;">
     </div>
   </div>
   
