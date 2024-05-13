@@ -20,13 +20,13 @@ nav_order: 3
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=lW6t0DytxmY&list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/lW6t0DytxmY?si=agkUQHCNDuec33w-" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=7dUCvCY-wGg&list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E&index=2" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/sXAPE_Em-mQ?si=2blz7Z25jMQAqvbc" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/watch?v=sXAPE_Em-mQ&list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E&index=5" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/embed/s28OW8808Zg?si=x1r2HTrHFZ8sIClM" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
