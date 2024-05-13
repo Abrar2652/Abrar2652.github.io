@@ -9,7 +9,7 @@ nav_order: 3
 
 #### Okinawa Institute of Science and Technology Graduate University (OIST), Japan
 
-* [Mini Course: Intro to Programming with Python](https://groups.oist.jp/grad/skill-pill-programming-python )
+* [Mini Course: Intro to Programming with Python](https://groups.oist.jp/grad/skill-pill-programming-python)
   * Topics Covered: Intro, Anaconda, variables, lists, strings, control structures
   * Fellow Teachers: Dr. Nicholas Wardhana and Dr. Jeremie Gillet
 
@@ -30,7 +30,7 @@ nav_order: 3
     </div>
 </div>
 <div class="caption">
-    The initiative taken by me to compile a playlist covering critical topics of Operations Research focusing 3rd year undergrads.
+    This initiative was taken to compile a playlist of key Operations Research topics, tailored for 3rd-year IPE undergraduates, with a special focus on material from Prof. Taha's book. Find the full playlist [here](https://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E).
 </div>
 
 <!--
