@@ -51,7 +51,7 @@ Although in the undergraduate admission test (2018), I got the opportunity to ch
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Md Abrar Jahin is receiving the dean's award" class="d-block img-fluid" style="height:50%; width:61.9%;">
+              <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Md Abrar Jahin is receiving the dean's award" class="d-block img-fluid" style="height:50%; width:58.598%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me1.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:50%;">
