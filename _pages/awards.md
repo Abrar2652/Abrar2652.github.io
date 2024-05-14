@@ -47,6 +47,9 @@ nav_order: 3
 	    {% if award.code %}
 	    <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> </a></p>
             {% endif %}
+            <div class="mb-3">
+                {{ award.embed_post | safe }}
+            </div>
         </div>
     </div>
     {% endfor %}
