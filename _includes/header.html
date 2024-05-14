@@ -5,11 +5,11 @@
       <div class="d-flex align-items-center">
         <!-- Profile Photo -->
         {% unless page.permalink == '/' %}
-        <img src="/assets/img/md_abrar_jahin.jpg" alt="Md Abrar Jahin" class="img-fluid mr-2" style="width: 40px; height: 40px;">
+        <img src="/assets/img/md_abrar_jahin.jpg" alt="Md Abrar Jahin" class="img-fluid mr-2" style="width: 4.0%; height: 4.4172%;">
         {% endunless %}
 
         <!-- Site Name -->
-        {% if page.permalink != '/' -%}
+        {% if page.permalink != '/' and page.title != 'About' -%}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {%- if site.title == "blank" -%}
           {%- if site.first_name -%}
@@ -24,6 +24,8 @@
           {%- else -%}
           {{- site.title -}}
           {%- endif -%}
+	  <br>
+          <small class="d-block d-md-none text-muted">AI Researcher</small>
         </a>
         {%- elsif site.enable_navbar_social -%}
         <!-- Social Icons -->
