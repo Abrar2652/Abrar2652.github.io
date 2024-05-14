@@ -239,7 +239,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/og/md_abrar_jahin.jpg # Default open graph image
+      image: /assets/img/md_abrar_jahin.jpg # Default open graph image
 
 sass:
   style: compressed
