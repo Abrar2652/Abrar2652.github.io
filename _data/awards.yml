@@ -40,7 +40,7 @@
   
 
 - year: "2023"
-  month: "asd"
+  month: "November"
   title: "Finalist — HONDA Young Engineer and Scientists' (Y-E-S) Award"
   description: "Awarded for being among the top 15 Bangladeshi young engineering undergrad scientists. 
 
@@ -48,9 +48,9 @@ The competition recognizes outstanding talent and innovative ideas in various fi
 
 Words can hardly express the emotions that were swirling within me at that moment. That day was a whirlwind of excitement, learning, and making unforgettable memories that willstay with me forever. It's not possible to recaputulate the whole scenarios with just some photos and videos because we were more busy with making memories in real life rather than taking pictures and posting on social media. HONDA arranged a round trip flight ticket for us which was a unique experience for me in my life. However, these are just one of the many aspects of their cordiality. From the moment I arrived in Dhaka, I was treated with the utmost respect and cordiality by the HONDA officials. They went above and beyond to make us feel comfortable and welcomed, arranging everything from our transportation to our meals. They offered their own transportation to pick us up from airport and drop back to airport. The interview itself was nerve-wracking, but the panel of talented and high-ranking officials put us feel at home. The interview board was the highest officials on the hierarchy of HONDA including Mr. Abul Hayat (famous TV actor and civil engineer), Prof. Dr. Ainun Nishat, 3 top Japanese officials of HONDA and JAICA (CEO, Managing Director, and Prof. from University of Tokyo). I feel honored to have interviewed by them for around 20 minutes regarding the secrets of my personal achievement and research, how I managed to switch my career from IPE to comparative genomics, ML, NLP, Quantum Computing, how I manage to sustain such an elite result keeping my extra curriculars on the flow at the same time, etc. The Japanese were enthusiastic about me mostly because I have an extensive experience at OIST, Japan. But the real highlight of the trip was the connection I made with my fellow 3 finalists from my university. Soon we discovered that we were like-minded sharing the similar perspectives regarding the world, science, and technology, and importance of quality networking. Despite being the junior most among them, we all shared great companionship that I never felt left out even for a bit. We enjoyed, discussed futuristic goals, travelled, shared our regrets in our 4 years undergrad life, and so on. I believe we will continue to support and inspire as pursue our dreams (each one of us are also the toppers in our respective departments)."
   preview_images: 
-    - "/assets/img/awards/yes1.png"
-    - "/assets/img/awards/yes2.png"
-    - "/assets/img/awards/yes3.png"
+    - "/assets/img/awards/yes1.jpeg
+    - "/assets/img/awards/yes2.jpeg
+    - "/assets/img/awards/yes3.jpeg
   certificate: "https://drive.google.com/drive/folders/1CDRjiPIt-9nV9e-va4DitjtCcU330fFR"
 
 
@@ -59,7 +59,7 @@ Words can hardly express the emotions that were swirling within me at that momen
   title: "Junior Research Fellowship | Bangladesh Space Research and Remote Sensing Organization (SPARRSO)"
   description: "Nominated as the junior-most research fellow among the other excellent 55 undergraduate researchers for the project titled 'Disaster Damage Mitigation by Multispectral Remote Sensing Satellite Image Data Analysis: A Deep Learning Approach'."
   preview_images: 
-    - "/assets/img/awards/sparrso.jpg"
+    - "/assets/img/awards/sparrso.jpg
   youtube: "https://www.youtube.com/watch?v=W21dzxFkeSY"
   embed_post: '<iframe width="300" height="315" src="https://www.youtube.com/embed/W21dzxFkeSY?si=kp5FVRRYnVCA_gEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
   external_link: "https://sparrso.portal.gov.bd/sites/default/files/files/sparrso.portal.gov.bd/notices/446feb4c_d9a2_42ab_bcd6_80789f64b723/2022-03-15-20-45-e82882d876766976dcbce4fd04fd4315.pdf"
