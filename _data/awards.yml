@@ -54,6 +54,16 @@ Words can hardly express the emotions that were swirling within me at that momen
   certificate: "https://drive.google.com/drive/folders/1CDRjiPIt-9nV9e-va4DitjtCcU330fFR"
 
 
+- year: "2023"
+  month: ""
+  title: "Dean's Award 3x (2018-2019, 2019-2020, and 2020-2021)"
+  description: 
+  certificate: "/assets/pdf/awards/ssc1.pdf"
+  preview_images: 
+    - "/assets/img/awards/ssc.jpg"
+  pdf: "/assets/pdf/awards/ssc2.pdf"
+
+
 - year: "2022"
   month: "March"
   title: "Junior Research Fellowship | Bangladesh Space Research and Remote Sensing Organization (SPARRSO)"
@@ -189,39 +199,39 @@ The IASC was established to address the need for continuous monitoring and ident
 
 
 - year: "2018"
-  month: ""
+  month: "awarded a talent pool scholarship worth 300 BDT per month from January 1, 2014, to December 31, 2015"
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  certificate: "/assets/pdf/awards/hsc1.pdf"
   preview_images: 
-    - "/assets/img/awards/hsc.png"
-  pdf: "/assets/pdf/awards/"
+    - "/assets/img/awards/hsc.jpg"
+  pdf: "/assets/pdf/awards/hsc2.pdf"
 
 
 - year: "2016"
   month: ""
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  certificate: "/assets/pdf/awards/ssc1.pdf"
   preview_images: 
-    - "/assets/img/awards/ssc.png"
-  pdf: "/assets/pdf/awards/"
+    - "/assets/img/awards/ssc.jpg"
+  pdf: "/assets/pdf/awards/ssc2.pdf"
 
 
 - year: "2013"
   month: ""
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  certificate: "/assets/pdf/awards/jsc1.pdf"
   preview_images: 
-    - "/assets/img/awards/jsc.png"
-  pdf: "/assets/pdf/awards/"
+    - "/assets/img/awards/jsc.jpg"
+  pdf: "/assets/pdf/awards/jsc2.pdf"
 
 
 - year: "2010"
-  month: ""
+  month: "Placed 17th in the Rajshahi board in the Government Primary School Certificate Board Exams and was awarded a talent pool scholarship worth 300 BDT per month from January 1, 2014, to December 31, 2015."
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  certificate: "/assets/pdf/awards/psc1.pdf"
   preview_images: 
-    - "/assets/img/awards/psc.png"
-  pdf: "/assets/pdf/awards/"
+    - "/assets/img/awards/psc.jpg"
+  pdf: "/assets/pdf/awards/psc2.pdf"
 
 
 
