@@ -17,20 +17,7 @@
 - year: "2024"
   month: "April"
   title: "Champion | CS50x Puzzle Day, Harvard University | Meta"
-  description: "Led a 5-person international team by fostering diversity & inclusion (Bangladesh, USA, Morocco,
-and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
-  preview_images: "/assets/img/awards/cs50x_2024.png"
-  certificate: "/assets/pdf/awards/cs50x_2024.pdf"
-  pdf: "/assets/pdf/awards/"
-  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_cs50puzzleday-teamworkwins-aurora-activity-7184049430352859138-QRAe?utm_source=share&utm_medium=member_desktop"
-  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
-
-
-- year: "2024"
-  month: "April"
-  title: "Champion | CS50x Puzzle Day, Harvard University | Meta"
-  description: "Led a 5-person international team by fostering diversity & inclusion (Bangladesh, USA, Morocco,
-and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
+  description: "Led a 5-person international team by fostering diversity & inclusion (Bangladesh, USA, Morocco, and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
   preview_images: "/assets/img/awards/cs50x_2024.png"
   certificate: "/assets/pdf/awards/cs50x_2024.pdf"
   pdf: "/assets/pdf/awards/"
@@ -41,20 +28,35 @@ and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
 - year: "2023"
   month: "October"
   title: "NASA Space Apps Challenge — Global Nominee"
-  description: "Led a 5-person team and forecast geomagnetic storms using hybrid deep neural networks from
-satellite data."
+  description: "Led a 5-person team and forecast geomagnetic storms using hybrid deep neural networks from satellite data."
   preview_images: 
     - "/assets/img/awards/nsac1.png"
     - "/assets/img/awards/nsac2.png"
     - "/assets/img/awards/nsac3.png"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_nasa-spaceappschallenge-globalnominee-activity-7125890251264249856-eFRh?utm_source=share&utm_medium=member_desktop"
   youtube: "https://youtu.be/IjPK56Batyg"
-  embed_post: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7125890251264249856" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7125890251264249856" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
   website: "https://www.spaceappschallenge.org/2023/find-a-team/team-aurora/?tab=project"
   code: "https://github.com/Abrar2652/NSAC2023-Dst-prediction"
   
 
+- year: "2023"
+  month: "asd"
+  title: "Finalist — HONDA Young Engineer and Scientists' (Y-E-S) Award"
+  description: "Awarded for being among the top 15 Bangladeshi young engineering undergrad scientists. The competition recognizes outstanding talent and innovative ideas in various fields. As part of the competition, I participated in the Essay Round on Renewable Energy, where I had the opportunity to share my vision and ideas on harnessing renewable energy sources for a sustainable future. I was excited and honored to have been invited for an interview at HONDA Headquarters in Dhaka, Bangladesh. This interview offered me a chance to present my ideas in person, engage in discussions, and showcase my passion for ecotechnology research and development.
 
+Words can hardly express the emotions that were swirling within me at that moment. That day was a whirlwind of excitement, learning, and making unforgettable memories that willstay with me forever. It's not possible to recaputulate the whole scenarios with just some photos and videos because we were more busy with making memories in real life rather than taking pictures and posting on social media.
+
+<ol>
+  <li>HONDA arranged a round trip flight ticket for us which was a unique experience for me in my life.</li>
+  <li>However, these are just one of the many aspects of their cordiality. From the moment I arrived in Dhaka, I was treated with the utmost respect and cordiality by the HONDA officials. They went above and beyond to make us feel comfortable and welcomed, arranging everything from our transportation to our meals. They offered their own transportation to pick us up from airport and drop back to airport. The interview itself was nerve-wracking, but the panel of talented and high-ranking officials put us feel at home. The interview board was the highest officials on the hierarchy of HONDA including Mr. Abul Hayat (famous actor in BD and civil engineer), Prof. Dr. Ainun Nishat, 3 top Japanese officials of HONDA and JAICA (CEO, Managing Director, and Prof. from University of Tokyo). I feel honored to have interviewed by them for around 20 minutes regarding the secrets of my personal achievement and research, how I managed to switch my career from IPE to comparative genomics, ML, NLP, Quantum Computing, how I manage to sustain such an elite result keeping my extra curriculars on the flow at the same time, etc. The Japanese were enthusiastic about me mostly because I have an extensive experience at OIST, Japan.</li>
+  <li>But the real highlight of the trip was the connection I made with my fellow 3 finalists from my university. Soon we discovered that we were like-minded sharing the similar perspectives regarding the world, science, and technology, and importance of quality networking. Despite being the junior most among them, we all shared great companionship that I never felt left out even for a bit. We enjoyed, discussed futuristic goals, travelled, shared our regrets in our 4 years undergrad life, and so on. I believe we will continue to support and inspire as pursue our dreams (each one of us are also the toppers in our respective departments).</li>
+</ol>"
+  preview_images: 
+    - "/assets/img/awards/yes1.png"
+    - "/assets/img/awards/yes2.png"
+    - "/assets/img/awards/yes3.png"
+  certificate: "https://drive.google.com/drive/folders/1CDRjiPIt-9nV9e-va4DitjtCcU330fFR"
 
 
 
