@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 #### Okinawa Institute of Science and Technology Graduate University (OIST), Japan

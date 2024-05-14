@@ -1,0 +1,23 @@
+- year: "2023"
+  title: "Best Research Paper Award"
+  description: "Awarded for outstanding research contribution in the field of Artificial Intelligence."
+  preview_image: "/assets/img/award_preview_2023.jpg"
+  certificate_pdf: "/assets/certificates/best_research_paper_2023.pdf"
+  shared_post_link: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+
+- year: "2022"
+  title: "Outstanding Graduate Student Award"
+  description: "Awarded for exceptional academic performance and research contributions."
+  preview_image: "/assets/img/award_preview_2022.jpg"
+  certificate_pdf: "/assets/certificates/outstanding_graduate_student_2022.pdf"
+  shared_post_link: "https://example.com/shared_post_2022"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+
+# Add more awards with similar structure as above
