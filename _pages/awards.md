@@ -19,7 +19,10 @@ nav_order: 3
         </div>
         <div class="col-8">
             <h5>{{ award.title }}</h5>
-            <p class="award-description" style="max-height: 100px; overflow: hidden;">{{ award.description }}</p>
+            <p class="award-description">
+                {{ award.description | truncatewords: 30 }}
+                <span class="more-content">{{ award.description }}</span>
+            </p>
             {% if award.certificate %}
                 <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
                 {% endif %}
@@ -45,7 +48,7 @@ nav_order: 3
                 <p><a href="{{ award.website }}" target="_blank"><i class="fa-solid fa-globe"></i> Website</a></p>
                 {% endif %}
             {% if award.code %}
-                <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> </a></p>
+                <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> Code</a></p>
             {% endif %}
             {% if award.embed_post %}
                 <div class="mb-3">
@@ -59,32 +62,15 @@ nav_order: 3
 
 
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    var showChar = 100;
-    var ellipsestext = "...";
-    var moretext = "Read more";
-    var lesstext = "Show less";
+<style>
+    .award-description .more-content {
+        display: none;
+    }
 
-    var moreButtons = document.querySelectorAll('.read-more');
-
-    moreButtons.forEach(function(button) {
-        button.addEventListener('click', function(event) {
-            var parent = event.target.parentElement;
-            var description = parent.querySelector('.award-description');
-
-            if (description.classList.contains('less')) {
-                description.classList.remove('less');
-                event.target.textContent = moretext;
-            } else {
-                description.classList.add('less');
-                event.target.textContent = lesstext;
-            }
-            return false;
-        });
-    });
-});
-</script>
+    .award-description.more .more-content {
+        display: inline;
+    }
+</style>
 
 
 

@@ -73,18 +73,226 @@ Words can hardly express the emotions that were swirling within me at that momen
     - "/assets/img/awards/qiskit.png"
   certificate: "https://www.credly.com/badges/19a355e9-928c-49b7-8258-5a7454653f3d/print"
 
+
+
 - year: "2021"
-  month: "December"
-  title: "Qiskit Gold Level Translator — English to Bengali"
-  description: "Nominated as the junior-most research fellow among the other excellent 55 undergraduate researchers for the project titled 'Disaster Damage Mitigation by Multispectral Remote Sensing Satellite Image Data Analysis: A Deep Learning Approach'."
+  month: "June"
+  title: "Top 6 among 385 teams — Entrepret Season-2: Crafting Visions | North South University, Bangladesh"
+  description: "Developed a feasible and sustainable business canvas model showing the proper break-even point with financial breakdown, surveyed 160+ students for our Git and Jenkins integrated freelancing startup."
   preview_images: 
-    - "/assets/img/awards/qiskit.png"
-  certificate: "https://www.credly.com/badges/19a355e9-928c-49b7-8258-5a7454653f3d/print"
+    - "/assets/img/awards/bdheroes.jpg"
+  external_link: "https://www.slideshare.net/MdAbrarJahin/entrepret-season2-grand-finale-bdheroes"
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_nsu-yes-would-like-to-express-its-heartiest-activity-6809830208313667585-zxyl?utm_source=share&utm_medium=member_desktop"
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6809137071144386560" height="485" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+
+
+- year: "2021"
+  month: " "
+  title: "Top 500 — Google Android App Developer Challenge 2021"
+  description: "Engineered a countdown timer app on Android Studio with Jetpack Compose Beta using Kotlin language."
+  preview_images: 
+    - "/assets/img/awards/android_dev.jpg"
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_growwithgoogle-androiddevelopers-androiddevchallenge-activity-6793095943542730753-3HWX?utm_source=share&utm_medium=member_desktop"
+  code: "https://github.com/Abrar2652/CountDown-Timer"
+  embed_post: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google Android Developer Challenge 2021 2nd week submission. My first ever android app development using Jetpack Compose on Android Studio Canary build with Kotlin. Really learned a lot after fixing thousands of crashes.<a href="https://twitter.com/hashtag/AndroidDevChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDevChallenge</a> <a href="https://twitter.com/hashtag/growwithgoogle?src=hash&amp;ref_src=twsrc%5Etfw">#growwithgoogle</a> <a href="https://t.co/NKs3nVVB3f">pic.twitter.com/NKs3nVVB3f</a></p>&mdash; Md Abrar Jahin (@MdAbrar2652) <a href="https://twitter.com/MdAbrar2652/status/1368251655402127361?ref_src=twsrc%5Etfw">March 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+
+
+- year: "2021"
+  month: "March"
+  title: "Global Champion | Smart Roads — Winter Road Maintenance Hackathon | UiT-The Arctic University of Norway"
+  description: "Executed a 2-person team and devised an ML model to forecast winter road friction and was offered a 1-month research internship at UiT - The Arctic University of Norway. We won in the Weather Challenge category in which our model model predicted if the road is safe or dangerous with 76.67% accuracy for driving in the Barents-Euro-Arctic region."
+  preview_images: 
+    - "/assets/img/awards/dit4bears.png"
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_growwithgoogle-androiddevelopers-androiddevchallenge-activity-6793095943542730753-3HWX?utm_source=share&utm_medium=member_desktop"
+  certificate: "/assets/pdf/awards/uit.pdf"
+  pdf: "https://arxiv.org/abs/2107.06755"
+  code: "https://github.com/Abrar2652/Road-Friction-Forecasting"
+  website: "https://devpost.com/software/road-friction-forecasting"
 
 
 
+- year: "2020"
+  month: "July"
+  title: "Winner — ISCEA Ptak Prize Global SCM Case Competition"
+  description: "Led a 4-person team and achieved 70% scholarship for completing the course for the professional certification titled Certified Supply Chain Analyst (CSCA)"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/csca.pdf"
+  linkedin: "https://www.linkedin.com/in/example"
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link: "https://www.slideshare.net/MdAbrarJahin/submission-for-iscea-ptak-prize-global-case-competition-2020-team-mxub010820-248548803"
 
 
+- year: "2020"
+  month: "September"
+  title: "Champion | CS50x Puzzle Day (Fall), Harvard University"
+  description: "Spearheaded a 4-person international team (Bangladesh, the UK, Pakistan, and Mexico) and solved advanced 8/8 puzzles"
+  certificate: "https://certificates.cs50.io/57214af9-cafe-4508-ae92-b2b3f3838059.pdf?size=letter"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+- year: "2020"
+  month: "July"
+  title: "Gold Honor — Ranked top 3% — IAAC"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+- year: "2020"
+  month: "April"
+  title: "Champion | CS50x Puzzle Day (Spring), Harvard University"
+  description: "Led a 3-person international team by fostering diversity & inclusion (Bangladesh, Brazil, and India) and solved advanced 8/8 puzzles"
+  certificate: "https://cs50.harvard.edu/certificates/60c31661-ec0e-4883-beeb-6c5523521c5d"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+- year: "2020"
+  month: "April"
+  title: "International Asteroid Search Collaboration — NASA"
+  description: "Administered a 4-person team and discovered 2 main belt asteroids by analyzing Pan-STARRS images using Astrometrica software"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+
+- year: "2019"
+  month: "December"
+  title: "Gold Honor — Ranked top 5% — IYMC"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+
+- year: "2018"
+  month: ""
+  title: "Government Board Merit-based Scholarship"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+
+- year: "2016"
+  month: ""
+  title: "Government Board Merit-based Scholarship"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+- year: "2013"
+  month: ""
+  title: "Government Board Merit-based Scholarship"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
+
+
+
+- year: "2010"
+  month: ""
+  title: "Government Board Merit-based Scholarship"
+  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
+  pdf: "/assets/pdf/awards/"
+  website: "https://example.com/shared_post_2023"
+  facebook: "https://www.facebook.com/example"
+  linkedin: "https://www.linkedin.com/in/example"
+  twitter: "https://twitter.com/example"
+  youtube: "https://www.youtube.com/user/example"
+ embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+ external_link:
 
 
 
