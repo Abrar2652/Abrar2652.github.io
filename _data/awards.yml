@@ -2,14 +2,17 @@
   month: "April"
   title: "MIT Solve — 2024 Global Health Equity Challenge"
   description: "Founded SpecX - An XAI-Powered Web App for Sentiment-Driven Disease Profiling & Specialist Allocation. I developed the interpretable hybrid DL model architecture, integrated topic modeling, telemedicine appointment, and personalized treatment solutions as an AI Researcher of SpecX."
-  preview_images: "/assets/img/awards/mit_solve1.png"
+  preview_images: 
+    - "/assets/img/awards/mit_solve1.png"
+    - "/assets/img/awards/mit_solve2.png"
+    - "/assets/img/awards/mit_solve3.png"
   website: "https://mushfi-specx.hf.space/"
   facebook: "https://www.facebook.com/profile.php?id=61558775887964"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_specx-activity-7188926783218429952-5RlB?utm_source=share&utm_medium=member_desktop"
   youtube: "https://www.youtube.com/watch?v=b0qGV40oqnI"
   external_link: "https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695"
   code: "https://github.com/Abrar2652/MIT-SOLVE-2024"
-  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7188926782530555905" height="812" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7188926782530555905" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
 - year: "2024"
   month: "April"
@@ -20,7 +23,7 @@ and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
   certificate: "/assets/pdf/awards/cs50x_2024.pdf"
   pdf: "/assets/pdf/awards/"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_cs50puzzleday-teamworkwins-aurora-activity-7184049430352859138-QRAe?utm_source=share&utm_medium=member_desktop"
-  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="1067" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
 
 
