@@ -55,14 +55,36 @@ Words can hardly express the emotions that were swirling within me at that momen
 
 
 - year: "2022"
-  month: ""
+  month: "March"
   title: "Junior Research Fellowship | Bangladesh Space Research and Remote Sensing Organization (SPARRSO)"
   description: "Nominated as the junior-most research fellow among the other excellent 55 undergraduate researchers for the project titled 'Disaster Damage Mitigation by Multispectral Remote Sensing Satellite Image Data Analysis: A Deep Learning Approach'."
   preview_images: 
-    - "/assets/img/awards/sparrso.jpg
+    - "/assets/img/awards/sparrso.jpg"
   youtube: "https://www.youtube.com/watch?v=W21dzxFkeSY"
   embed_post: '<iframe width="300" height="315" src="https://www.youtube.com/embed/W21dzxFkeSY?si=kp5FVRRYnVCA_gEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
   external_link: "https://sparrso.portal.gov.bd/sites/default/files/files/sparrso.portal.gov.bd/notices/446feb4c_d9a2_42ab_bcd6_80789f64b723/2022-03-15-20-45-e82882d876766976dcbce4fd04fd4315.pdf"
+
+
+- year: "2021"
+  month: "December"
+  title: "Qiskit Gold Level Translator — English to Bengali"
+  description: "Nominated as the junior-most research fellow among the other excellent 55 undergraduate researchers for the project titled 'Disaster Damage Mitigation by Multispectral Remote Sensing Satellite Image Data Analysis: A Deep Learning Approach'."
+  preview_images: 
+    - "/assets/img/awards/qiskit.png"
+  certificate: "https://www.credly.com/badges/19a355e9-928c-49b7-8258-5a7454653f3d/print"
+
+- year: "2021"
+  month: "December"
+  title: "Qiskit Gold Level Translator — English to Bengali"
+  description: "Nominated as the junior-most research fellow among the other excellent 55 undergraduate researchers for the project titled 'Disaster Damage Mitigation by Multispectral Remote Sensing Satellite Image Data Analysis: A Deep Learning Approach'."
+  preview_images: 
+    - "/assets/img/awards/qiskit.png"
+  certificate: "https://www.credly.com/badges/19a355e9-928c-49b7-8258-5a7454653f3d/print"
+
+
+
+
+
 
 
 
