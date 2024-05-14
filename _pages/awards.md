@@ -19,7 +19,20 @@ nav_order: 3
         </div>
         <div class="col-8">
             <h5>{{ award.title }}</h5>
-            <p>{{ award.description }}</p>
+            {% assign show_more = false %}
+            {% assign max_chars = 150 %}
+            {% assign description_length = award.description | size %}
+            {% if description_length > max_chars %}
+                {% assign show_more = true %}
+                {% assign short_description = award.description | slice: 0, max_chars | append: "..." %}
+            {% else %}
+                {% assign short_description = award.description %}
+            {% endif %}
+            <p>{{ show_more == true ? short_description : award.description }}</p>
+            {% if show_more %}
+                <p><a class="read-more" href="#">Read more</a></p>
+                <p class="more-text" style="display:none;">{{ award.description }}</p>
+            {% endif %}
             {% if award.certificate %}
                 <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
                 {% endif %}
