@@ -20,10 +20,10 @@ nav_order: 3
         <div class="col-8">
             <h5>{{ award.title }}</h5>
             <p>{{ award.description }}</p>
-	    {% if award.certificate %}
-            <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
-            {% endif %}
-	    {% if award.pdf %}
+            {% if award.certificate %}
+                <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
+                {% endif %}
+            {% if award.pdf %}
             <p><a href="{{ award.pdf }}" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a></p>
             {% endif %}
             {% if award.facebook %}
@@ -41,14 +41,14 @@ nav_order: 3
             {% if award.external_link %}
             <p><a href="{{ award.external_link }}" target="_blank"><i class="fa-regular fa-link"></i> Link</a></p>
             {% endif %}
-	    {% if award.website %}
-	    <p><a href="{{ award.website }}" target="_blank"><i class="fa-solid fa-globe"></i> Website</a></p>
-            {% endif %}
-	    {% if award.code %}
-	    <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> </a></p>
-            {% endif %}
-            <div class="mb-3">
-                {{ award.embed_post | safe }}
+            {% if award.website %}
+            <p><a href="{{ award.website }}" target="_blank"><i class="fa-solid fa-globe"></i> Website</a></p>
+                {% endif %}
+            {% if award.code %}
+            <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> </a></p>
+                {% endif %}
+                <div class="mb-3">
+                    {{ award.embed_post | safe }}
             </div>
         </div>
     </div>
