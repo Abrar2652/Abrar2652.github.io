@@ -12,7 +12,7 @@
   youtube: "https://www.youtube.com/watch?v=b0qGV40oqnI"
   external_link: "https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695"
   code: "https://github.com/Abrar2652/MIT-SOLVE-2024"
-  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7188926782530555905" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7188926782530555905" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
 - year: "2024"
   month: "April"
@@ -23,20 +23,74 @@ and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
   certificate: "/assets/pdf/awards/cs50x_2024.pdf"
   pdf: "/assets/pdf/awards/"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_cs50puzzleday-teamworkwins-aurora-activity-7184049430352859138-QRAe?utm_source=share&utm_medium=member_desktop"
-  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
+
+- year: "2024"
+  month: "April"
+  title: "Champion | CS50x Puzzle Day, Harvard University | Meta"
+  description: "Led a 5-person international team by fostering diversity & inclusion (Bangladesh, USA, Morocco,
+and Pakistan) and solved advanced 9/9 puzzles (including Metapuzzle)."
+  preview_images: "/assets/img/awards/cs50x_2024.png"
+  certificate: "/assets/pdf/awards/cs50x_2024.pdf"
+  pdf: "/assets/pdf/awards/"
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_cs50puzzleday-teamworkwins-aurora-activity-7184049430352859138-QRAe?utm_source=share&utm_medium=member_desktop"
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
 
 - year: "2023"
-  month: "April"
-  title: "Best Research Paper Award"
-  description: "Awarded for outstanding research contribution in the field of Artificial Intelligence."
-  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
-  pdf: "/assets/pdf/awards/"
-  website: "https://example.com/shared_post_2023"
-  facebook: "https://www.facebook.com/example"
-  linkedin: "https://www.linkedin.com/in/example"
-  twitter: "https://twitter.com/example"
-  youtube: "https://www.youtube.com/user/example"
+  month: "October"
+  title: "NASA Space Apps Challenge — Global Nominee"
+  description: "Led a 5-person team and forecast geomagnetic storms using hybrid deep neural networks from
+satellite data."
+  preview_images: 
+    - "/assets/img/awards/nsac1.png"
+    - "/assets/img/awards/nsac2.png"
+    - "/assets/img/awards/nsac3.png"
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_nasa-spaceappschallenge-globalnominee-activity-7125890251264249856-eFRh?utm_source=share&utm_medium=member_desktop"
+  youtube: "https://youtu.be/IjPK56Batyg"
+  embed_post: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7125890251264249856" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  website: "https://www.spaceappschallenge.org/2023/find-a-team/team-aurora/?tab=project"
+  code: "https://github.com/Abrar2652/NSAC2023-Dst-prediction"
+  
 
+
+
+
+
+
+
+
+
+
+
+# template
+#- year: "2023"
+#  month: "April"
+#  title: "Best Research Paper Award"
+#  description: "Awarded for outstanding research contribution in the field of Artificial Intelligence."
+#  certificate: "/assets/pdf/awards/best_research_paper_2023.pdf"
+#  preview_images: 
+#    - "/assets/img/awards/mit_solve1.png"
+#    - "/assets/img/awards/mit_solve2.png"
+#    - "/assets/img/awards/mit_solve3.png"
+#  pdf: "/assets/pdf/awards/"
+#  website: "https://example.com/shared_post_2023"
+#  facebook: "https://www.facebook.com/example"
+#  linkedin: "https://www.linkedin.com/in/example"
+#  twitter: "https://twitter.com/example"
+#  youtube: "https://www.youtube.com/user/example"
+# embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184049429643997185" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 # Add more awards with similar structure as above
+
+
+
+
+
+
+
+
+
+
+
+
