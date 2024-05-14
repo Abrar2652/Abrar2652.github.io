@@ -7,18 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <h2>Awards and Honors</h2>
-        </div>
-    </div>
-
-    {% assign awards = site.data.awards | sort: 'year' | reverse %}
+    {% assign awards = site.data.awards | sort: 'year' | sort: 'month' | reverse %}
     {% for award in awards %}
     <div class="row mb-4">
         <div class="col-2">
-            <p class="text-muted">{{ award.year }}</p>
+            <p class="text-muted">{{ award.year }} - {{ award.month }}</p>
             <img src="{{ award.preview_image }}" alt="Award Preview" class="img-fluid">
         </div>
         <div class="col-8">
