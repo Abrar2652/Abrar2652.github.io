@@ -13,27 +13,39 @@ nav_order: 3
     <div class="row mb-4">
         <div class="col-2">
             <p class="text-muted">{{ award.year }} - {{ award.month }}</p>
-            <img src="{{ award.preview_image }}" alt="Award Preview" class="img-fluid">
+            {% for image in award.preview_images %}
+            <img src="{{ image }}" alt="Award Preview" class="img-fluid mb-2">
+            {% endfor %}
         </div>
         <div class="col-8">
             <h5>{{ award.title }}</h5>
             <p>{{ award.description }}</p>
-            <p><a href="{{ award.certificate_pdf }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate (PDF)</a></p>
-            <p><a href="{{ award.shared_post_link }}" target="_blank"><i class="fab fa-facebook-square"></i> Shared Post</a></p>
+	    {% if award.certificate %}
+            <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
+            {% endif %}
+	    {% if award.pdf %}
+            <p><a href="{{ award.pdf }}" target="_blank"><i class="fa-solid fa-file-pdf"></i> PDF</a></p>
+            {% endif %}
             {% if award.facebook %}
-                <a href="{{ award.facebook }}" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <p><a href="{{ award.facebook }}" target="_blank"><i class="fab fa-facebook-square"></i> Facebook reference</a></p>
             {% endif %}
             {% if award.linkedin %}
-                <a href="{{ award.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <p><a href="{{ award.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn reference</a></p>
             {% endif %}
             {% if award.twitter %}
-                <a href="{{ award.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+            <p><a href="{{ award.twitter }}" target="_blank"><i class="fab fa-twitter"></i> Twitter reference</a></p>
             {% endif %}
             {% if award.youtube %}
-                <a href="{{ award.youtube }}" target="_blank"><i class="fab fa-youtube"></i></a>
+            <p><a href="{{ award.youtube }}" target="_blank"><i class="fab fa-youtube"></i> YouTube video</a></p>
             {% endif %}
             {% if award.external_link %}
-                <a href="{{ award.external_link }}" target="_blank"><i class="fa-regular fa-link"></i></a>
+            <p><a href="{{ award.external_link }}" target="_blank"><i class="fa-regular fa-link"></i> Link</a></p>
+            {% endif %}
+	    {% if award.website %}
+	    <p><a href="{{ award.website }}" target="_blank"><i class="fa-solid fa-globe"></i> Website</a></p>
+            {% endif %}
+	    {% if award.code %}
+	    <p><a href="{{ award.code }}" target="_blank"><i class="fa-brands fa-square-github"></i> </a></p>
             {% endif %}
         </div>
     </div>
