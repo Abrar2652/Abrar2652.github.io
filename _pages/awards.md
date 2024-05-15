@@ -9,8 +9,6 @@ nav_order: 3
 
 <div class="container">
     {% assign month_map = "January,1|February,2|March,3|April,4|May,5|June,6|July,7|August,8|September,9|October,10|November,11|December,12" | split: "|" %}
-    {% assign mapped_awards = site.data.awards | map: "year" | map: "month" %}
-    {% assign sorted_awards = site.data.awards | sort: "timestamp" | reverse %}
     
     {% assign awards = site.data.awards %}
     {% for award in awards %}
@@ -25,7 +23,7 @@ nav_order: 3
         {% assign award.timestamp = timestamp %}
     {% endfor %}
     
-    {% assign sorted_awards = awards | sort: "timestamp" | reverse %}
+    {% assign sorted_awards = awards | sort: "timestamp" %}
 
     {% for award in sorted_awards %}
     <div class="row mb-4">
@@ -38,8 +36,9 @@ nav_order: 3
         <div class="col-8">
             <h5>{{ award.title }}</h5>
             <p class="award-description">
-                {{ award.description | truncatewords: 30 }}
-                <span class="more-content">{{ award.description }}</span>
+                {{ award.description | truncatewords: 30 }}...
+                <span class="more-content" style="display: none;">{{ award.description | remove_first: award.description | truncatewords: 30 }}</span>
+                <a href="#" class="read-more">Read more</a>
             </p>
             {% if award.certificate %}
                 <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
@@ -73,17 +72,34 @@ nav_order: 3
                     {{ award.embed_post | safe }}
                 </div>
             {% endif %}
+            {% if award.video %}
+                <div class="mb-3">
+                    <video width="300" height="240" controls>
+                      <source src="{{ site.baseurl }}/assets/videos/{{ award.video }}" type="video/mp4">
+                      Your browser does not support the video tag.
+                    </video>
+                </div>
+            {% endif %}
         </div>
     </div>
     {% endfor %}
 </div>
-
 <style>
-    .award-description .more-content {
+    .more-content {
         display: none;
     }
 
-    .award-description.more .more-content {
+    .read-more:after {
+        content: 'Read more';
+        color: blue;
+        cursor: pointer;
+    }
+
+    .read-more.expanded:after {
+        content: 'Show less';
+    }
+
+    .read-more.expanded + .more-content {
         display: inline;
     }
 </style>
