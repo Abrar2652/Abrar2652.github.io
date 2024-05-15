@@ -28,7 +28,17 @@
 - year: "2023"
   month: "October"
   title: "NASA Space Apps Challenge — Global Nominee"
-  description: "Led a 5-person team and forecast geomagnetic storms using hybrid deep neural networks from satellite data."
+  description: "Led a 5-person team and forecast geomagnetic storms using hybrid deep neural networks from satellite data.
+
+On October 7-8, 2023, history was made as we participated in the largest hackathon of its kind, with 57,900+ brilliant minds from 152 countries/territories coming together to tackle 30 challenges using free and open data from NASA and their 13 Space Agency Partners.🌍
+
+Out of thousands of teams worldwide, only 587 were selected for global nomination. During the Global Judging phase, our project was reviewed by expert judges from NASA and the NASA Space Agency Partners. Their votes determined the "Global Finalists." We proudly represented our country, Bangladesh, as a Global Nominee internationally. 🏆This marked my final competition of undergraduate life, and the journey had been nothing short of stellar. I've always aimed for the stars, not the moon, and as a Team Leader, my team never lost any international competitions – we've at least made it to the finals! 🌠
+
+Appendix:
+
+Our Challenge: 'Develop the Oracle of DSCOVR'
+Difficulty Level: Advanced
+Project Title: Forecasting Geomagnetic Storms From Satellite Data Using Deep Learning"
   preview_images: 
     - "/assets/img/awards/nsac1.png"
     - "/assets/img/awards/nsac2.png"
@@ -37,7 +47,7 @@
   youtube: "https://youtu.be/IjPK56Batyg"
   website: "https://www.spaceappschallenge.org/2023/find-a-team/team-aurora/?tab=project"
   code: "https://github.com/Abrar2652/NSAC2023-Dst-prediction"
-  
+  embed_post: '<iframe width="560" height="315" src="https://www.youtube.com/embed/IjPK56Batyg?si=_ph0FaYKJWiogLi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
 
 - year: "2023"
   month: "November"
@@ -95,7 +105,7 @@ Words can hardly express the emotions that were swirling within me at that momen
   external_link: "https://www.slideshare.net/MdAbrarJahin/entrepret-season2-grand-finale-bdheroes"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_nsu-yes-would-like-to-express-its-heartiest-activity-6809830208313667585-zxyl?utm_source=share&utm_medium=member_desktop"
   embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6809137071144386560" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
-  video: "bdheroes.mp4"
+  website: "assets/video/bdheroes.mp4"
 
 - year: "2021"
   month: "May"

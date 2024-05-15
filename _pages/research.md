@@ -117,7 +117,7 @@ images:
 
 ## Peer Review Experiences
 
-Performed a total of 6 journal reviews verified by Web of Science, as of May 2024 [Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022).
+Performed a total of 6 journal reviews verified by Web of Science, as of May 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 * IEEE Access
 * Journal of Contemporary African Studies
 

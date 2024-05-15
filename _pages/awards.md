@@ -75,12 +75,6 @@ nav_order: 3
                     {{ award.embed_post | safe }}
                 </div>
             {% endif %}
-            {% if award.video %}
-                <div class="mb-3">
-                    <video width="100%" height="300" controls>
-                      <source src="/assets/video/{{ award.video }}" type="video/mp4">
-                </div>
-            {% endif %}
         </div>
     </div>
     {% endfor %}
