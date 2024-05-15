@@ -81,7 +81,8 @@ nav_order: 3
             {% endif %}
             {% if award.video %}
                 <div class="mb-3">
-        	    {% include video.html path="assets/video/{{ award.video }}" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+                    <video width="100%" height="300" controls>
+                      <source src="/assets/video/{{ award.video }}" type="video/mp4">
                 </div>
             {% endif %}
         </div>
