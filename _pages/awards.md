@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: Awards
-description: Noteworthy honors and awards Md Abrar Jahin received.
+description: Noteworthy honors and awards Md Abrar Jahin received in reversed chronological order.
 nav: true
 nav_order: 3
 ---

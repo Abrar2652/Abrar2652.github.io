@@ -1,47 +1,105 @@
-"Hutchinson":
-  - firstname: ["Brian"]
-    url: https://facultyweb.cs.wwu.edu/~hutchib2/
+"Jahin":
+  - firstname: ["Md Abrar", "M. A."]
+    url: "https://g.co/kgs/zXYNToh"
 
-"Ayala":
-  - firstname: ["Alex"]
-    url: https://alexayalamcs.github.io/
+"Mridha":
+  - firstname: ["M. F.", "Dr. M. Firoz"]
+    url: "https://cs.aiub.edu/profile/firoz.mridha"
 
-"Nieva":
-  - firstname: "Brenna"
-    url: https://brennanieva.com/#home
+"Saha":
+  - firstname: ["Anik Kumar"]
+    url: "https://www.linkedin.com/in/aniksaha2645/"
 
-"Tebaldi":
-  - firstname: "Claudia"
-    url: https://eesa.lbl.gov/profiles/claudia-tebaldi/
+"Prottoy":
+  - firstname: ["Raihan Rafi"]
+    url: "https://www.linkedin.com/in/raihan-rafi-prottoy-9b4814274"
 
-"Kravitz":
-  - firstname: "Ben"
-    url: https://climatemodeling.earth.indiana.edu/
+"Naife":
+  - firstname: ["Saleh Akram"]
+    url: "https://www.linkedin.com/in/saleh-akram-naife-97b3ab227/"
 
-"Daw":
-  - firstname: "Chris"
-    url: http://www.chrisdaw.net/
+"Abid":
+  - firstname: ["Adiba"]
+    url: "https://www.linkedin.com/in/adiba-abid-21b2a3244/"
 
-"Kahng":
-- firstname: "Minsuk"
-  url: https://minsuk.com/
+"Rafiquzzaman":
+  - firstname: ["Md"]
+    url: "https://scholar.google.com/citations?user=EiswS3kAAAAJ&hl=en"
 
-"Lee":
-  - firstname: "Stefan"
-    url: https://web.engr.oregonstate.edu/~leestef/
+"Shovon":
+- firstname: ["Md Sakib Hossain"]
+  url: "https://scholar.google.com/citations?user=9VM2SHYAAAAJ&hl=en"
 
-"Cohen":
-  - firstname: "Scott"
-    url: https://research.adobe.com/person/scott-cohen/
+"Shin":
+  - firstname: ["Jungpil"]
+    url: "https://u-aizu.ac.jp/~jpshin/"
 
-"Kafle":
-  - firstname: "Kushal"
-    url: https://kushalkafle.com/
+"Islam":
+  - firstname: ["Md. Saiful"]
+    url: "https://scholar.google.com/citations?user=PsHZ75wAAAAJ&hl=en"
 
-"Pazdernik":
-  - firstname: "Karl"
-    url: "https://www.pnnl.gov/people/karl-pazdernik"
+"Talapatra":
+  - firstname: ["Subrata"]
+    url: "https://scholar.google.com/citations?user=QqKgag0AAAAJ&hl=en"
 
-"Claborne":
-  - firstname: "Daniel"
-    url: "https://www.pnnl.gov/people/daniel-claborne"
+"Okuyama":
+  - firstname: ["Yoichi"]
+    url: "https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en"
+
+"Hussain":
+  - firstname: ["Mohammad"]
+    url: "https://scholar.google.com/citations?user=hFwvdQcAAAAJ&hl=en"
+
+"Žifčáková":
+  - firstname: ["Lucia"]
+    url: "https://www.researchgate.net/profile/Lucia-Zifcakova"
+
+"Miller":
+  - firstname: ["Jonathan"]
+    url: "https://groups.oist.jp/pbu/jonathan-miller"
+
+"Krutsylo":
+  - firstname: ["Andrii"]
+    url: "https://scholar.google.com/citations?user=eRne4bwAAAAJ&hl=en"
+
+"Nahian":
+  - firstname: ["Md Jaber Al"]
+    url: "https://scholar.google.com/citations?user=xlMn5WYAAAAJ&hl=en"
+
+"Ridoy":
+  - firstname: ["Istiyaque Ahmed"]
+    url: "https://bd.linkedin.com/in/i6ty3"
+
+"Anjum":
+  - firstname: ["Nafisa"]
+    url: "https://scholar.google.com/citations?user=Svhl0V4AAAAJ&hl=en"
+
+"Ahmad":
+  - firstname: ["Kazrin"]
+    url: "https://scholar.google.com/citations?user=7wZm15IAAAAJ&hl=en"
+
+"Hossain":
+  - firstname: ["Mosaddek", "Mosaddeq"]
+    url: "https://scholar.google.com/citations?user=Hj2_ih4AAAAJ&hl=en"
+
+"Wadud":
+  - firstname: ["Md Sharjis Ibne"]
+    url: "https://www.du.ac.bd/faculty/faculty_details/BIOPHY/54494"
+
+"Uddin":
+  - firstname: ["Mohammad Istiaq"]
+    url: "https://scholar.google.com/citations?user=UQG9_CgAAAAJ&hl=en"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
