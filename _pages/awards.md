@@ -7,10 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
 
 <div class="container">
     {% assign month_map = "January,1|February,2|March,3|April,4|May,5|June,6|July,7|August,8|September,9|October,10|November,11|December,12" | split: "|" %}

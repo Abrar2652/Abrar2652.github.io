@@ -30,7 +30,7 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    This initiative was taken to compile a playlist of key Operations Research topics, tailored for 3rd-year IPE undergraduates, with a special focus on material from Prof. Taha's book. Find the full playlist [here](https://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E).
+    This initiative was taken to compile a playlist of key Operations Research topics, tailored for 3rd-year IPE undergraduates, with a special focus on material from Prof. Taha's book. Find the full playlist <a href="https://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E" target="_blank">here</a>.
 </div>
 
 <!--
