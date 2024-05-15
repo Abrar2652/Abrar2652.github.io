@@ -36,9 +36,11 @@ nav_order: 3
         <div class="col-8">
             <h5>{{ award.title }}</h5>
             <p class="award-description">
-                {{ award.description | truncatewords: 30 }}...
-                <span class="more-content" style="display: none;">{{ award.description | remove_first: award.description | truncatewords: 30 }}</span>
-                <a href="#" class="read-more">Read more</a>
+                <span id="awardDescription{{ forloop.index }}" class="award-description truncated">{{ award.description | truncatewords: 30 }}</span>
+                <span id="awardDescriptionFull{{ forloop.index }}" class="award-description-full" style="display: none;">{{ award.description }}</span>
+                {% if award.description | size > 30 %}
+                <button onclick="toggleDescription({{ forloop.index }})" id="toggleBtn{{ forloop.index }}" class="toggle-btn">Read more</button>
+                {% endif %}
             </p>
             {% if award.certificate %}
                 <p><a href="{{ award.certificate }}" target="_blank"><i class="fa-solid fa-award"></i> Certificate</a></p>
@@ -84,22 +86,42 @@ nav_order: 3
     </div>
     {% endfor %}
 </div>
+
+
 <style>
-    .more-content {
+    .award-description-full {
         display: none;
     }
 
-    .read-more:after {
-        content: 'Read more';
-        color: blue;
+    .toggle-btn {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 5px 10px;
         cursor: pointer;
-    }
-
-    .read-more.expanded:after {
-        content: 'Show less';
-    }
-
-    .read-more.expanded + .more-content {
-        display: inline;
+        border-radius: 5px;
     }
 </style>
+
+<script>
+    function toggleDescription(index) {
+        var description = document.getElementById('awardDescription' + index);
+        var fullDescription = document.getElementById('awardDescriptionFull' + index);
+        var btn = document.getElementById('toggleBtn' + index);
+
+        if (description.style.display === "none") {
+            description.style.display = "inline";
+            fullDescription.style.display = "none";
+            btn.innerHTML = "Read more"; 
+        } else {
+            description.style.display = "none";
+            fullDescription.style.display = "inline";
+            btn.innerHTML = "Read less"; 
+        }
+    }
+</script>
+
+
+
+
+
