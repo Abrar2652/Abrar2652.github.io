@@ -77,7 +77,7 @@ nav_order: 3
             {% if award.video %}
                 <div class="mb-3">
                     <video width="300" height="240" controls>
-                      <source src="{{ site.baseurl }}/assets/videos/{{ award.video }}" type="video/mp4">
+                      <source src="/assets/videos/{{ award.video }}" type="video/mp4">
                       Your browser does not support the video tag.
                     </video>
                 </div>
