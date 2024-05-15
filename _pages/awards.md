@@ -62,7 +62,7 @@ nav_order: 3
                 <p><a href="{{ award.youtube }}" target="_blank"><i class="fab fa-youtube"></i> YouTube video</a></p>
             {% endif %}
             {% if award.external_link %}
-                <p><a href="{{ award.external_link }}" target="_blank"><i class="fa-regular fa-link"></i> Link</a></p>
+                <p><a href="{{ award.external_link }}" target="_blank"><i class="fa-solid fa-up-right-from-square"></i> Link</a></p>
             {% endif %}
             {% if award.website %}
                 <p><a href="{{ award.website }}" target="_blank"><i class="fa-solid fa-globe"></i> Website</a></p>
