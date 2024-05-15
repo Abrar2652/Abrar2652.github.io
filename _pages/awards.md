@@ -76,10 +76,7 @@ nav_order: 3
             {% endif %}
             {% if award.video %}
                 <div class="mb-3">
-                    <video width="300" height="240" controls>
-                      <source src="/assets/videos/{{ award.video }}" type="video/mp4">
-                      Your browser does not support the video tag.
-                    </video>
+        	    {% include video.html path="assets/videos/{{ award.video }}" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
                 </div>
             {% endif %}
         </div>
