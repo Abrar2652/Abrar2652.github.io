@@ -62,7 +62,8 @@ Words can hardly express the emotions that were swirling within me at that momen
   preview_images: 
     - "/assets/img/awards/ssc.jpg"
   pdf: "/assets/pdf/awards/ssc2.pdf"
-
+  linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_deansaward-success-undergradschool-activity-7023628288740794368-mdWO?utm_source=share&utm_medium=member_desktop"
+  embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023628288082264064" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
 - year: "2022"
   month: "March"
@@ -97,9 +98,15 @@ Words can hardly express the emotions that were swirling within me at that momen
 
 
 - year: "2021"
-  month: " "
+  month: "May"
   title: "Top 500 — Google Android App Developer Challenge 2021"
-  description: "Engineered a countdown timer app on Android Studio with Jetpack Compose Beta using Kotlin language."
+  description: "Engineered a countdown timer app on Android Studio with Jetpack Compose Beta using Kotlin language.
+
+My belief in the 'What I touch becomes Gold' theory proved true as my passion for programming converged into the creation of this innovative app. Despite not having an extensive background in these fields and not being affiliated with any relevant department at my university, I chased after my diverse interests with determination.
+
+As a sophomore year undergraduate student from Bangladesh, achieving recognition alongside professional Android developers was a remarkable feat. I am proud to have defied conventions and proved that age is no barrier when it comes to passion and dedication. Developing this app using Jetpack Compose Beta version was a bold step for me. However, I embraced the challenge and pushed myself to create something exceptional.
+
+The recognition for my efforts came with delightful rewards. I was gifted a Jetpack Compose poster and a set of limited Android Faber-Castell pencils for my own stress-relieving coloring experience. Additionally, I received a limited edition Jetpack Compose comic strip poster, celebrating Team Jetpack's triumph over bad UI and saving the galaxy."
   preview_images: 
     - "/assets/img/awards/android_dev.jpg"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_growwithgoogle-androiddevelopers-androiddevchallenge-activity-6793095943542730753-3HWX?utm_source=share&utm_medium=member_desktop"
@@ -110,7 +117,7 @@ Words can hardly express the emotions that were swirling within me at that momen
 - year: "2021"
   month: "March"
   title: "Global Champion | Smart Roads — Winter Road Maintenance Hackathon | UiT-The Arctic University of Norway"
-  description: "Executed a 2-person team and devised an ML model to forecast winter road friction and was offered a 1-month research internship at UiT - The Arctic University of Norway. We won in the Weather Challenge category in which our model model predicted if the road is safe or dangerous with 76.67% accuracy for driving in the Barents-Euro-Arctic region."
+  description: "Led a 2-person team and developed an ML model to forecast winter road friction and was offered a 1-month research internship at UiT - The Arctic University of Norway. We won in the Weather Challenge category in which our model model predicted if the road is safe or dangerous with 76.67% accuracy for driving in the Barents-Euro-Arctic region. The recognition for our outstanding achievement was accompanied by well-deserved rewards. Each member of our winning team was honored with a $50 Amazon gift card, a token of appreciation for our dedication and hard work."
   preview_images: 
     - "/assets/img/awards/dit4bears.png"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_growwithgoogle-androiddevelopers-androiddevchallenge-activity-6793095943542730753-3HWX?utm_source=share&utm_medium=member_desktop"
@@ -150,6 +157,7 @@ Words can hardly express the emotions that were swirling within me at that momen
 - year: "2020"
   month: "July"
   title: "Gold Honor — Ranked top 3% — IAAC"
+  description: "After the Qualification and Pre-Final rounds, I advanced to the Final Round of the International Youth Math Challenge. The final round consisted of 40 multiple-choice questions, each to be answered within one minute in an online proctored exam. I correctly answered 33 questions, placing me in the top 3% of all participants and earning me the Gold Honor. In 2020, only seven finalists from Bangladesh received the Gold Honor, and I was one of them."
   certificate: "/assets/pdf/awards/iaac_final.pdf"
   preview_images: 
     - "/assets/img/awards/iaac.png"
@@ -161,7 +169,7 @@ Words can hardly express the emotions that were swirling within me at that momen
 - year: "2020"
   month: "April"
   title: "Champion | CS50x Puzzle Day (Spring), Harvard University"
-  description: "Led a 3-person international team by fostering diversity & inclusion (Bangladesh, Brazil, and India) and solved advanced 8/8 puzzles"
+  description: "Led a 3-person international 'Team Aurora' by fostering diversity & inclusion (Bangladesh, Brazil, and India) and solved advanced 8/8 puzzles"
   certificate: "https://cs50.harvard.edu/certificates/60c31661-ec0e-4883-beeb-6c5523521c5d"
   preview_images: 
     - "/assets/img/awards/cs50x_2020_spring.png"
@@ -172,7 +180,7 @@ Words can hardly express the emotions that were swirling within me at that momen
 - year: "2020"
   month: "April"
   title: "International Asteroid Search Collaboration — NASA"
-  description: "Administered a 4-person team and discovered 2 main belt asteroids by analyzing Pan-STARRS images using Astrometrica software.
+  description: "Administered a 4-person team 'Aurora' and discovered 2 main belt asteroids by analyzing Pan-STARRS images using Astrometrica software.
 
 The IASC was established to address the need for continuous monitoring and identification of near-Earth objects (NEOs), which could potentially pose a threat to Earth. By involving students and amateur astronomers in the search for these objects, the campaign not only contributes valuable data to the scientific community but also provides participants with a unique opportunity to engage in hands-on scientific research. In April 2020, my team successfully identified 2 previously unknown asteroids."
   certificate: "/assets/pdf/awards/iasc.pdf"
@@ -186,7 +194,7 @@ The IASC was established to address the need for continuous monitoring and ident
 - year: "2019"
   month: "December"
   title: "Gold Honor — Ranked top 5% — IYMC"
-  description: ""
+  description: "My correct answers to the easy, hard, and research questions in the Pre-Final round qualified me for the Final Round. I took the final exam under the supervision of a teacher, consisting of 60 multiple-choice questions. Successfully passing this exam, I was awarded the Gold Honor."
   certificate: "/assets/pdf/awards/iymc_final.pdf"
   preview_images: 
     - "/assets/img/awards/iymc.png"
@@ -199,38 +207,34 @@ The IASC was established to address the need for continuous monitoring and ident
 
 
 - year: "2018"
-  description: "awarded a talent pool scholarship worth 300 BDT per month from January 1, 2014, to December 31, 2015"
+  description: "Awarded a talent pool scholarship worth 375 BDT per month from January 1, 2014, to December 31, 2015"
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/hsc1.pdf"
   preview_images: 
-    - "/assets/img/awards/hsc.JPG"
-  pdf: "/assets/pdf/awards/hsc2.pdf"
+    - "/assets/img/awards/hsc.jpg"
+  pdf: "/assets/pdf/awards/hsc.pdf"
 
 
 - year: "2016"
-  month: ""
+  description: "Awarded a 'General' scholarship worth 350 BDT per month from January 1, 2017, to December 31, 2018"
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/ssc1.pdf"
   preview_images: 
-    - "/assets/img/awards/ssc.JPG"
-  pdf: "/assets/pdf/awards/ssc2.pdf"
+    - "/assets/img/awards/ssc.jpg"
+  pdf: "/assets/pdf/awards/ssc.pdf"
 
 
 - year: "2013"
-  month: ""
+  description: "Awarded a 'Talent Pool' scholarship worth 300 BDT per month from January 1, 2014, to December 31, 2015"
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/jsc1.pdf"
   preview_images: 
-    - "/assets/img/awards/jsc.JPG"
+    - "/assets/img/awards/jsc.jpg"
   pdf: "/assets/pdf/awards/jsc2.pdf"
 
 
 - year: "2010"
-  description: "Placed 17th in the Rajshahi board in the Government Primary School Certificate Board Exams and was awarded a talent pool scholarship worth 300 BDT per month from January 1, 2014, to December 31, 2015."
+  description: "Placed 17th in the Rajshahi board in the Government Primary School Certificate Board Exams and was awarded a 'Talent Pool' scholarship worth 300 BDT per month from January 1, 2011, to December 31, 2012."
   title: "Government Board Merit-based Scholarship"
-  certificate: "/assets/pdf/awards/psc1.pdf"
   preview_images: 
-    - "/assets/img/awards/psc.JPG"
+    - "/assets/img/awards/psc.jpg"
   pdf: "/assets/pdf/awards/psc2.pdf"
 
 
