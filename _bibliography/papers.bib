@@ -1,3 +1,20 @@
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the _data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+
 
 @misc{jahin_dit4bears_2021,
   	bibtex_show={true},
@@ -15,6 +32,7 @@
 	note = {arXiv:2107.06755 [cs]},
 	keywords = {Computer Science - Machine Learning},
 	annote = {Comment: 6 pages},
+	altmetric = {true}
   	preview={jahin_dit4bears_2021.jpg},
 }
 
@@ -31,6 +49,7 @@
 	author = {Žifčáková, Lucia and Jahin, Md Abrar and Miller, Jonathan},
 	month = dec,
 	year = {2022},
+	altmetric = {true}
   	preview={zifcakova_perfectly_2022.jpg},
 }
 
@@ -50,6 +69,7 @@
 	month = may,
 	year = {2023},
 	keywords = {Deep learning, COVID-19, Artificial Intelligence, Review, Ultrasound},
+	altmetric = {true}
   	preview={morshed_ultrasound-based_2023.gif},
 }
 
@@ -67,6 +87,7 @@
 	month = may,
 	year = {2023},
 	note = {Publisher: Mendeley Data},
+	altmetric = {true}
   	preview={jahin_extended_2023.png},
 }
 
@@ -93,6 +114,7 @@ Publisher: Nature Publishing Group},
 	keywords = {Mathematics and computing, Engineering},
 	pages = {18246},
   	preview={jahin_qamplifynet_2023.png},
+	altmetric = {true}
   	selected={true}
 }
 
@@ -113,6 +135,7 @@ Publisher: Nature Publishing Group},
 	year = {2024},
 	note = {arXiv:2401.10895 [cs]},
 	keywords = {Computer Science - Machine Learning, Computer Science - Computational Engineering, Finance, and Science},
+	altmetric = {true}
   	preview={jahin_ai_2024.gif}
 
 }
@@ -134,6 +157,7 @@ Publisher: Nature Publishing Group},
 	year = {2023},
 	note = {arXiv:2309.12350 [cs]},
 	keywords = {Computer Science - Human-Computer Interaction},
+	altmetric = {true}
   	preview={shahriar_exploring_2023.jpg},
 }
 
@@ -153,6 +177,7 @@ Publisher: Nature Publishing Group},
 	month = jul,
 	year = {2023},
 	keywords = {comparative genomics, human-mouse genomes, pcs, perfectly conserved sequences, ucsc},
+	altmetric = {true}
   	preview={zifcakova_perfectly_2023.gif},
 }
 
@@ -170,6 +195,7 @@ Publisher: Nature Publishing Group},
 	month = feb,
 	year = {2024},
 	note = {Publisher: Mendeley Data},
+	altmetric = {true}
   	preview={jahin_anthropometric_2024.png},
 }
 
@@ -190,6 +216,7 @@ Publisher: Nature Publishing Group},
 	year = {2024},
 	note = {arXiv:2403.05589 [cs]},
 	keywords = {Computer Science - Artificial Intelligence, Computer Science - Human-Computer Interaction},
+	altmetric = {true}
   	preview={saha_ergonomic_2024.gif},
 }
 
@@ -209,6 +236,7 @@ Publisher: Nature Publishing Group},
 	month = mar,
 	year = {2024},
   	preview={jahin_big_2024.png},
+	altmetric = {true}
   	selected={true}
 }
 
@@ -225,6 +253,7 @@ Publisher: Nature Publishing Group},
 	month = may,
 	year = {2023},
 	note = {Publisher: Mendeley Data},
+	altmetric = {true}
   	preview={jahin_survey_2023.jpg},
 
 }
@@ -242,6 +271,7 @@ Publisher: Nature Publishing Group},
 	author = {Rahman, Md. Mahfuzur and Jahin, Md Abrar and Islam, Md. Saiful and Mridha, M. F. and Shin, Jungpil},
 	month = apr,
 	year = {2024},
+	altmetric = {true}
   	preview={rahman_qcdc-dr-ga_2024.jpg},
 
 }
@@ -263,6 +293,7 @@ Publisher: Nature Publishing Group},
 	year = {2024},
 	note = {arXiv:2404.00297 [cs]},
 	keywords = {Computer Science - Machine Learning, Computer Science - Computation and Language},
+	altmetric = {true}
   	preview={jahin_trabsa_2024.png},
   	selected={true}
 }
@@ -283,6 +314,7 @@ Publisher: Nature Publishing Group},
 	year = {2024},
 	note = {arXiv:2403.15594 [cs]},
 	keywords = {Computer Science - Machine Learning, Computer Science - Computers and Society},
+	altmetric = {true}
   	preview={jahin_analyzing_2024.png},
 
 }
@@ -301,6 +333,7 @@ Publisher: Nature Publishing Group},
 	month = apr,
 	year = {2024},
 	note = {Publisher: Mendeley Data},
+	altmetric = {true}
   	preview={jahin_patient_2024.png},
 
 }
@@ -321,6 +354,7 @@ Publisher: Nature Publishing Group},
 	year = {2024},
 	keywords = {Machine learning, Risk factors, Occupational health and safety, Natural Language Processing (NLP), Musculoskeletal Disorder (MSD)},
 	pages = {100464},
+	altmetric = {true}
   	preview={jahin_natural_2024.jpg},
   	selected={true}
 }
@@ -339,6 +373,7 @@ Publisher: Nature Publishing Group},
 	month = feb,
 	year = {2024},
 	note = {Publisher: Mendeley Data},
+	altmetric = {true}
   	preview={jahin_bangladeshi_2024.png},
 
 }
