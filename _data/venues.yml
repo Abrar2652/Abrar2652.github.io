@@ -1,17 +1,20 @@
-"CVPR":
+"Nature Sci. Rep.":
   url: https://cvpr.thecvf.com/
 
-"NeurIPS":
+"Decis. Anal.":
   url: https://nips.cc/
 
-"ICCV":
+"Arch. Comput. Methods Eng.":
   url: https://iccv2023.thecvf.com/
 
-"ICLR":
+"arXiv":
   url: https://iclr.cc/
 
-"AAAI":
+"Mendeley":
   url: https://aaai.org/conference/aaai/
 
-"NOAA":
+"Preprints":
+  url: https://www.noaa.gov/
+
+"TechRxiv":
   url: https://www.noaa.gov/
