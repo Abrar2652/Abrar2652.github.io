@@ -87,6 +87,18 @@ images:
 
 <br>
 
+| Research Camp 02 | May 2022 - Mar 2023 |
+|:--------------------------|--------------------------|
+| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
+| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
+| _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (MASc in Biomedical Engineering, University of British Columbia; PhD in Biomedical Engineering, Harvard) |
+| _Experiences:_   |  |
+| ■ Collaborated with 17 fellow researchers on a project titled "Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies" |
+| ■ Contributed to writing the original manuscript, software implementation, data curation, and successfully submitting to a journal |
+
+
+<br>
+
 | Research Intern       | Oct 2021 - Mar 2022 |
 |:--------------------------|--------------------------|
 | **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
