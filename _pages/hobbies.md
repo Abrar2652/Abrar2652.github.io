@@ -19,16 +19,18 @@ Participating in ML hackathons and business competitions is an exhilarating expe
 All of my business case solutions from my undergraduate years are available on [SlideShare](https://www.slideshare.net/MdAbrarJahin){:target="_blank"}. In April 2024, as the _Founder & AI Researcher_ of *SpecX*, I submitted our solution for the **MIT Solve Challenge 2024**. You can find our solution [here](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"}.
 
 **Research Supervision:**
-In addition to conducting individual research, I mentor enthusiastic students from four Bangladeshi universities: KUET, RUET, SUST, and BRAC. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
+In addition to conducting individual research, I mentor enthusiastic students from four Bangladeshi universities: KUET, RUET, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
 
 _Current Students_:
-* Saleh Akram Naife
-* Adiba Abid
-* Sadman Mohammad Nasif
-* Fatema Tuj Johora Lima
-* Noshin Nawal Neha
-* Mushfirat Mohaimin
-* Afia Maimuna Easha
+* Saleh Akram Naife (KUET)
+* Adiba Abid (KUET)
+* Sadman Mohammad Nasif (KUET)
+* MD Zaid Hossain (KUET)
+* Ashraf Raiyan (KUET)
+* Fatema Tuj Johora Lima (SUST)
+* Noshin Nawal Neha (RUET)
+* Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
+* Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
 
 
 **Lead Guitar:**
@@ -77,7 +79,9 @@ In the past, I enjoyed occasional ventures into painting, particularly abstract 
         {% include figure.html loading="eager" path="assets/img/paint2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+    I completed these abstract paintings for the Inter House Wall Magazine Competition 2015, Nazrul House, Mirzapur Cadet College, Bangladesh.
+</div>
 
 
 

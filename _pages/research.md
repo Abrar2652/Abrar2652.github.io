@@ -84,13 +84,16 @@ images:
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
 | _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |  |
 |Collaborators: [Dr. Lucia Zifcakova](https://www.researchgate.net/profile/Lucia-Zifcakova){:target="_blank"}, [Dr. Priscila Do Nascimento Biller](https://scholar.google.com/citations?user=WcCd_BoAAAAJ&hl=it){:target="_blank"}, [Dr. Zdenek Lajbner](https://scholar.google.com/citations?user=9R_ewDcAAAAJ){:target="_blank"}, and [Dr. Reuven Pnini](https://scholar.google.com/citations?user=RVC1fEsAAAAJ&hl=en){:target="_blank"}| |
+| ■ Critically analyzed and visually represented all potential combinations of inter-gap segments (IGS), ancestral repeats (ARs), and contiguous mismatched ARs in human/mouse and human/gorilla genome alignments, focusing on both DNAs and repetitive sequences| |
+| ■ Successfully replicated the findings of the neutral indel model proposed by Lunter, Pointing, and Hein (2006)| |
+
 
 <br>
 
 | Research Camp 02 | May 2022 - Mar 2023 |
 |:--------------------------|--------------------------|
 | **Scholarship School BD, Bangladesh** |  |
-| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
+| _Research topic:_ Ultrasound-Based AI for COVID-19 Detection |  |
 | _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (Post-doctoral Research Fellow at Image, Informatics & Intelligence Research Lab, Harvard Medical School; PhD in Biomedical Eng., UBC Canada; MASc in Biomedical Eng., UBC) |
 | _Experiences:_   |  |
 | ■ Led the research team of 17 fellow researchers on a project titled "[Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://www.preprints.org/manuscript/202303.0296/v3)" |
