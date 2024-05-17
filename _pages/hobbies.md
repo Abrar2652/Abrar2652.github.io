@@ -11,6 +11,9 @@ horizontal: false
 **Problem Solving:**
 I find immense pleasure in honing my problem-solving skills through daily sessions of [Lumosity](https://www.lumosity.com/en/){:target="_blank"} brain games. These researcher-designed games challenge and improve my short-term memory, working memory, information processing speed, cognitive function, and fluid reasoning. Additionally, I used to participate in competitive programming contests such as Codeforces, Google Kickstart, and HashCode, where I pushed the boundaries of my problem-solving abilities.
 
+**Online Learning and Continuing Education:**
+My thirst for knowledge in my research domain drives me to engage in continuous learning. I regularly follow online blogs such as *Towards Data Science*, *Medium*, and *Kaggle Notebooks*, and stay updated with the latest state-of-the-art research on *ResearchGate*. Additionally, I take courses on platforms like *DataCamp*, *edX*, and *Coursera*. This commitment to ongoing education helps me stay current and competitive with the latest research trends in my field. My online course certificates are showcased on my LinkedIn profile.
+
 **Contribution as a Peer Reviewer:**
 I actively contribute to the academic community as a referee for esteemed Q1 journals. My commitment to reviewing scholarly work allows me to play a crucial role in maintaining the quality and rigor of research publications. By providing constructive feedback and insightful evaluations, I contribute to the advancement of knowledge within my field. Check out my peer review recognition by Web of Science [here](https://www.webofscience.com/wos/author/record/AFE-0313-2022 "WoS Profile"){:target="_blank"}.
 
@@ -86,7 +89,6 @@ In the past, I enjoyed occasional ventures into painting, particularly abstract 
 <div class="caption">
     I completed these abstract paintings for the Inter House Wall Magazine Competition 2015, Nazrul House, Mirzapur Cadet College, Bangladesh.
 </div>
-
 
 
 
