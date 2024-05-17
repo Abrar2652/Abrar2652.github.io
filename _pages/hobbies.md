@@ -24,8 +24,8 @@ In addition to conducting individual research, I mentor enthusiastic students fr
 _Current Students_:
 * Saleh Akram Naife
 * Adiba Abid
+* Sadman Mohammad Nasif
 * Fatema Tuj Johora Lima
-* Tabassum Tanzim
 * Noshin Nawal Neha
 * Mushfirat Mohaimin
 * Afia Maimuna Easha
@@ -34,5 +34,59 @@ _Current Students_:
 **Lead Guitar:**
 Another passion of mine is playing lead guitar. My musical journey began with acoustic guitar in class 8, and I gradually immersed myself in the enchanting world of *progressive rock, heavy metal, and alternative-rock* genres. I've performed on various college and university stages, showcasing my love for music. To express my passion for lead guitar, I've a personal [Youtube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share my guitar covers and musical explorations.
 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/dTHWqUkjwOQ?si=HKCfEu_UlcUaJa7w" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/tcLQGAIH_64?si=nhkBWvLeRecpuq9u" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/6v9iUr8WBgw?si=HI7NMRswrLPNhcJV" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Some of my cool guitar instrumentals that might give you goosebumps.
+</div>
+
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/MlyIHNj_AjI?si=EpcEyjXOdVut4O5z" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/tNK2QxJcBMw?si=BcyqmuartsIxz811" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    My mentionable stage performances with skillful guitar solos.
+</div>
+
+
 **Painting:**
 In the past, I enjoyed occasional ventures into painting, particularly abstract pieces created with watercolors. I participated in Inter House Painting Competitions and contributed to the Wall Magazine Competition back in my college days (2012-2018), an endeavor involving various art and literary content.
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/paint1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/paint2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

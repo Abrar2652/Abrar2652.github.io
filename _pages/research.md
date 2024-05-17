@@ -89,11 +89,11 @@ images:
 
 | Research Camp 02 | May 2022 - Mar 2023 |
 |:--------------------------|--------------------------|
-| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
+| **Scholarship School BD, Bangladesh** |  |
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
-| _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (MASc in Biomedical Engineering, University of British Columbia; PhD in Biomedical Engineering, Harvard) |
+| _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (Post-doctoral Research Fellow at Image, Informatics & Intelligence Research Lab, Harvard Medical School; PhD in Biomedical Eng., UBC Canada; MASc in Biomedical Eng., UBC) |
 | _Experiences:_   |  |
-| ■ Collaborated with 17 fellow researchers on a project titled "Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies" |
+| ■ Led the research team of 17 fellow researchers on a project titled "[Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://www.preprints.org/manuscript/202303.0296/v3)" |
 | ■ Contributed to writing the original manuscript, software implementation, data curation, and successfully submitting to a journal |
 
 
@@ -135,6 +135,7 @@ Performed a total of 6 journal reviews verified by Web of Science, as of May 202
 
 
 
+## Undergraduate Thesis
 
 
 
