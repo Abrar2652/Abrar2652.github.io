@@ -55,11 +55,15 @@ Another passion of mine is playing lead guitar. My musical journey began with ac
 
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/MlyIHNj_AjI?si=EpcEyjXOdVut4O5z" class="img-fluid rounded z-depth-1" %}
+    <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+	        {% include video.html path="https://www.youtube.com/embed/MlyIHNj_AjI?si=EpcEyjXOdVut4O5z" class="img-fluid rounded z-depth-1" %}
+    	</div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
         {% include video.html path="https://www.youtube.com/embed/tNK2QxJcBMw?si=BcyqmuartsIxz811" class="img-fluid rounded z-depth-1" %}
+    	</div>
     </div>
 </div>
 <div class="caption">
@@ -85,7 +89,12 @@ In the past, I enjoyed occasional ventures into painting, particularly abstract 
 
 
 
-
+<style>
+    /* Apply specific rotation fix for paint2.jpeg if needed */
+    img[src*="paint2.jpeg"] {
+        transform: rotate(0deg); /* Adjust the angle if necessary */
+    }
+</style>
 
 
 
