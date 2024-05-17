@@ -79,17 +79,9 @@ In the past, I enjoyed occasional ventures into painting, particularly abstract 
         {% include figure.html loading="eager" path="assets/img/paint1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/paint2.jpeg" class="img-fluid rounded z-depth-1 rotate-fix" zoomable=true %}
+        {% include figure.html loading="eager" path="assets/img/paint2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-<style>
-    /* Apply specific rotation fix for paint2.jpeg */
-    .rotate-fix {
-        transform: rotate(90deg); /* Adjust the angle as needed */
-        transform-origin: center center;
-    }
-</style>
 
 <div class="caption">
     I completed these abstract paintings for the Inter House Wall Magazine Competition 2015, Nazrul House, Mirzapur Cadet College, Bangladesh.
