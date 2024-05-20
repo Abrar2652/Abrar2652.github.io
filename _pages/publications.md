@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-<p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=VKKO-zAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
+<p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=VKKO-zAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>.<br>* denotes equal contribution</p>
 
 <div class="publications">
 
