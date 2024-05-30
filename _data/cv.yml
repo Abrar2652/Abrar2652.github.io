@@ -30,31 +30,7 @@
       description:
         - CGPA 3.83/4.00 (Top 5%)
         - Dean's award 3x for achieving annual CGPA above 3.75
-
-- title: Papers
-  type: time_table
-  contents:
-    - title: FairDeDup - Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication
-      year: 2024
-      maindescription: Computer Vision and Pattern Recognition
-    - title: <a href="/assets/pdf/valet.pdf">VALET - Vision-And-LanguagE Testing with Reusable Components</a>
-      year: 2023
-      maindescription: NeurIPS Queer in AI Workshop
-    - title: <a href="https://arxiv.org/abs/2311.05071">On the Behavior of Audio-Visual Fusion Architectures in Identity Verificaiton Tasks</a>
-      year: 2023
-      maindescription: arXiv preprint
-    - title: <a href="https://arxiv.org/abs/2309.06703">VLSlice - Interactive Vision-and-Language Slice Discovery</a>
-      year: 2023
-      maindescription: International Conference on Computer Vision
-    - title: <a href="https://ai4earthscience.github.io/iclr-2022-workshop/camera_ready/iclr_2022_ai4ess_30.pdf">Conditional Emulation of Global Precipitation With Generative Adversarial Networks</a>
-      year: 2022
-      maindescription: ICLR Workshop on AI for Earth and Space Science
-    - title: <a href="https://arxiv.org/abs/2107.14369">Fine-Grained Classroom Activity Detection from Audio with Neural Networks</a>
-      year: 2022
-      maindescription: AAAI Workshop on AI for Education
-    - title: Conditioned Emulation of Global Climate Models With Generative Adversarial Networks
-      year: 2021
-      maindescription: NOAA Workshop on Leveraging AI in Envrionmental Sciences
+	- Undergrad thesis titled "Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum—Classical Neural Network" [Publication](https://www.nature.com/articles/s41598-023-45406-7)
 
 
 - title: Research Experiences
@@ -75,6 +51,7 @@
       maindescription: Advised by Prof. Jonathan Miller
       description:
         - Collaborated with Dr. Lucia Zifcakova, Dr. Priscila Do Nascimento Biller, Dr. Zdenek Lajbner, and Dr. Reuven Pnini
+
     - title: Research Intern (RI)
       institution: Okinawa Institute of Science and Technology Graduate University (OIST), Japan
       department: Physics and Biology Unit
@@ -84,13 +61,21 @@
         - Awarded with full-funded scholarship with a daily allowance of JPY 2400 per working day (taxable)
 
 
+- title: Open-Source Projects
+  type: time_table
+  contents:
+    - title: KUET B.Sc. Thesis LaTeX Template
+      year: 2024
+      maindescription: Developed the first-ever LaTeX template for B.Sc. Undergrad Thesis of KUET [Template](https://www.overleaf.com/latex/templates/kuet-b-dot-sc-thesis-template-md-abrar-jahin/gkcnqrscxpqm)
+
+
 - title: Skills
   type: map
   contents:
     - name: Programming
       value: Python, C/C++, R, Kotlin, SQL, SAS, Data Structure and Algorithm, Object Orient Programming
     - name: AI
-      value: TensorFlow, PyTorch, Keras, scikit-learn, spaCy, scipy, Transformers, XAI, NLP, DASK, IBM Watson
+      value: TensorFlow, PyTorch, Keras, scikit-learn, spaCy, scipy, Transformers, XAI, NLP, DASK, IBM Watson, crepes, MAPIE, Orange
     - name: Analysis
       value: Microsoft Excel, IBM SPSS, Minitab, TORA, Beautiful Soup, Biopython, Bioconductor, NetworkX, ggplot2, matplotlib, seaborn, plotly
     - name: Research
