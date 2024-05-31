@@ -71,7 +71,7 @@ profiles:
     content: /certificates/certificates_9.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><b>DSE200x: Python for Data Science<b></p>
+      <p><b>PY0101EN: Python 101 for Data Science<b></p>
 
   - align: left
     image: /certificates/certificate_10.jpg
