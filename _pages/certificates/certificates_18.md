@@ -1,4 +1,4 @@
-Institution: MITx\
+Institution: Georgia Institute of Technology\
 Subject: Communication\
 Level: Advanced\
 Associated skills: Stress, Communication, Presentation, Public Speaking\
