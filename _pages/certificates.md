@@ -131,8 +131,12 @@ profiles:
     more_info: >
       <p><b>BSP101x: Basic Spanish 1: Getting Started<b></p>
 
-
-
+  - align: left
+    image: certificates/certificates_18.png
+    content: certificates/certificates_18.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Speak English Professionally: In Person, Online & On the Phone<b></p>
 
 
 
