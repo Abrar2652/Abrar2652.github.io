@@ -138,6 +138,24 @@ Performed a total of 6 journal reviews verified by Web of Science, as of May 202
 
 
 
+## Leadership and Advisory Roles
+
+| KUET Research Society     | Nov 2023 - May 2024  |
+|:--------------------------|--------------------------|
+| Co-founder & President | [LinkedIn Page](https://www.linkedin.com/company/kuet-research-society/){:target="_blank"} |
+| _Co-moderator:_ [Dr. Md. Saiful Islam](https://scholar.google.com/citations?user=PsHZ75wAAAAJ&hl=en){:target="_blank"} |  
+| _Responsibilities:_   |  |
+| ■ Served as an Executive Committee Member and President of the Industrial Engineering and Management Research Unit |
+| ■ Supervising (as an alumnus) 6 groups of research students concentrating on ML-DL and computational fuzzy logic, fostering cross-departmental research collaboration |
+| ■ Teaching (as an alumnus) scientific research methodology, research ethics, and journal article formatting meeting publication criteria and acquiring funding for publications |
+
+
+
+| SpecX     | Aug 2022 - Present |
+|:--------------------------|--------------------------|
+| Founder & AI Researcher | [MIT Solve 2024](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"} |
+| ■ Developed a hybrid DL model architecture, integrated XAI, topic modeling, telemedicine appointment, and personalized treatment |
+| ■ Acquired funding from the University of Aizu (Japan) and AIUB (Bangladesh) to collect patients' data and conduct NLP research |
 
 
 
