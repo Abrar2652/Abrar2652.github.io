@@ -132,11 +132,13 @@ images:
 
 ## Peer Review Experiences
 
-Performed a total of 6 journal reviews verified by Web of Science, as of May 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+Performed a total of 7 journal reviews verified by Web of Science, as of May 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 * IEEE Access
 * Journal of Contemporary African Studies
+* Journal of Multidisciplinary Healthcare
+* 7th European Conference on Industrial Engineering and Operations Management (Augsburg, Germany, July 2024)
 
-
+<br>
 
 ## Leadership and Advisory Roles
 
