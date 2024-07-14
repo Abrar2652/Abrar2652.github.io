@@ -6,6 +6,7 @@ related_posts: false
 ---
 
 Cierra Choucair (pursuing MS in CS @CU Boulder, USA) shared her optimistic insights on Twitter about our latest research article, 'TriQXNet' (not yet published), which is available as a preprint and featured this work on 'The Daily Qubit'.
+<br>
 
 [1] Labs, U. (2024, June 25). The Daily Qubit. *The Daily Qubit*. [https://www.thedailyqubit.com/p/issue-97](https://www.thedailyqubit.com/p/issue-97)
 

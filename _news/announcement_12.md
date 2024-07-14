@@ -5,8 +5,10 @@ inline: true
 related_posts: false
 ---
 
-Our 2 research articles got published in Q1 journals (both Scopus and Web of Science indexed)
+Our 2 research articles got published in Q1 journals (both Scopus and Web of Science indexed).
+<br>
 
-[1] Saha, A. K.*, __Jahin, M. A.*__, Rafiquzzaman, Md., & Mridha, M. F. (2024). Ergonomic Design of Computer Laboratory Furniture: Mismatch Analysis Utilizing Anthropometric Data of University Students. *Heliyon*, e34063. [https://doi.org/10.1016/j.heliyon.2024.e34063](https://doi.org/10.1016/j.heliyon.2024.e34063)
+[1] Saha, A. K.\*, __Jahin, M. A.*__, Rafiquzzaman, Md., & Mridha, M. F. (2024). Ergonomic Design of Computer Laboratory Furniture: Mismatch Analysis Utilizing Anthropometric Data of University Students. *Heliyon*, e34063. [https://doi.org/10.1016/j.heliyon.2024.e34063](https://doi.org/10.1016/j.heliyon.2024.e34063)
+<br>
 
-[2] Ahmad, K.*, Islam, M. S., __Jahin, M. A.*__, & Mridha, M. F. (2024). Analysis of Internet of things implementation barriers in the cold supply chain: An integrated ISM-MICMAC and DEMATEL approach. *PLOS ONE, 19*(7), e0304118. [https://doi.org/10.1371/journal.pone.0304118](https://doi.org/10.1371/journal.pone.0304118)
+[2] Ahmad, K.\*, Islam, M. S., __Jahin, M. A.*__, & Mridha, M. F. (2024). Analysis of Internet of things implementation barriers in the cold supply chain: An integrated ISM-MICMAC and DEMATEL approach. *PLOS ONE*, *19*(7), e0304118. [https://doi.org/10.1371/journal.pone.0304118](https://doi.org/10.1371/journal.pone.0304118)
