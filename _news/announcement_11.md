@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2024-07-10 15:51:00-0000
+date: 2024-07-11 15:51:00-0000
 inline: true
 related_posts: false
 ---
 
-Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his opinion about our latest research article "TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification".
+Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his opinion about our latest research article "TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification" (available as arXiv preprint).
 
 <br>
 <div class="mb-3">
