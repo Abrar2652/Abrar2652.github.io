@@ -9,5 +9,5 @@ Thanks to the organizers for selecting me anonymously as a reviewer for being am
 
 <br>
 <div align="center">
-  <img src="assets/img/research/IEOM_2024.jpg" alt="Reviewer Certificate" width="50%"/>
+  <img src="assets/img/research/IEOM_2024.jpg" alt="Reviewer Certificate" width="40%"/>
 </div>
