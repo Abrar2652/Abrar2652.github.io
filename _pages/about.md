@@ -108,7 +108,7 @@ I am the first undergraduate in Bangladesh whose thesis focused on Quantum Machi
 
 I received an encouraging email from [Dr. Junyu Liu](https://g.co/kgs/AeTGG1P){:target="_blank"} [(Google Scholar)](https://scholar.google.com/citations?user=dFcU7nsAAAAJ&hl=en){:target="_blank"}, a renowned quantum information and machine learning PostDoc at the University of Chicago and IBM. He is an Assistant Professor in the Department of CS, School of Computing and Information, the University of Pittsburgh. Dr. Liu was impressed by my undergraduate thesis, which he came across on arXiv preprint while it was under review.
 
-**Research Interests:** Machine Learning (ML), Deep Learning (DL), Quantum Computing, Explainable AI (XAI), Natural Language Processing (NLP), Image Processing, Conformal Prediction, Physics-Informed Neural Network (PINN), Comparative Genomics, and Supply Chain Analytics.
+**Research Interests:** Efficient Deep Learning, Classical and Quantum Machine Learning, Trustworthy AI, Natural Language Processing (NLP), Uncertainty Quantification, Physics-Informed Neural Network (PINN), and Comparative Genomics.
 
 <div class="row mt-3">
     <div class="col-12 d-flex justify-content-center align-items-center mt-3 mt-md-0">
