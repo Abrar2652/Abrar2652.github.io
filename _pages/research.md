@@ -45,7 +45,7 @@ images:
 
 | Visiting Researcher            | Mar 2024 - Present |
 |:-------------------------------|--------------------|
-|**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
+|**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
 |_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
 |_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
 
