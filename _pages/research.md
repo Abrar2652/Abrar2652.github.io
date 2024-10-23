@@ -14,14 +14,14 @@ images:
 
 * Machine Learning (ML) & Deep Learning (DL)
     * Explainable AI (XAI)
-    * Natural Language Processing (NLP)
-    * Decision-making
-    * Image Processing
+    * Kolmogorov-Arnold Networks (KAN)
+    * Reinforcement Learning (RL)
     * Physics-Informed Neural Network (PINN)
+    * Natural Language Processing (NLP)
 * Quantum Computing
+    * Quantum Machine Learning (QML)
 * Uncertainty Quantification
 * Comparative Genomics
-* Supply Chain Analytics
 
 <br>
 

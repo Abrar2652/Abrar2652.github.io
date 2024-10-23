@@ -27,11 +27,14 @@ In addition to conducting individual research, I mentor enthusiastic students fr
 _Current Students_:
 * Saleh Akram Naife (KUET)
 * Adiba Abid (KUET)
+* Raihan Rafi Prottoy (KUET)
 * Sadman Mohammad Nasif (KUET)
 * MD Zaid Hossain (KUET)
 * Ashraf Raiyan (KUET)
 * Fatema Tuj Johora Lima (SUST)
-* Noshin Nawal Neha (RUET)
+* Md Wahiduzzaman Suva (AIUB)
+* Md Imtiaj Alam Sajin (AIUB)
+* Esme Moula Chowdhury Abha (AIUB)
 * Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
 * Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
 
