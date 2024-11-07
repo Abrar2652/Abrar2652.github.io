@@ -75,6 +75,12 @@ From my first year (2018), I began learning C/C++ and Python for problem-solving
               <img src="https://abrar2652.github.io/assets/img/me4.png" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:50%;">
             </div>
             <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me6.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
         </div>
