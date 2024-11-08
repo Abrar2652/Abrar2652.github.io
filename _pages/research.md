@@ -131,7 +131,7 @@ images:
 
 ## Peer Review Experiences
 
-Performed a total of 10 journal reviews verified by Web of Science, as of Aug 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+Performed a total of 12 journal reviews verified by Web of Science, as of Aug 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 * IEEE Access
 * Computers & Industrial Engineering (Elsevier)
 * Multimedia Tools and Applications (Springer Nature)
