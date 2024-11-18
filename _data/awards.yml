@@ -1,7 +1,15 @@
 - year: "2024"
+  month: "November"
+  title: "Student Researcher of the Year Award — KUET Research Society"
+  description: "Awarded on November 16, 2024, by the Vice-Chancellor of KUET, as an alumnus and fresh graduate, for exceptional contributions to research and leadership. Recognized for publishing the highest number of high-impact research articles and demonstrating outstanding leadership between October 2023 and November 2024. This prestigious award was introduced by the KUET Research Society for the first time since its establishment in October 2023."
+  preview_images: 
+    - "/assets/img/awards/SROY_KRS.jpeg"
+
+
+- year: "2024"
   month: "April"
   title: "MIT Solve — 2024 Global Health Equity Challenge"
-  description: "Founded SpecX - An XAI-Powered Web App for Sentiment-Driven Disease Profiling & Specialist Allocation. I developed the interpretable hybrid DL model architecture, integrated topic modeling, telemedicine appointment, and personalized treatment solutions as an AI Researcher of SpecX."
+  description: "Founded SpecX, an XAI-powered web app for sentiment-driven disease profiling & specialist allocation. I developed the interpretable hybrid DL model architecture, integrated topic modeling, telemedicine appointment, and personalized treatment solutions as an AI Researcher of SpecX."
   preview_images: 
     - "/assets/img/awards/mit_solve1.png"
     - "/assets/img/awards/mit_solve2.png"
