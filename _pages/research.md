@@ -154,6 +154,8 @@ Performed a total of 12 journal reviews verified by Web of Science, as of Aug 20
 | ■ Teaching (as an alumnus) scientific research methodology, research ethics, and journal article formatting meeting publication criteria and acquiring funding for publications |
 
 
+<br>
+
 
 | SpecX     | Aug 2022 - Present |
 |:--------------------------|--------------------------|
