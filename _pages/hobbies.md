@@ -22,7 +22,7 @@ Participating in ML hackathons and business competitions is an exhilarating expe
 All of my business case solutions from my undergraduate years are available on [SlideShare](https://www.slideshare.net/MdAbrarJahin){:target="_blank"}. In April 2024, as the _Founder & AI Researcher_ of *SpecX*, I submitted our solution for the **MIT Solve Challenge 2024**. You can find our solution [here](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"}.
 
 **Research Supervision:**
-In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, RUET, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
+In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, AIUB, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
 
 _Current Students_:
 * Saleh Akram Naife (KUET)
@@ -33,8 +33,7 @@ _Current Students_:
 * Ashraf Raiyan (KUET)
 * Fatema Tuj Johora Lima (SUST)
 * Md Wahiduzzaman Suva (AIUB)
-* Md Imtiaj Alam Sajin (AIUB)
-* Esme Moula Chowdhury Abha (AIUB)
+* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB
 * Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
 * Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
 
