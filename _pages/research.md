@@ -54,11 +54,10 @@ images:
 | Research Assistant  | Mar 2023 - Present  |
 |:------------------------------|------------------------|
 | **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/), American International University-Bangladesh (AIUB), Bangladesh** | [Portfolio](https://amirl.org/peopleDetailsView/Md-Abrar-Jahin/){:target="_blank"} |
-| _Research Affiliations_:||
-|[1] Department of Natural Language Processing and Computational Linguistics||
-|_Supervisor_: [Dr. Mohammad Firoz Mridha](https://amirl.org/peopleDetailsView/Dr-Mohammad-Firoz-Mridha/){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
-|[2] Department of Deep Learning and Computer Vision||
-|_Supervisor_: [Dr. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"} (Professor, Division of Information Systems, School of Computer Science and Engineering, University of Aizu, Japan)| |
+| _Research Affiliations:_||
+|Department of Natural Language Processing and Computational Linguistics||
+|_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://amirl.org/peopleDetailsView/Dr-Mohammad-Firoz-Mridha/){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
+
 
 <br>
 
@@ -134,6 +133,7 @@ images:
 Performed a total of 12 journal reviews verified by Web of Science, as of Aug 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 * IEEE Access
 * Computers & Industrial Engineering (Elsevier)
+* Expert Systems with Applications (Elsevier)
 * Multimedia Tools and Applications (Springer Nature)
 * Engineering Applications of Artificial Intelligence (Elsevier)
 * Journal of Contemporary African Studies (Taylor & Francis)
