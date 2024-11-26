@@ -136,6 +136,7 @@ Performed a total of 12 journal reviews verified by Web of Science, as of Aug 20
 * Expert Systems with Applications (Elsevier)
 * Multimedia Tools and Applications (Springer Nature)
 * Engineering Applications of Artificial Intelligence (Elsevier)
+* The Journal of Supercomputing (Springer Nature)
 * Journal of Contemporary African Studies (Taylor & Francis)
 * Journal of Multidisciplinary Healthcare (Taylor & Francis)
 * 7th European Conference on Industrial Engineering and Operations Management (Augsburg, Germany, July 2024)
