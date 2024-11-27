@@ -13,6 +13,7 @@ nav_order: 4
   * Topics Covered: Intro, Anaconda, variables, lists, strings, control structures
   * Fellow Teachers: Dr. Nicholas Wardhana and Dr. Jeremie Gillet
 
+
 #### Operations Research 
 * Developed and presented first-ever comprehensive Bengali online tutorials on Operations Research topics, facilitating 3rd-year IPE students.
 * Topics covered: Simplex Method, Two-Phase, Big M, Graphical Sensitivity Analysis, TORA.
@@ -32,6 +33,29 @@ nav_order: 4
 <div class="caption">
     This initiative was taken to compile a playlist of key Operations Research topics, tailored for 3rd-year IPE undergraduates, with a special focus on material from Prof. Taha's book. Find the full playlist <a href="https://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E" target="_blank">here</a>.
 </div>
+
+
+#### Research Mentor
+In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, AIUB, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
+
+_Current Students_:
+* Saleh Akram Naife (KUET)
+* Adiba Abid (KUET)
+* Raihan Rafi Prottoy (KUET)
+* Sadman Mohammad Nasif (KUET)
+* MD Zaid Hossain (KUET)
+* Ashraf Raiyan (KUET)
+* Fatema Tuj Johora Lima (SUST)
+* Md Wahiduzzaman Suva (AIUB)
+* Shahriar Soudeep (AIUB)
+* Md. Ariful Islam (AIUB)
+* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB
+* Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
+* Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
+
+
+
+
 
 <!--
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.

@@ -11,31 +11,18 @@ horizontal: false
 **Problem Solving:**
 I find immense pleasure in honing my problem-solving skills through daily sessions of [Lumosity](https://www.lumosity.com/en/){:target="_blank"} brain games. These researcher-designed games challenge and improve my short-term memory, working memory, information processing speed, cognitive function, and fluid reasoning. Additionally, I used to participate in competitive programming contests such as Codeforces, Google Kickstart, and HashCode, where I pushed the boundaries of my problem-solving abilities.
 
+
 **Online Learning and Continuing Education:**
 My thirst for knowledge in my research domain drives me to engage in continuous learning. I regularly follow online blogs such as *Towards Data Science*, *Medium*, and *Kaggle Notebooks*, and stay updated with the latest state-of-the-art research on *ResearchGate*. Additionally, I take courses on platforms like *DataCamp*, *edX*, and *Coursera*. This commitment to ongoing education helps me stay current and competitive with the latest research trends in my field. My online course certificates are showcased on my LinkedIn profile.
+
 
 **Contribution as a Peer Reviewer:**
 I actively contribute to the academic community as a referee for esteemed Q1 journals. My commitment to reviewing scholarly work allows me to play a crucial role in maintaining the quality and rigor of research publications. By providing constructive feedback and insightful evaluations, I contribute to the advancement of knowledge within my field. Check out my peer review recognition by Web of Science [here](https://www.webofscience.com/wos/author/record/AFE-0313-2022 "WoS Profile"){:target="_blank"}.
 
+
 **Hackathons:**
 Participating in ML hackathons and business competitions is an exhilarating experience for me. Collaborating with individuals from diverse cultures and interests, we come together as a team to tackle real-world challenges through innovative machine learning solutions. I actively participate in hackathons hosted on [Kaggle](https://www.kaggle.com/mdabrarjahin "mdabrarjahin"){:target="_blank"}, [Devpost](https://devpost.com/abrar-jahin-2652 "abrar-jahin-2652"){:target="_blank"}, and [DrivenData](https://www.drivendata.org/users/Abrar2652/ "Abrar2652"){:target="_blank"}.
 All of my business case solutions from my undergraduate years are available on [SlideShare](https://www.slideshare.net/MdAbrarJahin){:target="_blank"}. In April 2024, as the _Founder & AI Researcher_ of *SpecX*, I submitted our solution for the **MIT Solve Challenge 2024**. You can find our solution [here](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"}.
-
-**Research Supervision:**
-In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, AIUB, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
-
-_Current Students_:
-* Saleh Akram Naife (KUET)
-* Adiba Abid (KUET)
-* Raihan Rafi Prottoy (KUET)
-* Sadman Mohammad Nasif (KUET)
-* MD Zaid Hossain (KUET)
-* Ashraf Raiyan (KUET)
-* Fatema Tuj Johora Lima (SUST)
-* Md Wahiduzzaman Suva (AIUB)
-* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB
-* Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
-* Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
 
 
 **Lead Guitar:**
