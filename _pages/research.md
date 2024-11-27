@@ -95,7 +95,7 @@ images:
 | _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (Post-doctoral Research Fellow at Image, Informatics & Intelligence Research Lab, Harvard Medical School; PhD in Biomedical Eng., UBC Canada; MASc in Biomedical Eng., UBC) |
 | _Experiences:_   |  |
 | ■ Led the research team of 17 fellow researchers on a project titled "[Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://www.preprints.org/manuscript/202303.0296/v3)" |
-| ■ Contributed to writing the original manuscript, software implementation, data curation, and successfully submitting to a journal |
+| ■ Contributed to writing the original manuscript, software implementation, and data curation and served as a corresponding author for the entire communication with the journal |
 
 
 <br>
