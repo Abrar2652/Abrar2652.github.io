@@ -146,7 +146,7 @@ During my time at BZS for primary education, I excelled in a highly competitive 
 <br>
 
 
-## Overcoming Academic and Research Challenges During COVID-19
+## Overcoming Academic and Research Challenges
 
 **Navigating Academic Challenges During COVID-19:**
 In March 2020, our university was declared closed due to COVID-19 for an unknown time. The authority was not optimistic about holding classes or exams online. It took almost 3-4 months to hold the first online class. KUET authority was not interested in arranging online exams. So, they decided to take 2 semesters of 2nd year online without having any exams for 2 years. Since the COVID situation was not improving even after finishing the 2nd, both semester finals were taken online at once: first 2nd term followed by 1st term. These arbitrary, uncertain decisions impacted my overall academic performance due to my strong shift of focus to AI/ML research within these 2 years. Nevertheless, I maintained to be among the top 3 in my department.
