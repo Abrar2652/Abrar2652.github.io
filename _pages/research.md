@@ -42,10 +42,10 @@ images:
 
 <br>
 
-| Visiting Researcher            | Mar 2024 - Present |
+| Visiting Researcher (VR)           | Mar 2024 - Present |
 |:-------------------------------|--------------------|
 |**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
-|_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
+|_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 |_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
 | ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
 
@@ -57,8 +57,7 @@ images:
 | _Research Affiliations:_||
 |Department of Natural Language Processing and Computational Linguistics||
 |_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
-|Collaborators: [Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"} (IEEE Fellow), [Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}, [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}, [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}, [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}, [Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}, [Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ)
-{:target="_blank"}| |
+|Collaborators: [Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"} (IEEE Fellow), [Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}, [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}, [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}, [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}, [Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}, [Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ){:target="_blank"}| |
 | ■ Published articles in the fields of DL, QML, GNN, XAI, conformal prediction, human-in-the-loop, NLP, and operations research | |
 
 
@@ -79,21 +78,21 @@ images:
 
 <br>
 
-| Visiting Research Student       | Feb 2023 - Feb 2024  |
+| Visiting Research Student (VRS)      | Feb 2023 - Feb 2024  |
 |:-----------------------------------|--------------------------|
 | **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
-| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
+| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 | _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |  |
 |Collaborators: [Dr. Lucia Zifcakova](https://www.researchgate.net/profile/Lucia-Zifcakova){:target="_blank"}, [Dr. Priscila Do Nascimento Biller](https://scholar.google.com/citations?user=WcCd_BoAAAAJ&hl=it){:target="_blank"}, [Dr. Zdenek Lajbner](https://scholar.google.com/citations?user=9R_ewDcAAAAJ){:target="_blank"}, and [Dr. Reuven Pnini](https://scholar.google.com/citations?user=RVC1fEsAAAAJ&hl=en){:target="_blank"}| |
 | ■ Critically analyzed and visually represented all potential combinations of inter-gap segments (IGS), ancestral repeats (ARs), and contiguous mismatched ARs in human/mouse and human/gorilla genome alignments, focusing on both DNAs and repetitive sequences| |
-| ■ Successfully replicated the findings of the neutral indel model proposed by Lunter, Pointing, and Hein (2006)| |
+| ■ Successfully replicated the findings of the neutral indel model proposed by [Lunter, Pointing, and Hein (2006)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020005){:target="_blank"} | |
 
 
 <br>
 
-| Research Camp 02 | May 2022 - Mar 2023 |
+| Research Lead | May 2022 - Mar 2023 |
 |:--------------------------|--------------------------|
-| **Scholarship School BD, Bangladesh** |  |
+| **Research Camp 02, Scholarship School BD, Bangladesh** |  |
 | _Research topic:_ Ultrasound-Based AI for COVID-19 Detection |  |
 | _Supervisor:_ [Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"} (Post-doctoral Research Fellow at Image, Informatics & Intelligence Research Lab, Harvard Medical School; PhD in Biomedical Eng., UBC Canada; MASc in Biomedical Eng., UBC) |
 | _Experiences:_   |  |
@@ -103,18 +102,18 @@ images:
 
 <br>
 
-| Research Intern       | Oct 2021 - Mar 2022 |
+| Research Intern (RI)      | Oct 2021 - Mar 2022 |
 |:--------------------------|--------------------------|
-| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
-| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
+| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} (Acceptance Rate: **14%**)|
+| _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 | _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |
 | _Experiences:_   |  |
 | ■ Awarded with full-funded scholarship with a daily allowance of JPY 2400 per working day (taxable) |
 | ■ Conducted research on perfectly conserved sequence (PCS) length distributions of UCSC 44 pairwise genome sequences |
-| ■ Analyzed quantile kurtosis of PCS lengths proposed by Nash and Lenhard (2018) and identified a 'knee' in the PCS distributions of the heavy-tailed region |
-| ■ Collaborated with Dr. Zifcakova to track erroneous out-of-bound PCS coordinates generated by Nash and Lenhard (2018), utilizing R and Bedtool, and resolved issues using Python 3.10 |
+| ■ Analyzed quantile kurtosis of PCS lengths proposed by [Nash and Lenhard (2018)](https://academic.oup.com/bioinformatics/article/35/14/2354/5233000){:target="_blank"} and identified a 'knee' in the PCS distributions of the heavy-tailed region |
+| ■ Collaborated with Dr. Zifcakova to track erroneous out-of-bound PCS coordinates generated by [Nash and Lenhard (2018)](https://academic.oup.com/bioinformatics/article/35/14/2354/5233000){:target="_blank"}, utilizing R and Bedtool, and resolved issues using Python 3.10 |
 | ■ Optimized Nash and Lenhard's 3 R scripts for PCS generation, quantile kurtosis analysis, and genomic regulatory blocks (GRBs), reducing time and memory complexity. Successfully reproduced PCS coordinates following UCSC format and fixed genome coordinate related errors in R's Bioconductor package | 
-| ■ Demonstrated proficiency in shell scripting, programming, and software installation on the HPC Deigo cluster |
+| ■ Demonstrated proficiency in shell scripting, parallel computing, and software installation on the HPC Deigo cluster |
 | ■ Presented weekly progress to the Unit using MS PowerPoint slides and animations |
 
 <br>
@@ -123,7 +122,7 @@ images:
 |:--------------------------|--------------------------|
 | **UiT - The Arctic University of Norway** | [Internship Report](https://arxiv.org/abs/2107.06755){:target="_blank"} |
 | _Supervisors:_ [Ghada Bouzidi](https://www.linkedin.com/in/ghada-bouzidi-12236a58/?originalSubdomain=no){:target="_blank"}, [Prof. Aleksander Pedersen](https://en.uit.no/ansatte/person?p_document_id=445080){:target="_blank"}, [Prof. Rune Dalmo](https://en.uit.no/ansatte/rune.dalmo){:target="_blank"} |  
-| _Duties included:_   |  |
+| _Duties included:_   | [Code Repository](https://github.com/DentonJC/DIT){:target="_blank"} |
 | ■ Conducted comprehensive data and statistical analysis on the Narvik road dataset as part of the DIT4BEARs Smart Road project |
 | ■ Designed, implemented, and evaluated ML models (classifiers: KNN, Logistic Regression, XGBoost, Prophet) that identified the road state as one of the following states: dry, moist, wet, icy, snowy, slushy) to tackle the winter weather challenges encountered in the Barren Euro-Arctic region |
 | ■ Proposed a novel safety metric and forecasted its values using ML regressors: Ridge, Lasso, Elastic Net, Linear Regression, XGBRegressor |
