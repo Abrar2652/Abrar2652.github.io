@@ -47,16 +47,19 @@ images:
 |**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
 |_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects |  |
 |_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
-
+| ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
 
 <br>
 
-| Research Assistant  | Mar 2023 - Present  |
+| Lead Researcher | Mar 2023 - Present  |
 |:------------------------------|------------------------|
 | **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/), American International University-Bangladesh (AIUB), Bangladesh** | [Portfolio](https://amirl.org/peopleDetailsView/Md-Abrar-Jahin/){:target="_blank"} |
 | _Research Affiliations:_||
 |Department of Natural Language Processing and Computational Linguistics||
-|_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://amirl.org/peopleDetailsView/Dr-Mohammad-Firoz-Mridha/){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
+|_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
+|Collaborators: [Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"} (IEEE Fellow), [Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}, [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}, [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}, [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}, [Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}, [Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ)
+{:target="_blank"}| |
+| ■ Published articles in the fields of DL, QML, GNN, XAI, conformal prediction, human-in-the-loop, NLP, and operations research | |
 
 
 <br>
@@ -119,11 +122,11 @@ images:
 | Research Intern       | May 2021  |
 |:--------------------------|--------------------------|
 | **UiT - The Arctic University of Norway** | [Internship Report](https://arxiv.org/abs/2107.06755){:target="_blank"} |
-| _Supervisors:_ [Ghada Bouzidi](https://www.linkedin.com/in/ghada-bouzidi-12236a58/?originalSubdomain=no){:target="_blank"}, [Dr. Aleksander Pedersen](https://en.uit.no/ansatte/person?p_document_id=445080){:target="_blank"}, [Dr. Rune Dalmo](https://en.uit.no/ansatte/rune.dalmo){:target="_blank"} |  
+| _Supervisors:_ [Ghada Bouzidi](https://www.linkedin.com/in/ghada-bouzidi-12236a58/?originalSubdomain=no){:target="_blank"}, [Prof. Aleksander Pedersen](https://en.uit.no/ansatte/person?p_document_id=445080){:target="_blank"}, [Prof. Rune Dalmo](https://en.uit.no/ansatte/rune.dalmo){:target="_blank"} |  
 | _Duties included:_   |  |
-| ■ Performed data and statistical analysis of the Narvik road dataset using Python (Pandas, NumPy) and Microsoft Excel, which was a part of the DIT4BEARs Smart Road project |
-| ■ Evaluated machine learning models (classifiers: KNN, Logistic Regression, XGBoost, Prophet) that identified the road state as one of the following states: dry, moist, wet, icy, snowy, slushy) to tackle the winter weather challenges encountered in the Barren Euro-Arctic region |
-| ■ Introduced a novel safety metric and forecasted its values using machine learning regressors: Ridge, Lasso, Elastic Net, Linear Regression, XGBRegressor |
+| ■ Conducted comprehensive data and statistical analysis on the Narvik road dataset as part of the DIT4BEARs Smart Road project |
+| ■ Designed, implemented, and evaluated ML models (classifiers: KNN, Logistic Regression, XGBoost, Prophet) that identified the road state as one of the following states: dry, moist, wet, icy, snowy, slushy) to tackle the winter weather challenges encountered in the Barren Euro-Arctic region |
+| ■ Proposed a novel safety metric and forecasted its values using ML regressors: Ridge, Lasso, Elastic Net, Linear Regression, XGBRegressor |
 | ■ Effectively communicated project findings by presenting results at the final meeting, attended by 4 distinguished professors |
 
 <br>
