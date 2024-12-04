@@ -146,14 +146,14 @@ During my time at BZS for primary education, I excelled in a highly competitive 
 <br>
 
 
-## Challenges
+## Overcoming Academic and Research Challenges During COVID-19
 
 **Navigating Academic Challenges During COVID-19:**
 In March 2020, our university was declared closed due to COVID-19 for an unknown time. The authority was not optimistic about holding classes or exams online. It took almost 3-4 months to hold the first online class. KUET authority was not interested in arranging online exams. So, they decided to take 2 semesters of 2nd year online without having any exams for 2 years. Since the COVID situation was not improving even after finishing the 2nd, both semester finals were taken online at once: first 2nd term followed by 1st term. These arbitrary, uncertain decisions impacted my overall academic performance due to my strong shift of focus to AI/ML research within these 2 years. Nevertheless, I maintained to be among the top 3 in my department.
 
 
 **Balancing Prestigious Opportunities and Academic Obligations During COVID-19:**
-During COVID, as the first Bangladeshi undergraduate student, I got a fully-funded research internship offer at OIST (Japan). However, KUET does not allow such visits without academic influence. Specifically, since I was the department first at that time and had the best CGPA among all 7 departments of mechanical faculty, my professors suggested me not to drop the semester as it might cause problems in getting a teaching offer from my university. This dilemma put extra mental stress on my academic life, and I negotiated with OIST to continue my full-time research remotely; at the same time, I appeared in online classes and exams at KUET, both continuing simultaneously. Nevertheless, I managed to excel both in my academics and research.
+During COVID-19, as the first Bangladeshi undergraduate student, I got a fully-funded research internship offer at OIST (Japan). However, KUET does not allow such visits without academic influence. Specifically, since I was the department first at that time and had the best CGPA among all 7 departments of mechanical faculty, my professors suggested me not to drop the semester as it might cause problems in getting a teaching offer from my university. This dilemma put extra mental stress on my academic life, and I negotiated with OIST to continue my full-time research remotely; at the same time, I appeared in online classes and exams at KUET, both continuing simultaneously. Nevertheless, I managed to excel both in my academics and research.
 
 
 
