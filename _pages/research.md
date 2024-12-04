@@ -138,6 +138,7 @@ Performed a total of 12 journal reviews verified by Web of Science, as of Aug 20
 * Engineering Applications of Artificial Intelligence (Elsevier)
 * The Journal of Supercomputing (Springer Nature)
 * Cluster Computing (Springer Nature)
+* Scientific Reports (Nature Portfolio)
 * Journal of Contemporary African Studies (Taylor & Francis)
 * Journal of Multidisciplinary Healthcare (Taylor & Francis)
 * 7th European Conference on Industrial Engineering and Operations Management (Augsburg, Germany, July 2024)
