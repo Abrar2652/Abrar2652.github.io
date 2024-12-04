@@ -130,7 +130,7 @@ images:
 
 ## Peer Review Experiences
 
-Performed a total of 16 journal reviews verified by Web of Science, as of Aug 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+Reviewed a total of 16 journal articles verified by Web of Science, as of December 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 * IEEE Access
 * Computers & Industrial Engineering (Elsevier)
 * Expert Systems with Applications (Elsevier)
