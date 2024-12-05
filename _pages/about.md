@@ -69,7 +69,7 @@ From my first year (2018), I began learning C/C++ and Python for problem-solving
               <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.69%;">
 	    </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:40.50%;">
+              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.50%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:50%; width:62.5%;">
