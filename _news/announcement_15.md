@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his optimistic expression about our latest research article "Human-in-the-Loop Feature Selection Using Interpretable Kolmogorov-Arnold Network-based Double Deep Q-Network" (available as arXiv preprint).
+Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his optimistic views about our latest research article "Human-in-the-Loop Feature Selection Using Interpretable Kolmogorov-Arnold Network-based Double Deep Q-Network" (available as arXiv preprint).
 
 <br>
 <div class="mb-3">

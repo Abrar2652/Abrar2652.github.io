@@ -29,7 +29,7 @@ This is *Md Abrar Jahin, CSCA<sup>&trade;</sup>*; however, you can call me *Abra
 I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}. I am proud to have received the prestigious Dean's Award three consecutive times during my freshman, sophomore, and junior years (2018-2019, 2019-2020, and 2020-2021). 
 
 
-My research interests lie at the confluence of **efficient deep learning**, **classical and quantum machine learning**, **explainable AI (XAI)**, **uncertainty quantification**, and **physics-informed neural networks (PINNs)**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **graph representation learning**, **natural language processing (NLP)**, **operations research**, and **comparative genomics**, reflecting a commitment to addressing complex, real-world problems through innovative approaches. I strive to pioneer methodologies by either hybridizing diverse techniques or adopting paradigms from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial and Production Engineering** and extensive research experience in **comparative genomics** enable me to approach intricate challenges from a uniquely interdisciplinary perspective. This distinctive lens empowers me to conceptualize and implement **efficient, unorthodox strategies** that transcend conventional problem-solving frameworks.
+My research interests lie at the confluence of **efficient deep learning**, **classical and quantum machine learning**, **explainable AI (XAI)**, **uncertainty quantification**, and **physics-informed neural networks (PINNs)**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **graph representation learning**, **natural language processing (NLP)**, **operations research**, and **comparative genomics**, reflecting a commitment to addressing complex, real-world problems through innovative approaches. I strive to pioneer methodologies by either hybridizing diverse techniques or adopting paradigms from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial and Production Engineering** and extensive research experience in **comparative genomics** enable me to approach intricate challenges in machine learning from a uniquely interdisciplinary perspective. This distinctive lens empowers me to conceptualize and implement **efficient, unorthodox strategies** that transcend conventional machine learning frameworks.
 
 
 
@@ -69,10 +69,10 @@ My research interests lie at the confluence of **efficient deep learning**, **cl
               <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.70%;">
+              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.80%;">
 	    </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.48%;">
+              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.00%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:50%; width:62.5%;">
