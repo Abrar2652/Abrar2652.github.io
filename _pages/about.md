@@ -69,7 +69,7 @@ My research interests lie at the confluence of **efficient deep learning**, **cl
               <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.80%;">
+              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.78%;">
 	    </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.40%;">

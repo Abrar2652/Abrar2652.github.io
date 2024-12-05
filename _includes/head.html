@@ -55,7 +55,16 @@
     /* Make the image fully responsive */
       .carousel-inner img{ 
           margin: auto;
-      } 
+      }
+      
+       
+      .carousel-inner {
+        padding-bottom: 50%; /* this sets carousel aspect ratio (4:1 here) */
+      }
+      .carousel-item {
+        position: absolute !important; /* Bootstrap is insistent */
+      }
+
       .carousel-control-prev, .carousel-control-next {
         height: 50px;
         width: 50px;
