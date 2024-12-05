@@ -30,6 +30,10 @@ I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Enginee
 
 From my first year (2018), I began learning C/C++ and Python for problem-solving while maintaining academic excellence. I participated in international Mathematics (2019) and Astrophysics (2020) Olympiads at the undergraduate level, tackling complex research problems. My first taste of success on the international stage came from solving these research questions using my own algorithms, which significantly boosted my confidence and solidified my decision to switch and pursue a research career in AI. Since then, I have never stopped or looked back. I continuously invest in lifelong learning and deeply believe in the loyalty of knowledge and its enduring value.
 
+My research interests lie at the confluence of **efficient deep learning**, **classical and quantum machine learning**, **explainable AI (XAI)**, **uncertainty quantification**, and **physics-informed neural networks (PINNs)**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **graph representation learning**, **natural language processing (NLP)**, **operations research**, and **comparative genomics**, reflecting a commitment to addressing complex, real-world problems through innovative approaches. I strive to pioneer methodologies by either hybridizing diverse techniques or adopting paradigms from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial and Production Engineering** and extensive research experience in **comparative genomics** enable me to approach intricate challenges from a uniquely interdisciplinary perspective. This distinctive lens empowers me to conceptualize and implement **efficient, unorthodox strategies** that transcend conventional problem-solving frameworks.
+
+
+
 <br>
 
 
@@ -66,10 +70,10 @@ From my first year (2018), I began learning C/C++ and Python for problem-solving
               <img src="https://abrar2652.github.io/assets/img/YES_interview.jpg" alt="Md Abrar Jahin catching flight for the HONDA YES Award Interview" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.69%;">
+              <img src="https://abrar2652.github.io/assets/img/YES_award.jpeg" alt="Md Abrar Jahin's HONDA Y-E-S Finalist Award" class="d-block img-fluid" style="height:50%; width:66.70%;">
 	    </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.50%;">
+              <img src="https://abrar2652.github.io/assets/img/SROY_KRS.jpeg" alt="Student Researcher of the Year 2024 Award" class="d-block img-fluid" style="height:50%; width:42.48%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/rag_concert.jpg" alt="Md Abrar Jahin performing @KUET rag concert 2020" class="d-block img-fluid" style="height:50%; width:62.5%;">
