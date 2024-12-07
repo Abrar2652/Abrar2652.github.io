@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Researcher and Multidisciplinary Scientist # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: AI Researcher and Multidisciplinary Scientist # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   name: Md Abrar Jahin
@@ -14,7 +14,9 @@ profile:
   more_info: >
     <p>Kuril Mia Bari Road</p><br>
     <p>Vatara</p><br>
-    <p>Dhaka-1229, Bangladesh</p>
+    <p>Dhaka-1229, Bangladesh</p><br>
+    <p>Personal Email: abrar.jahin.2652[at]gmail.com</p><br>
+    <p>Institutional Email: mdabrar.jahin[at]oist.jp</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
