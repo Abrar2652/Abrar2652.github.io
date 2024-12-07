@@ -15,8 +15,8 @@ profile:
     <p>Kuril Mia Bari Road</p><br>
     <p>Vatara</p><br>
     <p>Dhaka-1229, Bangladesh</p><br>
-    <p>Contact: **abrar.jahin.2652[at]gmail.com**;</p><br>
-    <p>**mdabrar.jahin[at]oist.jp**</p>
+    <p>Contact: abrar.jahin.2652[at]gmail.com;</p><br>
+    <p>mdabrar.jahin[at]oist.jp</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
