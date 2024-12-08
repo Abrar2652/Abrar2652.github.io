@@ -122,7 +122,7 @@ I am the first undergraduate in Bangladesh whose thesis focused on Quantum Machi
 * First successful research related to 'Quantum Computing' published from KUET.
 * First work on the application of Explainable Quantum Machine Learning in the Supply Chain Management (SCM) domain.
 
-I received an encouraging email from [Dr. Junyu Liu](https://g.co/kgs/AeTGG1P){:target="_blank"} [(Google Scholar)](https://scholar.google.com/citations?user=dFcU7nsAAAAJ&hl=en){:target="_blank"}, a renowned quantum information and machine learning PostDoc at the University of Chicago and IBM. He is an Assistant Professor in the Department of CS, School of Computing and Information, the University of Pittsburgh. Dr. Liu was impressed by my undergraduate thesis, which he came across on arXiv preprint while it was under review.
+I received an encouraging email from [Prof. Junyu Liu](https://sites.google.com/view/junyuliu/main){:target="_blank"} [(Google Scholar)](https://scholar.google.com/citations?user=dFcU7nsAAAAJ&hl=en){:target="_blank"}, a renowned quantum information and machine learning PostDoc at the University of Chicago and IBM. He is an Assistant Professor in the Department of CS, School of Computing and Information, the University of Pittsburgh. Prof. Liu was impressed by my undergraduate thesis, which he came across on arXiv preprint while it was under review.
 
 
 
