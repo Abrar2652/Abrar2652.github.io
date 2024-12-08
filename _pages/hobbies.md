@@ -26,7 +26,7 @@ All of my business case solutions from my undergraduate years are available on [
 
 
 **Lead Guitar:**
-Another passion of mine is playing lead guitar. My musical journey began with acoustic guitar in class 8, and I gradually immersed myself in the enchanting world of *progressive rock, heavy metal, and alternative-rock* genres. I've performed on various college and university stages, showcasing my love for music. To express my passion for lead guitar, I've a personal [Youtube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share my guitar covers and musical explorations.
+Another passion of mine is playing lead guitar. My musical journey began with acoustic guitar in class 8, and I gradually immersed myself in the enchanting world of *progressive rock, heavy metal, and alternative-rock* genres. I've performed on various college and university stages, showcasing my love for music. Additionally, I used to teach lead guitar to fellow students during my college days, sharing techniques, tips, and my love for the instrument. To express my passion for lead guitar, I have a personal [YouTube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share my guitar covers and musical explorations.
 
 
 <div class="row mt-3">
@@ -64,7 +64,7 @@ Another passion of mine is playing lead guitar. My musical journey began with ac
 
 
 **Painting:**
-In the past, I enjoyed occasional ventures into painting, particularly abstract pieces created with watercolors. I participated in Inter House Painting Competitions and contributed to the Wall Magazine Competition back in my college days (2012-2018), an endeavor involving various art and literary content.
+In the past, I enjoyed occasional ventures into painting, particularly abstract pieces created with watercolors. I participated in Inter House Painting Competitions and contributed to the Wall Magazine Competition in my college days (2012-2018), involving various art and literary content. During this time, I also guided others in painting projects, helping to design and execute artistic contributions for various events.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
