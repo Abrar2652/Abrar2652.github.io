@@ -137,22 +137,22 @@ images:
 
 - **University of Aizu, Japan** <span style="float: right;">2023</span>  
   *QAmplifyNet: pushing the boundaries of supply chain backorder prediction using interpretable hybrid quantum-classical neural network*  
-  **Research Sponsor:** Prof. Jungpil Shin  
+  **Research Sponsor:** [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}  
 
 
 - **University of Aizu, Japan** <span style="float: right;">2023–Present</span>  
   *Analyzing Male Domestic Violence through Exploratory Data Analysis and Explainable Machine Learning Insights*  
-  **Research Sponsor:** Prof. Jungpil Shin  
+  **Research Sponsor:** [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}  
 
 
 - **Khalifa University, UAE** <span style="float: right;">2024–Present</span>  
   *TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical–Quantum Framework with Uncertainty Quantification*  
-  **Research Sponsor:** Prof. Zeyar Aung  
+  **Research Sponsor:** [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}  
 
 
 - **Khalifa University, UAE** <span style="float: right;">2024–Present</span>  
   *KACQ-DCNN: Uncertainty-Aware Interpretable Kolmogorov-Arnold Classical-Quantum Dual-Channel Neural Network for Heart Disease Detection*  
-  **Research Sponsor:** Prof. Zeyar Aung  
+  **Research Sponsor:** [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}  
 
 
 - **Okinawa Institute of Science and Technology (OIST), Japan** <span style="float: right;">2024–Present</span>  
@@ -162,8 +162,7 @@ images:
 
 - **University of Aizu, Japan** <span style="float: right;">2024</span>  
   *A Hybrid Transformer and Attention-Based Recurrent Neural Network for Robust and Interpretable Sentiment Analysis of Tweets*  
-  **Research Sponsor:** Prof. Yutaka Watanobe  
-
+  **Research Sponsor:** [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}
 
 
 <br>
