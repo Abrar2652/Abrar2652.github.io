@@ -128,6 +128,44 @@ images:
 | ■ Proposed a novel safety metric and forecasted its values using ML regressors: Ridge, Lasso, Elastic Net, Linear Regression, XGBRegressor |
 | ■ Effectively communicated project findings by presenting results at the final meeting, attended by 4 distinguished professors |
 
+
+<br>
+
+### Grants & Funding  
+
+#### Competitive Research Funding in AI  
+
+- **University of Aizu, Japan** <span style="float: right;">2023</span>  
+  *QAmplifyNet: pushing the boundaries of supply chain backorder prediction using interpretable hybrid quantum-classical neural network*  
+  **Research Sponsor:** Prof. Jungpil Shin  
+
+
+- **University of Aizu, Japan** <span style="float: right;">2023–Present</span>  
+  *Analyzing Male Domestic Violence through Exploratory Data Analysis and Explainable Machine Learning Insights*  
+  **Research Sponsor:** Prof. Jungpil Shin  
+
+
+- **Khalifa University, UAE** <span style="float: right;">2024–Present</span>  
+  *TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical–Quantum Framework with Uncertainty Quantification*  
+  **Research Sponsor:** Prof. Zeyar Aung  
+
+
+- **Khalifa University, UAE** <span style="float: right;">2024–Present</span>  
+  *KACQ-DCNN: Uncertainty-Aware Interpretable Kolmogorov-Arnold Classical-Quantum Dual-Channel Neural Network for Heart Disease Detection*  
+  **Research Sponsor:** Prof. Zeyar Aung  
+
+
+- **Okinawa Institute of Science and Technology (OIST), Japan** <span style="float: right;">2024–Present</span>  
+  *MCDFN: Supply Chain Demand Forecasting via an Explainable Multi-Channel Data Fusion Network Model*  
+  **Role:** Visiting Researcher  
+
+
+- **University of Aizu, Japan** <span style="float: right;">2024</span>  
+  *A Hybrid Transformer and Attention-Based Recurrent Neural Network for Robust and Interpretable Sentiment Analysis of Tweets*  
+  **Research Sponsor:** Prof. Yutaka Watanobe  
+
+
+
 <br>
 
 ## Peer Review Experiences
