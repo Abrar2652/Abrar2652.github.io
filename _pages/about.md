@@ -31,7 +31,7 @@ This is *Md Abrar Jahin, CSCA<sup>&trade;</sup>*; however, you can call me *Abra
 I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}. I am proud to have received the prestigious Dean's Award three consecutive times during my freshman, sophomore, and junior years (2018-2019, 2019-2020, and 2020-2021). 
 
 
-My research interests lie at the confluence of **efficient deep learning**, **classical and quantum machine learning**, **explainable AI (XAI)**, **uncertainty quantification**, and **physics-informed neural networks (PINNs)**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **graph representation learning**, **natural language processing (NLP)**, **operations research**, and **comparative genomics**. I aim to pioneer methodologies to solve complex problems by either hybridizing different techniques or adopting ideas from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial and Production Engineering** and extensive research experience in **comparative genomics** help me approach challenging issues in machine learning from a uniquely interdisciplinary perspective. This distinctive lens allows me to conceptualize and implement **efficient, unorthodox strategies** that go beyond conventional machine learning frameworks.
+My research interests lie at the confluence of **efficient deep learning**, **classical and quantum machine learning**, **explainable AI (XAI)**, **uncertainty quantification**, and **physics-informed neural networks (PINNs)**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **graph representation learning**, **natural language processing (NLP)**, **operations research**, and **comparative genomics**. I aim to pioneer methodologies to solve complex problems by either hybridizing different techniques or adopting ideas from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial & Production Engineering** and extensive research experience in **comparative genomics** help me approach challenging issues in machine learning from a uniquely interdisciplinary perspective. This distinctive lens allows me to conceptualize and implement **efficient, unorthodox strategies** that go beyond conventional machine learning frameworks.
 
 
 
@@ -137,6 +137,22 @@ I received an encouraging email from [Prof. Junyu Liu](https://sites.google.com/
 <div class="caption">
     My presentation demo on undergraduate thesis defense.
 </div>
+
+
+<br>
+
+
+## Personal and Professional Ethics
+
+During my academic journey, I have consistently upheld personal and professional ethics, often navigating challenging situations that tested my principles. Early in my sophomore year, I experienced an incident that highlighted the importance of vigilance and integrity in academia. A predatory journal, without my consent, published my internship report. As a novice in the academic world, this was a daunting challenge. However, after thorough research and consultation, I took decisive action by reporting the matter to COPE and directly confronting the journal with firm demands to remove my work. My persistent efforts were successful, and this experience taught me the significance of standing up for ethical principles, even when faced with intimidating circumstances. It also instilled in me a lifelong commitment to protecting the credibility and authenticity of scholarly work.
+
+Later, while working under Dr. Mohammad Arafat Hussain (Postdoctoral Fellow at Harvard Medical School) on a collaborative research project, I encountered a situation where a coauthor attempted to alter the authorship order without consent. Upholding my commitment to ethical research practices, I reported the issue to Dr. Hussain, who resolved it appropriately. This reinforced my understanding of the importance of transparency and accountability in collaborative work.
+
+In another instance, during the Lorentz-Equivariant Quantum Graph Neural Network project, I had to manage a team of four researchers. When two members struggled to contribute meaningfully, I reassigned them to a simpler project while completing the majority of the work independently to meet deadlines. This required balancing diplomacy with ethical responsibility, ensuring fairness to all team members while maintaining the quality of the research.
+
+I gained a deep appreciation for the value of scientific research that addresses real-world challenges while working under the mentorship of Prof. Jonathan Miller (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech). During this time, I observed the pressures of the publish-or-perish culture in academia but remained committed to conducting meaningful and ethical research. This experience reinforced my belief that being a researcher is more than a profession—it is a way of life, one I have embraced since my undergraduate years.
+
+These experiences have deeply influenced my approach to research and teamwork, instilling a strong foundation in ethical principles and equipping me to handle complex challenges professionally and fairly. I strive to uphold these values in all my academic and professional endeavors.
 
 
 <br>
