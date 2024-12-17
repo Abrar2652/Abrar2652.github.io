@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 **Problem Solving:**
-I find immense pleasure in honing my problem-solving skills through daily sessions of [Lumosity](https://www.lumosity.com/en/){:target="_blank"} brain games. These researcher-designed games challenge and improve my short-term memory, working memory, information processing speed, cognitive function, and fluid reasoning. Additionally, I used to participate in competitive programming contests such as Codeforces, Google Kickstart, and HashCode, where I pushed the boundaries of my problem-solving abilities.
+I find immense pleasure in honing my problem-solving skills through daily sessions of [Lumosity](https://www.lumosity.com/en/){:target="_blank"} brain games. These researcher-designed games challenge and improve my short-term memory, working memory, information processing speed, cognitive function, and fluid reasoning. Additionally, I used to participate in competitive programming contests such as Codeforces, Google Kickstart, and Google HashCode.
 
 
 **Online Learning and Continuing Education:**
