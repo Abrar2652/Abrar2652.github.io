@@ -54,6 +54,7 @@ images:
 | Lead Researcher | Mar 2023 - Present  |
 |:------------------------------|------------------------|
 | **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/), American International University-Bangladesh (AIUB), Bangladesh** | [Portfolio](https://amirl.org/peopleDetailsView/Md-Abrar-Jahin/){:target="_blank"} |
+| _Roles:_ Research Assistant (Mar 2023 - Dec 2023), Researcher (Dec 2023 - Feb 2024), Lead Researcher (May 2024 - Present)||
 | _Research Affiliations:_||
 |Department of Natural Language Processing and Computational Linguistics||
 |_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
