@@ -73,7 +73,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: md-abrar-jahin # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: VKKO-zAAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2119278185 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-1623-3859 # your ORCID ID
 medium_username: # your Medium username
@@ -84,11 +84,11 @@ osf_id: # your OSF ID
 research_gate_profile: Md-Abrar-Jahin-2 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://openreview.net/profile?id=~Md_Abrar_Jahin1 # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/297/5027  # your DBLP profile url
 stackoverflow_id: 13590227/md-abrar-jahin # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
