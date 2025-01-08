@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Md Abrar Jahin is an AI Researcher and Multidisciplinary Scientist. His research interests lie at the confluence of efficient deep learning, classical and quantum machine learning, explainable AI (XAI), uncertainty quantification, graph representation learning, physics-informed neural networks (PINN), and reinforcement learning (RL), with applications in high-energy physics, healthcare, and supply chain optimization. His prior work spans Natural Language Processing (NLP), Operations Research, and Comparative Genomics.
 footer_text: >
 
-keywords: Md Abrar Jahin, AI Researcher, Scientist, academic-website  # add your own keywords or leave empty
+keywords: Md Abrar Jahin, AI Researcher, Computer Scientist, academic-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon-abrar.ico #🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
