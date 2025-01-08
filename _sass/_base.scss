@@ -186,7 +186,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 25%;
+    width: 30%;
 
     .address {
       p {
@@ -649,7 +649,6 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
     text-align: right;
   }
 
@@ -662,20 +661,15 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        width: 100%;
-        min-width: 80px;
-        max-width: 500px;
       }
 
       .abbr {
-        height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          margin-bottom: 0.5rem;
 
           a {
             color: white;
