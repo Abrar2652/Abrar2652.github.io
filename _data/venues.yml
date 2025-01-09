@@ -5,7 +5,7 @@
   url: https://www.sciencedirect.com/journal/decision-analytics-journal
 
 "Arch. Comput. Methods Eng.":
-  url: https://iccv2023.thecvf.com/
+  url: https://link.springer.com/journal/11831
 
 "arXiv":
   url: https://arxiv.org/
@@ -13,8 +13,15 @@
 "Mendeley":
   url: https://data.mendeley.com/
 
-"Preprints":
-  url: https://www.noaa.gov/
+"BBCC":
+  url: https://www.bbcc-meetings.it/
 
-"TechRxiv":
-  url: https://www.noaa.gov/
+"SMBE":
+  url: https://www.smbe.org/smbe/
+
+"Heliyon":
+  url: https://www.cell.com/heliyon/home
+
+"PLoS ONE":
+  url: https://journals.plos.org/plosone/
+
