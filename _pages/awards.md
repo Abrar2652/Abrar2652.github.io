@@ -28,13 +28,13 @@ nav_order: 3
 
     {% for award in sorted_awards %}
     <div class="row mb-4">
-        <div class="col-2">
+        <div class="col-12 col-md-2 mb-2">
             <p class="text-muted">{{ award.year }} - {{ award.month }}</p>
             {% for image in award.preview_images %}
             <img data-zoomable class="preview z-depth-1 rounded" src="{{ image }}" alt="Award Preview" class="img-fluid mb-2">
             {% endfor %}
         </div>
-        <div class="col-8">
+        <div class="col-12 col-md-8">
             <h5>{{ award.title }}</h5>
             <p class="award-description">
                 <span id="awardDescription{{ forloop.index }}" class="award-description truncated">{{ award.description | truncatewords: 30 }}</span>
