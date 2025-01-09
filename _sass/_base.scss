@@ -678,6 +678,7 @@ footer.sticky-bottom {
 	width: 100%;
 	max-width: 500px;
         height: 200px; /* Set the desired constant height */
+        object-fit: cover; /* Ensures the image fits and scales proportionally */
       }
 
       .abbr {
