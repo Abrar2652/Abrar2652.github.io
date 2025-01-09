@@ -31,7 +31,7 @@ nav_order: 3
         <div class="col-2">
             <p class="text-muted">{{ award.year }} - {{ award.month }}</p>
             {% for image in award.preview_images %}
-            <img src="{{ image }}" alt="Award Preview" class="img-fluid mb-2">
+            <img data-zoomable class="preview z-depth-1 rounded" src="{{ image }}" alt="Award Preview" class="img-fluid mb-2">
             {% endfor %}
         </div>
         <div class="col-8">
