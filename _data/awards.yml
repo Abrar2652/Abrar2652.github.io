@@ -73,13 +73,14 @@ Words can hardly express the emotions that were swirling within me at that momen
 
 
 - year: "2023"
-  month: ""
+  month: "January"
   title: "Dean's Award 3x (2018-2019, 2019-2020, and 2020-2021)"
   description: "Received 3 Dean's awards in recognition of achieving annual GPAs greater than 3.75 out of 4.00 in three consecutive years of undergraduate classes at Khulna University of Engineering and Technology, Khulna, Bangladesh."
   certificate: "/assets/pdf/awards/ssc1.pdf"
   preview_images: 
-    - "/assets/img/awards/ssc.jpg"
-  pdf: "/assets/pdf/awards/ssc2.pdf"
+    - "/assets/img/awards/dean_award3.jpg"
+    - "/assets/img/awards/dean_award1.jpg"
+    - "/assets/img/awards/dean_award2.jpg"
   linkedin: "https://www.linkedin.com/posts/md-abrar-jahin_deansaward-success-undergradschool-activity-7023628288740794368-mdWO?utm_source=share&utm_medium=member_desktop"
   embed_post: '<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023628288082264064" height="300" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
 
