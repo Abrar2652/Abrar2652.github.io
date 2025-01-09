@@ -674,10 +674,23 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-	width: 100%;
-        object-fit: contain; /* Adds padding to maintain the entire image */
+     .preview {
+        width: 100%; /* Scales the image width within its container */
+        height: auto; /* Automatically adjusts height to maintain aspect ratio */
+        object-fit: contain; /* Ensures the entire image is displayed */
+        max-width: 500px; /* Optional: Limit the maximum width */
+        cursor: zoom-in; /* Indicates zoom functionality */
       }
+
+     .preview[data-zoomable] {
+        cursor: zoom-in; /* Default cursor for zoomable images */
+     }
+
+     .preview[data-zoomable]:active {
+        transform: scale(1.5); /* Zoom effect */
+        cursor: zoom-out;
+        transition: transform 0.3s ease;
+     }
 
       .abbr {
         margin-bottom: 0.5rem;
