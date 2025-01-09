@@ -71,7 +71,7 @@ In the past, I enjoyed occasional ventures into painting, particularly abstract 
         {% include figure.html loading="eager" path="assets/img/paint1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/paint2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html loading="eager" path="assets/img/paint2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
