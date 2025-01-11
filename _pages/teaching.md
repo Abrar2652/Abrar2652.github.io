@@ -50,6 +50,14 @@ _Current Students_:
 * Shahriar Soudeep (AIUB)
 * Md. Ariful Islam (AIUB)
 * 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB
+    - Khalid Bin Mahamud Bhuiya
+    - Md. Ashfaq Bin Hoque
+    - Md. Mostakim Ali
+    - Md. Sakib Sarwar
+    - Md. Saimul Islam Saif
+    - Md. Shahab Uddin
+    - Resadus Salehin Rafsan
+    - Emam Hossain Kazol
 * Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
 * Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
 
