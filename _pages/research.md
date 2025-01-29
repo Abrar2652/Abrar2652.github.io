@@ -12,15 +12,18 @@ images:
 
 ## Research Interests
 
-* Machine Learning (ML) & Deep Learning (DL)
-    * Explainable AI (XAI)
-    * Reinforcement Learning (RL)
+* Efficient Machine Learning (ML) & Deep Learning (DL)
     * Physics-Informed Neural Network (PINN)
     * Natural Language Processing (NLP)
 * Quantum Computing
     * Quantum Machine Learning (QML)
-* Uncertainty Quantification
-* Comparative Genomics
+* Trustworthy AI
+    * Explainable AI (XAI)
+* Self-Supervised Learning (SSL)
+    * Contrastive Learning
+* Reinforcement Learning (RL)
+* Uncertainty Quantification (UQ)
+    * Conformal Prediction (CP)
 
 <br>
 
