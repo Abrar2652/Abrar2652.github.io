@@ -22,6 +22,8 @@ images:
 * Self-Supervised Learning (SSL)
     * Contrastive Learning
 * Reinforcement Learning (RL)
+    * Inverse RL (IRL)
+    * Imitation Learning
 * Uncertainty Quantification (UQ)
     * Conformal Prediction (CP)
 
