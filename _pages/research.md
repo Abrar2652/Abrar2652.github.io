@@ -109,16 +109,16 @@ images:
 
 <div class="row mt-4">
     <div class="col-sm mt-4 mt-md-0">
-        {% include video.html path="assets/video/meeting1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/meeting1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include video.html path="assets/video/meeting2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/meeting2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include video.html path="assets/video/meeting3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/meeting3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include video.html path="assets/video/meeting4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/meeting4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 
