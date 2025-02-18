@@ -105,6 +105,24 @@ images:
 | ■ Led the research team of 17 fellow researchers on a project titled "[Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies](https://www.preprints.org/manuscript/202303.0296/v3)" |
 | ■ Contributed to writing the original manuscript, software implementation, and data curation and served as a corresponding author for the entire communication with the journal |
 
+<br>
+
+<div class="row mt-4">
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.html path="assets/video/meeting1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.html path="assets/video/meeting2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.html path="assets/video/meeting3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.html path="assets/video/meeting4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
+
 
 <br>
 
@@ -175,15 +193,18 @@ images:
 
 ## Peer Review Experiences
 
-Reviewed a total of 16 journal articles verified by Web of Science, as of December 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
-* IEEE Access
-* Computers & Industrial Engineering (Elsevier)
+Reviewed a total of 18 journal articles verified by Web of Science, as of December 2024 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+
+* Scientific Reports (Nature Portfolio)
+* ACM Transactions on Intelligent Systems and Technology
 * Expert Systems with Applications (Elsevier)
+* IEEE Access
+* Neural Networks (Elsevier)
+* Computers & Industrial Engineering (Elsevier)
 * Multimedia Tools and Applications (Springer Nature)
 * Engineering Applications of Artificial Intelligence (Elsevier)
 * The Journal of Supercomputing (Springer Nature)
 * Cluster Computing (Springer Nature)
-* Scientific Reports (Nature Portfolio)
 * Journal of Contemporary African Studies (Taylor & Francis)
 * Journal of Multidisciplinary Healthcare (Taylor & Francis)
 * 7th European Conference on Industrial Engineering and Operations Management (Augsburg, Germany, July 2024)
