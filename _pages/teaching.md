@@ -19,6 +19,9 @@ nav_order: 4
         {% include video.html path="assets/video/meeting_skill_pill.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
+<div class="caption">
+    Meeting with Dr. Nicholas Wardhana (right) and Dr. Jeremie Gillet (left) for preparing mini-course materials.
+</div>
 
 
 #### Operations Research 
