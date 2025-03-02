@@ -62,7 +62,7 @@ images:
 | _Roles:_ Research Assistant (Mar 2023 - Dec 2023), Researcher (Dec 2023 - Feb 2024), Lead Researcher (May 2024 - Present)||
 | _Research Affiliations:_||
 |Department of Natural Language Processing and Computational Linguistics||
-|_Supervisor:_ [Dr. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Associate Professor, Department of Computer Science, AIUB)| |
+|_Supervisor:_ [Prof. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Professor, Department of Computer Science, AIUB)| |
 |Collaborators: [Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"} (IEEE Fellow), [Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}, [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}, [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}, [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}, [Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}, [Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ){:target="_blank"}| |
 | ■ Published articles in the fields of DL, QML, GNN, XAI, conformal prediction, human-in-the-loop, NLP, and operations research | |
 
