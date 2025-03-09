@@ -28,11 +28,11 @@
 "OPSEARCH":
   url: https://link.springer.com/journal/12597
 
-"TAI":
+"IEEE TAI":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688
 
 
-"TNNLS":
+"IEEE TNNLS":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
 
 "Nature npj AI":
@@ -59,9 +59,14 @@
 "IEEE TAFE":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9787768
 
+"Comput. Biol. Med.":
+  url: https://www.sciencedirect.com/journal/computers-in-biology-and-medicine
 
+"Pattern Recognit.":
+  url: https://www.sciencedirect.com/journal/pattern-recognition
 
-
+"IEEE T-ASE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856
 
 
 
