@@ -21,7 +21,7 @@ images:
 * Trustworthy AI
     * Explainable AI (XAI)
     * Uncertainty Quantification (UQ)
-	* Conformal Prediction (CP)
+        * Conformal Prediction (CP)
 * Self-Supervised Learning (SSL)
     * Contrastive Learning
 * Reinforcement Learning (RL)
