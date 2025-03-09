@@ -51,7 +51,7 @@ images:
 
 <br>
 
-| Visiting Researcher (VR)           | Mar 2024 - Present |
+| Visiting Researcher (VR)           | Mar 2024 - Mar 2025 |
 |:-------------------------------|--------------------|
 |**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
 |_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
