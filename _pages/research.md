@@ -13,19 +13,23 @@ images:
 ## Research Interests
 
 * Efficient Machine Learning (ML) & Deep Learning (DL)
+    * Kolmogorov Arnold Networks (KAN)
+    * Geometric & Spiking Neural Networks
     * Physics-Informed Neural Network (PINN)
-    * Natural Language Processing (NLP)
 * Quantum Computing
     * Quantum Machine Learning (QML)
 * Trustworthy AI
     * Explainable AI (XAI)
+    * Uncertainty Quantification (UQ)
+	* Conformal Prediction (CP)
 * Self-Supervised Learning (SSL)
     * Contrastive Learning
 * Reinforcement Learning (RL)
     * Inverse RL (IRL)
     * Imitation Learning
-* Uncertainty Quantification (UQ)
-    * Conformal Prediction (CP)
+    * Human-in-the-loop RL
+* Natural Language Processing (NLP)
+    * Sentiment Analysis
 
 <br>
 
