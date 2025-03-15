@@ -150,6 +150,7 @@ images:
 |:--------------------------|--------------------------|
 | **UiT - The Arctic University of Norway** | [Internship Report](https://arxiv.org/abs/2107.06755){:target="_blank"} |
 | _Supervisors:_ [Ghada Bouzidi](https://www.linkedin.com/in/ghada-bouzidi-12236a58/?originalSubdomain=no){:target="_blank"}, [Prof. Aleksander Pedersen](https://en.uit.no/ansatte/person?p_document_id=445080){:target="_blank"}, [Prof. Rune Dalmo](https://en.uit.no/ansatte/rune.dalmo){:target="_blank"} |  
+| _Internship Mentor:_ [Prof. Per Arne Sundsbø](https://en.uit.no/ansatte/person?p_document_id=445173){:target="_blank"} | 
 | _Duties included:_   | [Code Repository](https://github.com/DentonJC/DIT){:target="_blank"} |
 | ■ Conducted comprehensive data and statistical analysis on the Narvik road dataset as part of the DIT4BEARs Smart Road project |
 | ■ Designed, implemented, and evaluated ML models (classifiers: KNN, Logistic Regression, XGBoost, Prophet) that identified the road state as one of the following states: dry, moist, wet, icy, snowy, slushy) to tackle the winter weather challenges encountered in the Barren Euro-Arctic region |
