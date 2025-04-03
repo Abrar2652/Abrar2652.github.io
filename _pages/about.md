@@ -2,21 +2,22 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Researcher and Multidisciplinary Scientist # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS PhD Student & Graduate Fellow at USC Viterbi. AI Researcher (DARPA-funded) at Center on Knowledge Graphs, Information Sciences Institute (ISI). # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   name: Md Abrar Jahin
-  position: AI Researcher and Multidisciplinary Scientist
+  position: CS PhD Student & Graduate Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, ISI
   align: right
   image: md_abrar_jahin.jpg
   email: abrar.jahin.2652@gmail.com
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>Kuril Mia Bari Road</p><br>
-    <p>Vatara</p><br>
-    <p>Dhaka-1229, Bangladesh</p><br>
-    <p>Contact: abrar.jahin.2652[at]gmail.com;</p><br>
-    <p>mdabrar.jahin[at]oist.jp</p>
+    <p>Kuril Mia Bari Road</p>
+    <p>Vatara</p>
+    <p>Dhaka-1229, Bangladesh</p>
+    <p><strong>Contact:</strong></p>
+    <p>abrar.jahin.2652 [at] gmail.com</p>
+    <p>jahin [at] usc.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,8 +29,9 @@ images:
 
 This is *Md Abrar Jahin, CSCA<sup>&trade;</sup>*; however, you can call me *Abrar*. 
 
-I obtained my B.Sc. Eng. in IPE (2024) from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}. I am proud to have received the prestigious Dean's Award three consecutive times during my freshman, sophomore, and junior years (2018-2019, 2019-2020, and 2020-2021). 
+I am a **CS PhD student at the [Thomas Lord Department of Computer Science, Viterbi School of Engineering, University of Southern California (USC)](https://www.cs.usc.edu/){:target="_blank"}** and a USC Graduate Fellow for the first year. I am affiliated with the **[Center on Knowledge Graphs](https://www.isi.edu/centers/knowledge-graphs/){:target="_blank"} at the [Information Sciences Institute (ISI)](https://www.isi.edu/) (at the heart of Silicon Beach)** and am fortunate to be co-advised by **[Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"}**. My research at ISI will be generously supported by the Defense Advanced Research Projects Agency (DARPA), a US Department of Defense agency. I have also been awarded the **USC Graduate Fellowship** for my first year.
 
+Before joining USC, I obtained my B.Sc. in Industrial & Production Engineering (2024) from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}.
 
 My research interests lie at the confluence of **efficient deep learning**, **quantum machine learning**, **geometric deep learning**, and **trustworthy AI**, with applications in **high-energy physics**, **healthcare**, and **supply chain optimization**. My prior work spans **reinforcement learning**, **sentiment analysis**, **operations research**, and **comparative genomics**. I aim to pioneer methodologies to solve complex problems by either hybridizing different techniques or adopting ideas from seemingly unrelated fields to create **novel, interdisciplinary solutions**. My background in **Industrial & Production Engineering** and extensive research experience in **comparative genomics** help me approach challenging issues in machine learning from a uniquely interdisciplinary perspective. This distinctive lens allows me to conceptualize and implement **efficient, unorthodox strategies** that go beyond conventional machine learning frameworks.
 
