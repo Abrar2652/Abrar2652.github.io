@@ -49,16 +49,9 @@ images:
 </div>
 
 
-<br>
-
-| Visiting Researcher (VR)           | Mar 2024 - Mar 2025 |
-|:-------------------------------|--------------------|
-|**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
-|_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
-|_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
-| ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
 
 <br>
+
 
 | Lead Researcher | Mar 2023 - Present  |
 |:------------------------------|------------------------|
@@ -69,6 +62,16 @@ images:
 |_Supervisor:_ [Prof. Mohammad Firoz Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"} (Professor, Department of Computer Science, AIUB)| |
 |Collaborators: [Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"} (IEEE Fellow), [Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}, [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}, [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}, [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}, [Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}, [Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ){:target="_blank"}| |
 | ■ Published articles in the fields of DL, QML, GNN, XAI, conformal prediction, human-in-the-loop, NLP, and operations research | |
+
+
+<br>
+
+| Visiting Researcher (VR)           | Mar 2024 - Mar 2025 |
+|:-------------------------------|--------------------|
+|**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
+|_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
+|_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
+| ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
 
 
 <br>
