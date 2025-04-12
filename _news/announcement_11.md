@@ -1,13 +1,14 @@
 ---
 layout: post
-date: 2024-07-11 15:51:00-0000
+date: 2024-07-10 15:51:00-0000
 inline: true
 related_posts: false
 ---
 
-Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his opinion about our latest research article "TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification" (available as arXiv preprint).
-
+Our 2 research articles got published in Q1 journals (both Scopus and Web of Science indexed).
 <br>
-<div class="mb-3">
-   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Conformal prediction + quantum computing = NASA grade science to forecast solar wind.<a href="https://twitter.com/hashtag/conformalprediction?src=hash&amp;ref_src=twsrc%5Etfw">#conformalprediction</a> <a href="https://t.co/q2Or26tw7E">pic.twitter.com/q2Or26tw7E</a></p>&mdash; Valeriy M., PhD, MBA, CQF (@predict_addict) <a href="https://twitter.com/predict_addict/status/1810975135697944821?ref_src=twsrc%5Etfw">July 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+
+[1] Saha, A. K.\*, Jahin, M. A.\*, Rafiquzzaman, Md., & Mridha, M. F. (2024). Ergonomic Design of Computer Laboratory Furniture: Mismatch Analysis Utilizing Anthropometric Data of University Students. *Heliyon*, e34063. [https://doi.org/10.1016/j.heliyon.2024.e34063](https://doi.org/10.1016/j.heliyon.2024.e34063)
+<br>
+
+[2] Ahmad, K.\*, Islam, M. S., Jahin, M. A.\*, & Mridha, M. F. (2024). Analysis of Internet of things implementation barriers in the cold supply chain: An integrated ISM-MICMAC and DEMATEL approach. *PLOS ONE*, *19*(7), e0304118. [https://doi.org/10.1371/journal.pone.0304118](https://doi.org/10.1371/journal.pone.0304118)

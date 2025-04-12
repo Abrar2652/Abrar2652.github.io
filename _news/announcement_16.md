@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-20 15:51:00-0000
+date: 2025-03-25 21:07:00-0000
 inline: true
 related_posts: false
 ---
 
-​Our article, "Lorentz-Equivariant Quantum Graph Neural Network for High-Energy Physics," [[Full Text](https://ieeexplore.ieee.org/document/10938398){:target="_blank"}] has been accepted for publication in IEEE Transactions on Artificial Intelligence (TAI). This marks the first Transactions article for our AMIR lab. My co-supervisors are extremely delighted with this remarkable achievement.
+​Our article, "Ultrasound-Based AI for COVID-19 Detection: A Comprehensive Review of Public and Private Lung Ultrasound Datasets and Studies," [[Full Text](https://doi.org/10.1007/s11042-025-20802-5){:target="_blank"}] has been accepted for publication in Multimedia Tools and Applications (Springer Nature).

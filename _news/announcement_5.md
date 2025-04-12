@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-08 12:40:00-0400
+date: 2024-02-27 20:44:00-0400
 inline: true
 related_posts: false
 ---
 
-I developed the first-ever LaTeX template for B.Sc. Undergrad Thesis of KUET! [Template](https://www.overleaf.com/latex/templates/kuet-b-dot-sc-thesis-template-md-abrar-jahin/gkcnqrscxpqm){:target="_blank"}
+I successfully defended my B.Sc. undergrad thesis! Thesis Title: "Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum-Classical Neural Network" published in Nature Scientific Reports). upervised By: Dr. Md. Saiful Islam, Associate Professor

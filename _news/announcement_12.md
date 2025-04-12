@@ -1,14 +1,16 @@
 ---
 layout: post
-date: 2024-07-10 15:51:00-0000
+date: 2024-07-14 15:51:00-0000
 inline: true
 related_posts: false
 ---
 
-Our 2 research articles got published in Q1 journals (both Scopus and Web of Science indexed).
+Cierra Choucair (pursuing MS in CS @CU Boulder, USA) shared her optimistic insights on Twitter about our latest research article, 'TriQXNet' (not yet published), which is available as a preprint and featured this work on 'The Daily Qubit'.
 <br>
 
-[1] Saha, A. K.\*, Jahin, M. A.\*, Rafiquzzaman, Md., & Mridha, M. F. (2024). Ergonomic Design of Computer Laboratory Furniture: Mismatch Analysis Utilizing Anthropometric Data of University Students. *Heliyon*, e34063. [https://doi.org/10.1016/j.heliyon.2024.e34063](https://doi.org/10.1016/j.heliyon.2024.e34063)
-<br>
+[1] Labs, U. (2024, June 25). The Daily Qubit. *The Daily Qubit*. [https://www.thedailyqubit.com/p/issue-97](https://www.thedailyqubit.com/p/issue-97)
 
-[2] Ahmad, K.\*, Islam, M. S., Jahin, M. A.\*, & Mridha, M. F. (2024). Analysis of Internet of things implementation barriers in the cold supply chain: An integrated ISM-MICMAC and DEMATEL approach. *PLOS ONE*, *19*(7), e0304118. [https://doi.org/10.1371/journal.pone.0304118](https://doi.org/10.1371/journal.pone.0304118)
+<br>
+<div class="mb-3">
+   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">TriQXNet, a hybrid classical-quantum neural network, was developed for more accurate prediction of geomagnetic storms, which disrupt power grids and satellite communications. More about these storms below:<a href="https://t.co/61trPEpHBp">https://t.co/61trPEpHBp</a></p>&mdash; Cierra Choucair (@cierrachoucair) <a href="https://twitter.com/cierrachoucair/status/1811877513792016655?ref_src=twsrc%5Etfw">July 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

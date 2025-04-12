@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-27 20:44:00-0400
+date: 2024-02-28 19:38:00-0400
 inline: true
 related_posts: false
 ---
 
-I successfully defended my B.Sc. undergrad thesis! Thesis Title: "Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum-Classical Neural Network" published in Nature Scientific Reports). upervised By: Dr. Md. Saiful Islam, Associate Professor
+Successfully arranged Research Counseling Program (Part-1), from KRS IEM Research Unit. The keynote speaker was Shawkat Shakil (PhD Candidate in ME, The University of Toledo, USA) from IEM'14, KUET.

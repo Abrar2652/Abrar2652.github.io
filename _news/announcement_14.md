@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2024-10-10 15:51:00-0000
+date: 2024-11-08 15:51:00-0000
 inline: true
 related_posts: false
 ---
 
-Our 2 articles got accepted for publication in **PLOS ONE** and **Nature Scientific Reports**, respectively:
-<br>
-[1] Shahriar\*, H., Islam, M.S., Jahin\*, M.A., Ridoy, I.A., Prottoy, R.R., Abid, A., Mridha, M.F. (2024). Exploring Internet of Things Adoption Challenges in Manufacturing Firms: A Fuzzy Analytical Hierarchy Process Approach. **PLOS ONE**. [https://doi.org/10.48550/arXiv.2309.12350](https://doi.org/10.48550/arXiv.2309.12350)
-<br>
-[2] Jahin, M.A., Shovon, M.S.H., Mridha, M.F., Islam, M.R., Watanobe, Y. (2024). A Hybrid Transformer and Attention Based Recurrent Neural Network for Robust and Interpretable Sentiment Analysis of Tweets. **Nature Scientific Reports**. [https://doi.org/10.48550/arXiv.2404.00297](https://doi.org/10.48550/arXiv.2404.00297)
+Valeriy M., PhD, MBA, CQF (author of bestselling "Practical Guide to Applied Conformal-Prediction") shared his optimistic views about our latest research article "Human-in-the-Loop Feature Selection Using Interpretable Kolmogorov-Arnold Network-based Double Deep Q-Network" (available as arXiv preprint).
 
+<br>
+<div class="mb-3">
+   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kolmogorov-Arnold Networks (KANs) are on an unstoppable rise! It’s interesting how the once vocal &#39;KAN critics&#39; seem to have gone quiet. <br><br>Have you noticed?<a href="https://twitter.com/hashtag/KAN?src=hash&amp;ref_src=twsrc%5Etfw">#KAN</a> <a href="https://t.co/XyghwzeMUp">pic.twitter.com/XyghwzeMUp</a></p>&mdash; Valeriy M., PhD, MBA, CQF (@predict_addict) <a href="https://twitter.com/predict_addict/status/1854603293307064339?ref_src=twsrc%5Etfw">November 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
