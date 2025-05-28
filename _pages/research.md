@@ -201,7 +201,7 @@ images:
 
 ## Peer Review Experiences
 
-Reviewed for 2 conferences and 13 journals verified by Web of Science, as of May 2025 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+Reviewed for 1 conference, 1 workshop, and 13 journals verified by Web of Science, as of May 2025 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
 * LatinX in AI Workshop at ICML 2025
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
