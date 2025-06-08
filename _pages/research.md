@@ -201,8 +201,10 @@ images:
 
 ## Peer Review Experiences
 
-Reviewed for 1 conference, 1 workshop, and 13 journals verified by Web of Science, as of May 2025 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+Reviewed for 1 conference, 3 workshops, and 13 journals verified by Web of Science, as of May 2025 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains
+* Actionable Interpretability Workshop at ICML 2025
 * LatinX in AI Workshop at ICML 2025
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * Scientific Reports (Nature Portfolio)
