@@ -12,8 +12,6 @@ profile:
   email: abrar.jahin.2652@gmail.com
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>Sufur Tower,</p>
-    <p>Kuril Chowrasta</p>
     <p>Dhaka-1229, Bangladesh</p>
     <p><strong>Contact:</strong></p>
     <p>abrar.jahin.2652[at]gmail.com</p>
