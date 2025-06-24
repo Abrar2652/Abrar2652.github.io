@@ -49,17 +49,19 @@ nav_order: 4
 In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, AIUB, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented undergraduate admission aspirants in the USA, one of whom has already been admitted with a fully-funded scholarship.
 
 _Current Students_:
-* Saleh Akram Naife (KUET)
-* Adiba Abid (KUET)
-* Raihan Rafi Prottoy (KUET)
-* Sadman Mohammad Nasif (KUET)
-* MD Zaid Hossain (KUET)
+* Taufikur Rahman Fuad (IUT EEE)
+* Saleh Akram Naife (KUET IEM)
+* Adiba Abid (KUET IEM)
+* Raihan Rafi Prottoy (KUET IEM)
+* Sadman Mohammad Nasif (KUET CSE)
+* MD Zaid Hossain (KUET IEM)
 * Ashraf Raiyan (KUET)
-* Fatema Tuj Johora Lima (SUST)
-* Md Wahiduzzaman Suva (AIUB)
-* Shahriar Soudeep (AIUB)
-* Md. Ariful Islam (AIUB)
-* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB
+* Arian Rahman Aditto (KUET ECE)
+* Fatema Tuj Johora Lima (SUST PS)
+* Md Wahiduzzaman Suva (AIUB CSE)
+* Shahriar Soudeep (AIUB CSE)
+* Md. Ariful Islam (AIUB CSE)
+* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB CSE
     - Khalid Bin Mahamud Bhuiya
     - Md. Ashfaq Bin Hoque
     - Md. Mostakim Ali
@@ -68,8 +70,8 @@ _Current Students_:
     - Md. Shahab Uddin
     - Resadus Salehin Rafsan
     - Emam Hossain Kazol
-* Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarships from 2 top US schools)
-* Afia Maimuna Easha (Undergrad admission candidate, Fall'25, USA)
+* Mushfirat Mohaimin (Offered undergrad admissions with merit-based scholarship from the University of South Florida)
+* Afia Maimuna Easha (Offered undergrad admissions with merit-based scholarship from Rhodes College)
 
 
 
