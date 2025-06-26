@@ -172,11 +172,6 @@ images:
   **Research Sponsor:** [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}  
 
 
-- **University of Aizu, Japan** <span style="float: right;">2023–Present</span>  
-  *Analyzing Male Domestic Violence through Exploratory Data Analysis and Explainable Machine Learning Insights*  
-  **Research Sponsor:** [Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}  
-
-
 - **Khalifa University, UAE** <span style="float: right;">2024–Present</span>  
   *TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical–Quantum Framework with Uncertainty Quantification*  
   **Research Sponsor:** [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}  
@@ -187,14 +182,26 @@ images:
   **Research Sponsor:** [Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}  
 
 
-- **Okinawa Institute of Science and Technology (OIST), Japan** <span style="float: right;">2024–Present</span>  
+- **Hamad Bin Khalifa University, Qatar** <span style="float: right;">2024–2025</span>  
   *MCDFN: Supply Chain Demand Forecasting via an Explainable Multi-Channel Data Fusion Network Model*  
-  **Role:** Visiting Researcher  
+  **Research Sponsor:** [Prof. Md Al Amin](https://scholar.google.com/citations?user=ecREYz8AAAAJ&hl=en){:target="_blank"}
 
 
 - **University of Aizu, Japan** <span style="float: right;">2024</span>  
   *A Hybrid Transformer and Attention-Based Recurrent Neural Network for Robust and Interpretable Sentiment Analysis of Tweets*  
-  **Research Sponsor:** [Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}
+  **Research Sponsor:** [Prof. Yutaka Watanobe](https://scholar.google.com/citations?user=8-JMYA8AAAAJ&hl=en){:target="_blank"}
+
+
+- **Multimedia University, Malaysia** <span style="float: right;">2025</span>  
+  *CAGN-GAT Fusion: A Hybrid Contrastive Attentive Graph Neural Network for Network Intrusion Detection*  
+  **Research Sponsor:** [Prof. Hezerul Abdul Karim](https://mmuexpert.mmu.edu.my/hezerul){:target="_blank"}  
+
+
+- **Multimedia University, Malaysia** <span style="float: right;">2025</span>  
+  *Vision Transformers for End-to-End Quark-Gluon Jet Classification from Calorimeter Images*  
+  **Research Sponsor:** [Prof. Md. Jakir Hossen](https://mmuexpert.mmu.edu.my/jakirhossen){:target="_blank"}
+
+ 
 
 
 <br>
