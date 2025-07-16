@@ -46,7 +46,7 @@ nav_order: 4
 
 
 #### Research Mentor
-In addition to conducting individual research, I mentor enthusiastic students from three top Bangladeshi universities: KUET, AIUB, IUT, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented students applying to U.S. universities, both of whom earned merit scholarships.
+In addition to conducting individual research, I mentor enthusiastic students from the top Bangladeshi universities: KUET, AIUB, IUT, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented students applying to U.S. universities, both of whom earned merit scholarships.
 
 _Current Students_:
 * Taufikur Rahman Fuad (IUT EEE)
