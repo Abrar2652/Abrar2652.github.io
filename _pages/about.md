@@ -12,7 +12,7 @@ profile:
   email: abrar.jahin.2652@gmail.com
   image_circular: False # crops the image to make it circular
   more_info: >
-    <p>Dhaka-1229, Bangladesh</p>
+    <p>Los Angeles, CA 90007, USA</p>
     <p><strong>Contact:</strong></p>
     <p>abrar.jahin.2652[at]gmail.com</p>
     <p>jahin[at]usc.edu</p>
