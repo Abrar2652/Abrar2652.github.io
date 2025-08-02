@@ -46,22 +46,22 @@ nav_order: 4
 
 
 #### Research Mentor
-In addition to conducting individual research, I mentor enthusiastic students from the top Bangladeshi universities: KUET, AIUB, IUT, and SUST. Most of these students are in their 3rd and 4th years of study. My role involves teaching them scientific research methodology, article writing, research ethics, and journal formatting. I also help them acquire funding to support their research endeavors. I am proud to have mentored two talented students applying to U.S. universities, both of whom earned merit scholarships.
+Besides conducting independent research, I supervise self-driven students from the leading Bangladeshi universities: KUET, AIUB, IUT, and SUST. They are mostly in their 3rd and 4th years of their studies. I teach them how to do scientific research, how to write articles, what are the do's and don'ts of research ethics are, and how to follow the formats of different journals. I also help them acquire funding to support their research endeavors. I am proud to have supervised two talented high-school students in their research projects, both of whom earned merit scholarships to pursue a BS in the US universities.
 
 _Current Students_:
-* Taufikur Rahman Fuad (IUT EEE)
-* Saleh Akram Naife (KUET IEM)
-* Adiba Abid (KUET IEM)
-* Raihan Rafi Prottoy (KUET IEM)
-* Sadman Mohammad Nasif (KUET CSE)
-* MD Zaid Hossain (KUET IEM)
-* Ashraf Raiyan (KUET)
-* Arian Rahman Aditto (KUET ECE)
-* Fatema Tuj Johora Lima (SUST PS)
-* Md Wahiduzzaman Suva (AIUB CSE)
-* Shahriar Soudeep (AIUB CSE)
-* Md. Ariful Islam (AIUB CSE)
-* 2 groups of students (quantum machine learning and graph learning research), each consisting of 4 members from AIUB CSE
+* Taufikur Rahman Fuad (BS, IUT EEE)
+* Saleh Akram Naife (BS, KUET IEM)
+* Adiba Abid (BS, KUET IEM)
+* Raihan Rafi Prottoy (BS, KUET IEM)
+* Sadman Mohammad Nasif (BS, KUET CSE)
+* MD Zaid Hossain (BS, KUET IEM)
+* Ashraf Raiyan (BS, KUET CSE)
+* Arian Rahman Aditto (BS, KUET ECE)
+* Fatema Tuj Johora Lima (BS & MS, SUST PS)
+* Md Wahiduzzaman Suva (BS, AIUB CSE)
+* Shahriar Soudeep (BS, AIUB CSE)
+* Md. Ariful Islam (MS, AIUB CSE)
+* 2 groups of undergrads (quantum machine learning and graph learning research), each consisting of 4 members from AIUB CSE
     - Khalid Bin Mahamud Bhuiya
     - Md. Ashfaq Bin Hoque
     - Md. Mostakim Ali

@@ -9,25 +9,20 @@ horizontal: false
 ---
 
 **Problem Solving:**
-I find immense pleasure in honing my problem-solving skills through daily sessions of [Lumosity](https://www.lumosity.com/en/){:target="_blank"} brain games. These researcher-designed games challenge and improve my short-term memory, working memory, information processing speed, cognitive function, and fluid reasoning. Additionally, I used to participate in competitive programming contests such as Codeforces, Google Kickstart, and Google HashCode.
-
-
-**Online Learning and Continuing Education:**
-My thirst for knowledge in my research domain drives me to engage in continuous learning. I regularly follow online blogs such as *Towards Data Science*, *Medium*, and *Kaggle Notebooks*, and stay updated with the latest state-of-the-art research on *ResearchGate*. Additionally, I take courses on platforms like *DataCamp*, *edX*, and *Coursera*. This commitment to ongoing education helps me stay current and competitive with the latest research trends in my field. My online course certificates are showcased on my LinkedIn profile.
+I enjoy training my problem solving skills through daily problem solving brain games on [Lumosity](https://www.lumosity.com/en/){:target="_blank"}. Previously, I used to take part in competitive programming contests like Codeforces, Google Kickstart, and Google HashCode.
 
 
 **Contribution as a Peer Reviewer:**
-I actively contribute to the academic community as a referee for esteemed Q1 journals. My commitment to reviewing scholarly work allows me to play a crucial role in maintaining the quality and rigor of research publications. By providing constructive feedback and insightful evaluations, I contribute to the advancement of knowledge within my field. Check out my peer review recognition by Web of Science [here](https://www.webofscience.com/wos/author/record/AFE-0313-2022 "WoS Profile"){:target="_blank"}.
+I actively serve as a referee for esteemed Q1/Q2 journals and CORE ranked conferences and provide constructive feedback to support the advancement of knowledge in AI/ML systems. Check out my peer review recognition by Web of Science [here](https://www.webofscience.com/wos/author/record/AFE-0313-2022 "WoS Profile"){:target="_blank"}.
 
 
 **Hackathons:**
-Participating in ML hackathons and business competitions is an exhilarating experience for me. Collaborating with individuals from diverse cultures and interests, we come together as a team to tackle real-world challenges through innovative machine learning solutions. I actively participate in hackathons hosted on [Kaggle](https://www.kaggle.com/mdabrarjahin "mdabrarjahin"){:target="_blank"}, [Devpost](https://devpost.com/abrar-jahin-2652 "abrar-jahin-2652"){:target="_blank"}, and [DrivenData](https://www.drivendata.org/users/Abrar2652/ "Abrar2652"){:target="_blank"}.
+Participating in ML hackathons and business competitions was a turning point in my journey, gradually teaching me to question conventional dogma and leading me toward academic research. I'm amazed by the process of collaborating with individuals from diverse cultures and backgrounds. As a team, we come together to tackle real-world challenges through innovative machine learning solutions. I participate in hackathons hosted on [Kaggle](https://www.kaggle.com/mdabrarjahin "mdabrarjahin"){:target="_blank"}, [Devpost](https://devpost.com/abrar-jahin-2652 "abrar-jahin-2652"){:target="_blank"}, and [DrivenData](https://www.drivendata.org/users/Abrar2652/ "Abrar2652"){:target="_blank"}.
 All of my business case solutions from my undergraduate years are available on [SlideShare](https://www.slideshare.net/MdAbrarJahin){:target="_blank"}. In April 2024, as the _Founder & AI Researcher_ of *SpecX*, I submitted our solution for the **MIT Solve Challenge 2024**. You can find our solution [here](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"}.
 
 
 **Lead Guitar:**
-Another passion of mine is playing lead guitar. My musical journey began with acoustic guitar in class 8, and I gradually immersed myself in the enchanting world of *progressive rock, heavy metal, and alternative-rock* genres. I've performed on various college and university stages, showcasing my love for music. Additionally, I used to teach lead guitar to fellow students during my college days, sharing techniques, tips, and my love for the instrument. To express my passion for lead guitar, I have a personal [YouTube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share my guitar covers and musical explorations.
-
+Another passion of mine is playing lead guitar. My musical journey started with the acoustic guitar when I was in class 8, and I slowly and gradually fell in love with the genres of *progressive rock*, *heavy metal*, and *alternative rock*. I performed on different occasions in my college and university. I used to teach lead guitar to the interested juniors during my college days. To express my passion for lead guitar, I have a personal [YouTube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share guitar covers, self-composed instrumentals, and musical explorations.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
