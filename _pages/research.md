@@ -53,6 +53,15 @@ images:
 <br>
 
 
+| AI Researcher | Aug 2025 - Present  |
+|:------------------------------|------------------------|
+| **[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}, [Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}, Marina Del Rey, CA, USA** | [Portfolio](https://www.isi.edu/centers-ckg/people/phd-students/){:target="_blank"} |
+|_Supervisors:_ [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"} | |
+
+
+<br>
+
+
 | Lead Researcher | Mar 2023 - Present  |
 |:------------------------------|------------------------|
 | **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/), American International University-Bangladesh (AIUB), Bangladesh** | [Portfolio](https://amirl.org/peopleDetailsView/Md-Abrar-Jahin/){:target="_blank"} |
@@ -68,7 +77,7 @@ images:
 
 | Visiting Researcher (VR)           | Mar 2024 - Mar 2025 |
 |:-------------------------------|--------------------|
-|**Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
+|**[Physics and Biology Unit](https://www.oist.jp/research/research-units/pbu){:target="_blank"}, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
 |_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 |_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
 | ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
@@ -93,7 +102,7 @@ images:
 
 | Visiting Research Student (VRS)      | Feb 2023 - Feb 2024  |
 |:-----------------------------------|--------------------------|
-| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
+| **Physics and Biology Unit, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 | _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |  |
 |Collaborators: [Dr. Lucia Zifcakova](https://www.researchgate.net/profile/Lucia-Zifcakova){:target="_blank"}, [Dr. Priscila Do Nascimento Biller](https://scholar.google.com/citations?user=WcCd_BoAAAAJ&hl=it){:target="_blank"}, [Dr. Zdenek Lajbner](https://scholar.google.com/citations?user=9R_ewDcAAAAJ){:target="_blank"}, and [Dr. Reuven Pnini](https://scholar.google.com/citations?user=RVC1fEsAAAAJ&hl=en){:target="_blank"}| |
@@ -135,7 +144,7 @@ images:
 
 | Research Intern (RI)      | Oct 2021 - Mar 2022 |
 |:--------------------------|--------------------------|
-| **Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} (Acceptance Rate: **14%**)|
+| **Physics and Biology Unit, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} (Acceptance Rate: **14%**)|
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
 | _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |
 | _Experiences:_   |  |
@@ -151,7 +160,7 @@ images:
 
 | Research Intern       | May 2021  |
 |:--------------------------|--------------------------|
-| **UiT - The Arctic University of Norway** | [Internship Report](https://arxiv.org/abs/2107.06755){:target="_blank"} |
+| **Department of Computer Science and Computational Engineering, UiT - The Arctic University of Norway** | [Internship Report](https://arxiv.org/abs/2107.06755){:target="_blank"} |
 | _Supervisors:_ [Ghada Bouzidi](https://www.linkedin.com/in/ghada-bouzidi-12236a58/?originalSubdomain=no){:target="_blank"}, [Prof. Aleksander Pedersen](https://en.uit.no/ansatte/person?p_document_id=445080){:target="_blank"}, [Prof. Rune Dalmo](https://en.uit.no/ansatte/rune.dalmo){:target="_blank"} |  
 | _Internship Mentor:_ [Prof. Per Arne Sundsbø](https://en.uit.no/ansatte/person?p_document_id=445173){:target="_blank"} | 
 | _Duties included:_   | [Code Repository](https://github.com/DentonJC/DIT){:target="_blank"} |

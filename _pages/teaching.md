@@ -9,8 +9,8 @@ nav_order: 4
 
 #### Okinawa Institute of Science and Technology Graduate University (OIST), Japan
 
-* [Mini Course: Intro to Programming with Python](https://groups.oist.jp/grad/skill-pill-programming-python)
-  * Topics Covered: Intro, Anaconda, variables, lists, strings, control structures
+* Mini Course: Intro to Programming with Python
+  * Topics Covered: Intro, Anaconda, variables, lists, strings, control structures [Course materials & details](https://drive.google.com/drive/folders/1HnVsHyJIqCshEOJkMfPjhuz9aH6Cuxm_?usp=sharing){:target="_blank"}
   * Fellow Teachers: Dr. Nicholas Wardhana and Dr. Jeremie Gillet
 
 
