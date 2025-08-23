@@ -86,7 +86,7 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me4.png" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:50%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Abrar in front of ISI, Marina del Rey, CA" class="d-block img-fluid" style="height:50%; width:66.66%;">
+              <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Abrar in front of ISI building" class="d-block img-fluid" style="height:50%; width:66.66%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
