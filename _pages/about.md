@@ -58,6 +58,12 @@ My current research interests lie at the intersection of **efficient deep learni
             <li data-target="#demo" data-slide-to="12"></li>
             <li data-target="#demo" data-slide-to="13"></li>
             <li data-target="#demo" data-slide-to="14"></li>
+
+            <li data-target="#demo" data-slide-to="15"></li>
+            <li data-target="#demo" data-slide-to="16"></li>
+            <li data-target="#demo" data-slide-to="17"></li>
+            <li data-target="#demo" data-slide-to="18"></li>
+            <li data-target="#demo" data-slide-to="19"></li>
         </ol>
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
@@ -106,7 +112,26 @@ My current research interests lie at the intersection of **efficient deep learni
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me9.jpeg" alt="Abrar with his supervisor Professor Craig" class="d-block img-fluid" style="height:50%; width:66.78%;">
             </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me10.jpeg" alt="Abrar with his supervisor Professor Jay" class="d-block img-fluid" style="height:50%; width:66.78%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me11.jpeg" alt="Abrar at Venice beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me12.jpeg" alt="Abrar's office at ISI" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me13.jpeg" alt="Abrar in Downtown LA" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me14.jpeg" alt="Abrar in front of the Neil Armstrong Statue at USC Viterbi building" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me15.jpeg" alt="Abrar at Santa Monica beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
         </div>
+
         <!-- Left and right controls -->
         <a class="carousel-control-prev" href="#demo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
