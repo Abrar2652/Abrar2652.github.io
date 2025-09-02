@@ -15,8 +15,7 @@ profile:
     <p>Los Angeles, CA 90007, USA</p>
     <p><strong>Contact:</strong></p>
     <p>abrar.jahin.2652[at]gmail.com</p>
-    <p>jahin[at]usc.edu</p>
-    <p>jahin[at]isi.edu</p>
+    <p>jahin[at]{<span style="color:#990000; font-weight:600;">usc</span>, <span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">isi</span>}.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,7 +27,7 @@ images:
 
 This is *Md Abrar Jahin, CSCA<sup>&trade;</sup>*; however, you can call me *Abrar*. 
 
-I am a 1st-year **CS PhD student** at the [Thomas Lord Department of Computer Science, Viterbi School of Engineering](https://www.cs.usc.edu/){:target="_blank"}, **[University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}**. I am affiliated with the *[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}* at the **[Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}**, located at the heart of Silicon Beach. I am fortunate to be co-advised by **[Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"}** and **[Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"}**. My research at ISI is generously supported by the **Defense Advanced Research Projects Agency (DARPA)**, a US Department of Defense agency. I have also been awarded the prestigious **Viterbi Graduate School Fellowship** (2025-2026) in recognition of my outstanding academic promise.
+I am a **CS PhD student** at the [Thomas Lord Department of Computer Science, Viterbi School of Engineering](https://www.cs.usc.edu/){:target="_blank"}, **[University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}**. I am affiliated with the *[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}* at the **[Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}**, located at the heart of Silicon Beach. I am fortunate to be co-advised by **[Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"}** and **[Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"}**. My research at ISI is generously supported by the **Defense Advanced Research Projects Agency (DARPA)**, a US Department of Defense agency. I have also been awarded the prestigious **Viterbi Graduate School Fellowship** (2025-2026) in recognition of my outstanding academic promise.
 
 Before joining USC, I obtained my B.Sc. in Industrial & Production Engineering (IPE) in March 2024 from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}.
 

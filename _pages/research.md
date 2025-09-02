@@ -56,6 +56,7 @@ images:
 | AI Researcher | Aug 2025 - Present  |
 |:------------------------------|------------------------|
 | **[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}, [Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}, Marina Del Rey, CA, USA** | [Portfolio](https://www.isi.edu/centers-ckg/people/phd-students/){:target="_blank"} |
+|_Office Location:_ ISI 1038 (10th floor) and 922 (9th floor), Information Sciences Institute, 4676 Admiralty Way, Marina del Rey, CA 90292 | |
 |_Supervisors:_ [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"} | |
 
 
