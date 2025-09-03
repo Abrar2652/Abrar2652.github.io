@@ -91,7 +91,7 @@ _Current & Previous Students_:
   </div>
   <div class="logo-strip" aria-label="Affiliations and platforms">
     <!-- Add these files inside assets/img/logos/ -->
-    <img src="/assets/img/logos/oist.svg" alt="OIST logo/logos/python.svg" alt="ssets/img/logos/kuet.png" alt="KUET logo"logos/youtube.svg" alt="YouTube logo"y-4"/>
+    <img src="/assets/img/logos/oist.png" alt="OIST logo/logos/python.png" alt="ssets/img/logos/kuet.png" alt="KUET logo"logos/youtube.png" alt="YouTube logo"y-4"/>
 
 <!-- =========================
      COURSES & TUTORIALS
@@ -105,7 +105,7 @@ _Current & Previous Students_:
     <div class="teaching-card">
       <div class="card-header d-flex align-items-center justify-content-between">
         <div class="d-flex align-items-center gap-2">
-          <img class="inst-logo" src="/assets/img/logos/oist.svg" alt="OIST logob-0">Mini Course: Intro to Programming with Python</h3>
+          <img class="inst-logo" src="/assets/img/logos/oist.png" alt="OIST logob-0">Mini Course: Intro to Programming with Python</h3>
             <div class="small text-muted">Okinawa Institute of Science and Technology Graduate University (OIST), Japan</div>
           </div>
         </div>
@@ -184,7 +184,7 @@ _Current & Previous Students_:
         </div>
 
         <div class="d-flex align-items-center gap-2 mt-3">
-          <img src="/assets/img/logos/youtube.svg" alt="YouTube logo" width="22" height="22" loading="://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E"     </a>
+          <img src="/assets/img/logos/youtube.png" alt="YouTube logo" width="22" height="22" loading="://www.youtube.com/playlist?list=PLuSiLTVPLvAGr6HwXbtR6knxPTuivdh2E"     </a>
         </div>
 
         <div class="caption mt-2">
