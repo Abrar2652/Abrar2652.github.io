@@ -76,6 +76,23 @@ images:
 
 <br>
 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/research/oist_plots_1.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/research/oist_plots_2.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/research/oist_plots_3.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+
+<br>
+
 | Visiting Researcher (VR)           | Mar 2024 - Mar 2025 |
 |:-------------------------------|--------------------|
 |**[Physics and Biology Unit](https://www.oist.jp/research/research-units/pbu){:target="_blank"}, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
