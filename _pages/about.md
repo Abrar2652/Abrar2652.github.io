@@ -31,7 +31,7 @@ I am a **CS PhD student** at the [Thomas Lord Department of Computer Science, Vi
 
 Before joining USC, I obtained my B.Sc. in Industrial & Production Engineering (IPE) in March 2024 from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}.
 
-My current research interests lie at the intersection of **efficient deep learning**, **quantum machine learning**, **geometric deep learning**, and **trustworthy AI**. My previous research includes **reinforcement learning**, **sentiment analysis**, **operations research**, and **comparative genomics**. I conceptualize and develop methods to solve complex problems either by hybridizing different techniques or by adopting ideas from seemingly unrelated fields to create novel, interdisciplinary solutions. My background in IPE and extensive research experience in comparative genomics help me approach challenging issues in machine learning from a uniquely interdisciplinary perspective. This distinctive lens allows me to conceptualize and implement efficient, unorthodox strategies beyond traditional machine learning frameworks.
+My current research interests lie at the intersection of **efficient deep learning**, **quantum machine learning**, **geometric deep learning**, and **trustworthy AI**. My previous research includes reinforcement learning, sentiment analysis, operations research, and comparative genomics. I conceptualize and develop methods to solve complex problems either by hybridizing different techniques or by adopting ideas from seemingly unrelated fields to create novel, interdisciplinary solutions. My background in IPE and extensive research experience in comparative genomics help me approach challenging issues in machine learning from a uniquely interdisciplinary perspective. This distinctive lens allows me to conceptualize and implement efficient, unorthodox strategies beyond traditional machine learning frameworks.
 
 
 
@@ -98,7 +98,7 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Abrar in front of ISI building" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:66.85%;">
+              <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:66.78%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me7.jpeg" alt="Abrar at Turkey" class="d-block img-fluid" style="height:50%; width:37.5%;">
@@ -160,14 +160,14 @@ I was honored to receive a **fully-funded scholarship** as the first Bangladeshi
 
 I had the privilege of being co-supervised by **[Prof. M. F. Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"}**, **[Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}**, **[Prof. Md. Saiful Islam](https://scholar.google.com/citations?user=PsHZ75wAAAAJ&hl=en){:target="_blank"}**, and **[Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"}** (Postdoctoral Fellow at Harvard Medical School) during my undergraduate studies and early research career. Additionally, I have had the opportunity to collaborate with distinguished computer scientists, including **[Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"}** (IEEE Fellow), **[Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}**, **[Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}**, **[Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}**, **[Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}**, **[Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ){:target="_blank"}**, and **[Prof. Md. Jakir Hossen](https://mmuexpert.mmu.edu.my/jakirhossen){:target="_blank"}**.
 
-I am the first undergraduate in Bangladesh whose thesis focused on Quantum Machine Learning (QML) and achieved remarkable success by being published in Nature Scientific Reports, setting several new records:
+In Bangladesh, my undergraduate thesis was the first to focus on Quantum Machine Learning (QML) which ultimately led to a publication in *Nature Scientific Reports*. Some remarkable aspects of this achievement include:
 
-* First instance of any thesis from KUET accepted by a 'Nature Portfolio' journal 5-6 months before the graduation of any student.
-* First instance of any article or thesis from my department (KUET IEM) being published in a 'Nature Portfolio' journal, irrespective of student or faculty status.
-* First successful research related to 'Quantum Computing' published from KUET.
-* First work on the application of Explainable Quantum Machine Learning in the Supply Chain Management domain.
+* The first undergraduate thesis from KUET to be accepted by a Nature Portfolio journal, and notably, this occurred 5–6 months prior to graduation.
+* The first publication from the KUET IEM department, by any student or faculty, in a Nature Portfolio journal.
+* The first successful research on Quantum Computing to be published from KUET.
+* The first application of Explainable Quantum Machine Learning in the domain of Supply Chain Management.
 
-I received an encouraging email in 2023 from **[Professor Junyu Liu](https://sites.google.com/view/junyuliu/main){:target="_blank"}** (Assistant Professor, Department of CS, University of Pittsburgh), a renowned quantum information and machine learning scientist. Professor Liu was impressed by my undergraduate thesis, which he came across on arXiv preprint while it was under review.
+During the review phase of this paper in 2023, I was honored to receive an encouraging email from **[Professor Junyu Liu](https://sites.google.com/view/junyuliu/main){:target="_blank"}**, a respected researcher in quantum information and ML and currently an Assistant Professor at the University of Pittsburgh. Professor Liu came across my thesis on arXiv while he was a postdoctoral researcher at the University of Chicago and kindly shared his appreciation for the work.
 
 
 
