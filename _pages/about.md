@@ -58,12 +58,12 @@ My current research interests lie at the intersection of **efficient deep learni
             <li data-target="#demo" data-slide-to="12"></li>
             <li data-target="#demo" data-slide-to="13"></li>
             <li data-target="#demo" data-slide-to="14"></li>
-
             <li data-target="#demo" data-slide-to="15"></li>
             <li data-target="#demo" data-slide-to="16"></li>
             <li data-target="#demo" data-slide-to="17"></li>
             <li data-target="#demo" data-slide-to="18"></li>
             <li data-target="#demo" data-slide-to="19"></li>
+            <li data-target="#demo" data-slide-to="20"></li>
         </ol>
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
@@ -98,7 +98,7 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me3.jpeg" alt="Abrar in front of ISI building" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:66.85%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me7.jpeg" alt="Abrar at Turkey" class="d-block img-fluid" style="height:50%; width:37.5%;">
@@ -129,6 +129,9 @@ My current research interests lie at the intersection of **efficient deep learni
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me15.jpeg" alt="Abrar at Santa Monica beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me16.jpeg" alt="Abrar at the entrance of Doheny Memorial Library, USC" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
         </div>
 
