@@ -1,4 +1,14 @@
 - year: "2025"
+  month: "September"
+  title: "Highly Commended Entrant — The Global Undergraduate Awards 2025"
+  description: "I received Highly Commended recognition for two of my undergraduate research papers in the Computer Science category at the Global Undergraduate Awards 2025. This places both works in the top 10% globally. It was my first attempt at participation and final eligible year, and I was the only student researcher to receive this honor for more than one entry."
+  preview_images:
+    - "/assets/img/awards/gua_highly_commended_2025.png"
+  linkedin: "https://www.linkedin.com/posts/activity-7373976615866781697-WFBN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy1s4gBQjTKSE-gWogmXAamqGDqjB36YIA"
+  website: "https://undergraduateawards.com/2025_highlycommended/"
+
+
+- year: "2025"
   month: "February"
   title: "Viterbi School of Engineering/Graduate School Fellowship (2025-2026)"
   description: "I am joining the PhD program in Computer Science at USC with a fully-funded offer supported by the Viterbi School of Engineering/Graduate School Fellowship. The award also covers full tuition, health and dental insurance, transportation, and all required student fees. This fellowship was awarded in recognition of my outstanding academic promise."
