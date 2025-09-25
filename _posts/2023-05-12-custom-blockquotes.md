@@ -6,7 +6,6 @@ description: an example of a blog post with custom blockquotes
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
-published: false
 related_posts: true
 ---
 This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
