@@ -9,5 +9,5 @@ KUET Research Society featured me and I had the privilege to spend a wonderful L
 
 <br>
 <div class="mb-3">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7376653474731700224" height="1069" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7376653474731700224?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>

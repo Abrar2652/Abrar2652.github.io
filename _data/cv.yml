@@ -4,7 +4,7 @@
     - name: Full Name
       value: Md Abrar Jahin
     - name: Email
-      value: abrar.jahin.2652[at]gmail.com
+      value: jahin[at]{usc, isi}.edu
     - name: Pronouns
       value: he/him
     - name: Links
@@ -50,7 +50,7 @@
       year: 2025 - Present
       maindescription: Advised by Prof. Craig Knoblock and Prof. Jay Pujara
       description:
-        - Research is generously funded by DARPA
+        - Research is generously funded by DARPA and AFRL
 
     - title: Lead Researcher
       institution: Advanced Machine Intelligence Research Lab (AMIRL), Bangladesh
