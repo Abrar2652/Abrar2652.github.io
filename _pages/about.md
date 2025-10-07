@@ -103,7 +103,7 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me7.jpeg" alt="Abrar at Turkey" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me8.jpeg" alt="Abrar at Turkey" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me8.jpeg" alt="Abrar at Big Bear Village" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me6.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
@@ -131,6 +131,9 @@ My current research interests lie at the intersection of **efficient deep learni
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me16.jpeg" alt="Abrar at the entrance of Doheny Memorial Library, USC" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me17.jpeg" alt="Abrar at Big Bear Lake" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
         </div>
 

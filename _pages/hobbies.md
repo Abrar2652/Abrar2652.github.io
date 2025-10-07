@@ -22,7 +22,8 @@ All of my business case solutions from my undergraduate years are available on [
 
 
 **Lead Guitar:**
-Another passion of mine is playing lead guitar. My musical journey started with the acoustic guitar when I was in class 8, and I slowly and gradually fell in love with the genres of *progressive rock*, *heavy metal*, and *alternative rock*. I performed on different occasions in my college and university. I used to teach lead guitar to the interested juniors during my college days. To express my passion for lead guitar, I have a personal [YouTube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"}, where I share guitar covers, self-composed instrumentals, and musical explorations.
+I have a profound passion for playing the lead guitar. My musical journey began with the acoustic guitar in class 8, and over time, I grew deeply attached to the genres of *progressive rock*, *heavy metal*, *classical rock*, and *alternative rock* with my custom lead guitar in class 10. During my college and university years, I performed on various occasions and even taught lead guitar to juniors who shared the same interest. Along with four friends from cadet college, I formed the band *[Oporanho](https://www.facebook.com/oporanho.rockz){:target="_blank"}* while at MCC. Together, we created lasting memories performing at cultural nights, campfires, and excursions. After 2021, I stepped away from music for personal reasons, even selling my guitars, though my love for it has never faded. Music still remains an abstract language for me, an outlet to express emotions when words fall short, a bridge even during moments of silence or conflict. To keep my passion alive, I maintain a personal [YouTube channel](https://www.youtube.com/channel/UCrdkiCJ3yxAOqFmJfb7RUWA){:target="_blank"} where I share guitar covers, self-composed instrumentals, and musical explorations.
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -55,6 +56,20 @@ Another passion of mine is playing lead guitar. My musical journey started with 
 </div>
 <div class="caption">
     My mentionable stage performances with skillful guitar solos.
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/Custom_lead.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html loading="eager" path="assets/img/Schecter_lead.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="caption">
+    I currently own two electric lead guitars — a Floyd Rose Custom Series in Bangladesh (left) and a Schecter C-6 Elite Diamond Series here in the USA.
 </div>
 
 
