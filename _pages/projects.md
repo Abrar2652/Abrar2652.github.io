@@ -6,7 +6,7 @@ description: A few of my currently ongoing projects.
 nav: true
 nav_order: 5
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
