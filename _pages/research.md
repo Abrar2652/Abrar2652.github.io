@@ -58,6 +58,11 @@ images:
 | **[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}, [Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}, Marina Del Rey, CA, USA** | [Portfolio](https://www.isi.edu/centers-ckg/people/phd-students/){:target="_blank"} |
 |_Office Location:_ ISI 1038 (10th floor) and 922 (9th floor), Information Sciences Institute, 4676 Admiralty Way, Marina del Rey, CA 90292 | |
 |_Supervisors:_ [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"} | |
+| _Research Projects:_||
+| ■ Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase II) [Funded by DARPA/USGS] | |
+| ■ Enhancing Scalability of Knowledge Graphs for Enterprise Defense Solutions (STTR Phase I funded by [U.S. Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/){:target="_blank"}, led by [SIMBA Chain, Inc.](https://simbachain.com/){:target="_blank"} | |
+| ■ Temporal Knowledge Graphs for Multi-Hop Pattern Recognition | |
+
 
 
 <br>
@@ -235,8 +240,10 @@ images:
 
 ## Peer Review Experiences
 
-Reviewed for 1 conference, 3 workshops, and 13 journals verified by Web of Science, as of May 2025 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
+([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* Quantum Machine Intelligence (Springer Nature)
+* Information Systems (Elsevier)
 * ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains
 * Actionable Interpretability Workshop at ICML 2025
 * LatinX in AI Workshop at ICML 2025
