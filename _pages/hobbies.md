@@ -4,7 +4,7 @@ title: Hobbies
 permalink: /hobbies/
 description: #A growing collection of your cool projects.
 nav: True
-nav_order: 6
+nav_order: 7
 horizontal: false
 ---
 
