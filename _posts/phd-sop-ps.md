@@ -1,0 +1,71 @@
+---
+layout: post
+title:  My SOP and PS for CS PhD @ USC
+date:   2024-11-16 16:40:16
+description: My Statement of Purpose and Personal Statement for CS PhD Application in Fall 2025
+tags: phd
+categories: phd application, statementofpurpose, PersonalStatement
+---
+
+My SOP and PS have been approved and published on the cs-sop website maintained by MIT CSAIL PhD students. You can check for my contributions there. For Fall'25, only 6 incoming CS PhD students, including me, have shared their statements till today's date (8 April 2025). Hopefully, they will be of your help.
+
+**PS:** I am the first-ever and only KUET alumnus to get into USC CS PhD (Top 20 in AI) despite coming straight from a non-CS background.
+
+---
+
+## A Bit of Background
+I wrote the full SOP within a week in November. It was reviewed during a 1.5-hour Zoom session by Jeong Hee Kim (MIT postdoc), who told me my CV was better than many MIT grads she had seen; her feedback gave me a major confidence boost.
+
+I also received feedback from Alex Gu (MIT CS PhD student), Junaid Ali (PhD student, Purdue ME), and two of my KUETian senior brothers (Saadman Adip Huda and Dr. Khaled Mohammad Saifuddin) in the US. They all agreed my SOP was dense and needed trimming. But with 24 publications at the time, I found it difficult to leave anything out. For plagiarism checks, I collaborated with a Turnitin provider from my connection (University of Dhaka), who offered repeated checks at a minimal cost. My SOP had 0% AI-generated content and 0% plagiarism.
+
+---
+
+## My Published SOP and PS
+
+**SOP and PS of Md Abrar Jahin (how I cracked the top schools considering the brutal funding conditions and in a competitive domain like CS-AI/ML Systems in Fall'25, despite coming from a non-CS background):**  
+
+You can read the live Notion version here:  
+👉 [View on cs-sop.notion.site](https://cs-sop.notion.site/Md-Abrar-Jahin-1cc8b1bdf3c48045b424f7f61eff9321){:target="_blank"}
+
+Or scroll below to view the embedded PDFs:
+
+<h3>Statement of Purpose (SOP)</h3>
+<iframe 
+  src="/assets/pdf/blogs/MAJ_SOP_USC.pdf" 
+  width="100%" 
+  height="800px"
+  style="border: none; border-radius: 8px;"
+></iframe>
+
+<h3>Personal Statement (PS)</h3>
+<iframe 
+  src="/assets/pdf/blogs/PS_USC.pdf" 
+  width="100%" 
+  height="800px"
+  style="border: none; border-radius: 8px;"
+></iframe>
+
+
+---
+
+**My Visa Interview Experience (where I consolidated most of the information):**  
+[https://www.facebook.com/share/p/19Q2Jk9SC4/](https://www.facebook.com/share/p/19Q2Jk9SC4/){:target="_blank"}
+
+✅ Follow my latest start-up, 3AI, targetting the MS/PhD aspirants in the USA: [https://www.facebook.com/share/1F3zPkZLs8/](https://www.facebook.com/share/1F3zPkZLs8/){:target="_blank"}
+
+---
+
+**Md Abrar Jahin**  
+Incoming CS PhD Student, Fall 2025, University of Southern California (#15 in AI, #21 in CS) [1, 2]  
+AI Researcher, USC Information Sciences Institute (at the heart of Silicon Beach), Marina Del Rey, CA, USA  
+
+---
+
+**References**  
+[1] [https://csrankings.org/](https://csrankings.org/){:target="_blank"}
+[2] [https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings){:target="_blank"}
+
+---
+
+#abrar2652xhsa (my other HSA-related posts can be found following this hashtag)
+
