@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Childhood Academic Life
-date:   2024-11-16 16:40:16
+date:   2024-07-15 16:40:16
 description: My Childhood Education and Academic Achievements
 tags: childhood
 categories: childhood life

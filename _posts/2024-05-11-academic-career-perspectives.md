@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Academic Career Perspectives
-date:   2024-11-15 16:40:16
+date:   2024-05-11 16:40:16
 description: My Personal Perspectives about Life in Academia
 tags: academia
 categories: research ethics
