@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery
-description: Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase II) [Funded by DARPA/USGS]
+title: Modeling Sparse and Heterogeneous Geochemistry Data
+description: Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase-II)
 img: assets/img/projects/darpa.png
 importance: 1
 category: work
@@ -13,14 +13,14 @@ This project develops AI-driven methods to automatically extract and interpret c
 ---
 
 ### **Funding Source(s)**
-The project is funded under the **DARPA STTR (Small Business Technology Transfer) program**, with collaboration from:
+The project is funded under the **[DARPA](https://www.darpa.mil/){:target="_blank"} STTR (Small Business Technology Transfer) program**, with collaboration from:
 - **USC Information Sciences Institute (ISI)**
 - **InferLink Corporation**
 - **Jataware Corporation**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/isi.jpeg" title="USC ISI" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/isi.jpg" title="USC ISI" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/inferlink.png" title="InferLink Corporation" class="img-fluid rounded z-depth-1" %}
