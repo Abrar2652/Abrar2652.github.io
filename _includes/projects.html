@@ -1,26 +1,28 @@
-<!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
-<div class="grid-item wide-project-card"> <!-- Added class for wider layout -->
+<div class="grid-item project-card">
   {% if project.redirect -%}
-  {{ project.redirect }}
+  <a href="{{ project.redirect }}">
   {%- else -%}
-  {{ project.url | relative_url }}
+  <a href="{{ project.url | relative_url }}">
   {%- endif %}
     <div class="card hoverable">
       {%- if project.img %}
       {%- include figure.html
         path=project.img
-        sizes="250px"
+        sizes = "250px"
         alt="project thumbnail" -%}
       {%- endif %}
       <div class="card-body">
-        <h2 class="card-title project-title">{{ project.title | capitalize }}</h2>
+        <!-- Title now in Title Case (removed 'text-lowercase') -->
+        <h2 class="card-title project-title">
+          {{ project.title | capitalize }}
+        </h2>
         <p class="card-text">{{ project.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {%- if project.github -%}
           <div class="github-icon">
             <div class="icon" data-toggle="tooltip" title="Code Repository">
-              {{ project.github }}<i class="fa-brands fa-github gh-icon"></i></a>
+              <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
             </div>
             {%- if project.github_stars -%}
             <span class="stars" data-toggle="tooltip" title="GitHub Stars">

@@ -592,7 +592,6 @@ footer.sticky-bottom {
 
 
 // Projects
-
 .projects {
   a {
     text-decoration: none;
@@ -620,10 +619,30 @@ footer.sticky-bottom {
     }
   }
 
+  // ⬇️ Change this part
   .grid-sizer,
   .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+    width: 350px;   // was 250px → wider project containers
+    margin-bottom: 15px;
+  }
+
+  // ⬇️ Add new rules here
+  .card-title {
+    text-transform: capitalize;   // converts to Title Case
+    font-size: 1.1rem;            // smaller font for thumbnails
+    font-weight: 600;
+    line-height: 1.3em;
+    word-break: break-word;
+  }
+
+  @media (max-width: 768px) {
+    .grid-sizer,
+    .grid-item {
+      width: 100% !important;
+    }
+    .card-title {
+      font-size: 1rem;
+    }
   }
 
   h2.category {
