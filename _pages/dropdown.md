@@ -1,12 +1,13 @@
 ---
 layout: page
 title: submenus
-nav: false
-nav_order: 9
+nav: true
+nav_order: 10
 dropdown: true
-children: 
-    - title: Publications
-      permalink: /publications/
+children:
+    - title: Certifications
+      permalink: /certifications/
     - title: divider
-
+    - title: Blog
+      permalink: /blog/
 ---
