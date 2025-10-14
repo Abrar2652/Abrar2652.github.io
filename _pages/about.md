@@ -63,6 +63,10 @@ My current research interests lie at the intersection of **efficient deep learni
             <li data-target="#demo" data-slide-to="18"></li>
             <li data-target="#demo" data-slide-to="19"></li>
             <li data-target="#demo" data-slide-to="20"></li>
+            <li data-target="#demo" data-slide-to="21"></li>
+            <li data-target="#demo" data-slide-to="22"></li>
+            <li data-target="#demo" data-slide-to="23"></li>
+            <li data-target="#demo" data-slide-to="24"></li>
         </ol>
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
@@ -128,6 +132,9 @@ My current research interests lie at the intersection of **efficient deep learni
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me15.jpeg" alt="Abrar at Santa Monica beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/Abrar with guitar.jpg" alt="Abrar at MCC with guitar" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me16.jpeg" alt="Abrar at the entrance of Doheny Memorial Library, USC" class="d-block img-fluid" style="height:50%; width:37.5%;">
