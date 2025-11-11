@@ -138,9 +138,6 @@ My current research interests lie at the intersection of **efficient deep learni
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me16.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
-            <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me17.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
-            </div>
         </div>
 
         <!-- Left and right controls -->
