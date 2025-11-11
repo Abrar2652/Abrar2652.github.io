@@ -118,28 +118,28 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me10.jpeg" alt="Abrar with his supervisor Professor Jay" class="d-block img-fluid" style="height:50%; width:66.78%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me11.jpeg" alt="Abrar at Venice beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me11.gif" alt="Abrar at Venice beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me12.jpeg" alt="Abrar's office at ISI" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me13.jpeg" alt="Abrar in Downtown LA" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me13.gif" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me14.jpeg" alt="Abrar in front of the Neil Armstrong Statue at USC Viterbi building" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me14.gif" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me15.jpeg" alt="Abrar at Santa Monica beach" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me15.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/Abrar with guitar.jpg" alt="Abrar at MCC with guitar" class="d-block img-fluid" style="height:50%; width:50%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me16.jpeg" alt="Abrar at the entrance of Doheny Memorial Library, USC" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me16.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me17.jpeg" alt="Abrar at Big Bear Lake" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me17.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
         </div>
 
