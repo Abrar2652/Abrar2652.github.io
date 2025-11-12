@@ -65,7 +65,6 @@ My current research interests lie at the intersection of **efficient deep learni
             <li data-target="#demo" data-slide-to="20"></li>
             <li data-target="#demo" data-slide-to="21"></li>
             <li data-target="#demo" data-slide-to="22"></li>
-            <li data-target="#demo" data-slide-to="23"></li>
         </ol>
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
