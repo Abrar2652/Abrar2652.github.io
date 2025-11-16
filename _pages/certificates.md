@@ -4,7 +4,7 @@ title: Certifications
 permalink: /certifications/
 description: Some valuable certificates that I earned through my consistent hard work and dedication.
 nav: false
-nav_order: 8
+# nav_order: 8
 
 
 profiles:
