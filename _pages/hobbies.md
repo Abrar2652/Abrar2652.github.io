@@ -53,6 +53,16 @@ I have a profound passion for playing the lead guitar. My musical journey began 
         {% include video.html path="https://www.youtube.com/embed/tNK2QxJcBMw?si=BcyqmuartsIxz811" class="img-fluid rounded z-depth-1" %}
     	</div>
     </div>
+    <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+        {% include video.html path="https://www.youtube.com/embed/hvUrfdWyg10?si=4pJTVuBUmToWiAp4" class="img-fluid rounded z-depth-1" %}
+    	</div>
+    </div>
+    <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9">
+        {% include video.html path="https://www.youtube.com/embed/P-NgkPQLg4E?si=o4Gkai1S248lREMW" class="img-fluid rounded z-depth-1" %}
+    	</div>
+    </div>
 </div>
 <div class="caption">
     My mentionable stage performances with skillful guitar solos.
