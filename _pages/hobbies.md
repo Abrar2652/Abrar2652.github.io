@@ -2,7 +2,7 @@
 layout: page
 title: Hobbies
 permalink: /hobbies/
-description: #A growing collection of your cool projects.
+description: #A growing collection of your cool projects. <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0"> for 2 items in a row
 nav: True
 nav_order: 6
 horizontal: false
@@ -40,7 +40,6 @@ I have a profound passion for playing the lead guitar. My musical journey began 
     Some of my cool guitar instrumentals that might give you goosebumps.
 </div>
 
-#     <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0"> for 2 items in a row
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
