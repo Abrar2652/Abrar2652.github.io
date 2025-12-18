@@ -9,5 +9,5 @@ Thanks to Tithi Krittania for the unbelievable amount of time and patience she h
 
 <br>
 <div class="mb-3">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404450471551197184" height="1109" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404450471551197184?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
