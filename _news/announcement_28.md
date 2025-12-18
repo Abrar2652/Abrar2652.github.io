@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Thanks to NSU YES! (Young Entrepreneurs Society) for having me as a judge for Round 1 (Envision) of Entrepret Season 3, the flagship entrepreneurial challenge. It was especially meaningful to return in this role, as my own team ranked among the top 6 out of 380+ teams in Season 2 (2021). I thoroughly enjoyed evaluating ten outstanding business pitches, and selecting only the top two was both challenging and rewarding.
+Thanks to NSU YES! (Young Entrepreneurs Society) [[Official LinkedIn Post](https://www.linkedin.com/posts/nsuyes_as-innovation-takes-the-spotlight-in-round-activity-7403844645413179392-H0LN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACy1s4gBQjTKSE-gWogmXAamqGDqjB36YIA){:target="_blank"}] for having me as a judge for Round 1 (Envision) of Entrepret Season 3, the flagship entrepreneurial challenge. It was especially meaningful to return in this role, as my own team ranked among the top 6 out of 380+ teams in Season 2 (2021). I thoroughly enjoyed evaluating ten outstanding business pitches, and selecting only the top two was both challenging and rewarding.
 
 <br>
 <div class="mb-3">
