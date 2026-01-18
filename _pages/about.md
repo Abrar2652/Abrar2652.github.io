@@ -70,7 +70,7 @@ My current research interests lie at the intersection of **efficient deep learni
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img src="https://abrar2652.github.io/assets/img/ca_trip_2025.gif" alt="California trip memories from Dec 2025 to Jan 2026" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/ca_trip_2025.gif" alt="California trip memories from Dec 2025 to Jan 2026" class="d-block img-fluid" style="height80%; width:50%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Abrar is receiving the dean's award" class="d-block img-fluid" style="height:50%; width:58.598%;">
