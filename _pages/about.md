@@ -70,7 +70,7 @@ My current research interests lie at the intersection of **efficient deep learni
         <!-- The slideshow -->
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img src="https://abrar2652.github.io/assets/img/ca_trip_2025.gif" alt="California trip memories from Dec 2025 to Jan 2026" class="d-block img-fluid" style="height:50%; width:50%;">
+              <img src="https://abrar2652.github.io/assets/img/ca_trip_2025.gif" alt="California trip memories from Dec 2025 to Jan 2026" class="d-block img-fluid" style="height:50%; width:40%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/dean_award.jpg" alt="Abrar is receiving the dean's award" class="d-block img-fluid" style="height:50%; width:58.598%;">
@@ -121,16 +121,16 @@ My current research interests lie at the intersection of **efficient deep learni
               <img src="https://abrar2652.github.io/assets/img/me10.jpeg" alt="Abrar with his supervisor Professor Jay" class="d-block img-fluid" style="height:50%; width:66.78%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me11.gif" alt="Abrar at Venice beach" class="d-block img-fluid" style="height:50%; width:50%;">
+              <img src="https://abrar2652.github.io/assets/img/me11.gif" alt="Abrar at Venice beach" class="d-block img-fluid" style="height:50%; width:40%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me12.jpeg" alt="Abrar's office at ISI" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me13.gif" class="d-block img-fluid" style="height:50%; width:50%;">
+              <img src="https://abrar2652.github.io/assets/img/me13.gif" class="d-block img-fluid" style="height:50%; width:40%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me14.gif" class="d-block img-fluid" style="height:50%; width:50%;">
+              <img src="https://abrar2652.github.io/assets/img/me14.gif" class="d-block img-fluid" style="height:50%; width:40%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me15.jpeg" class="d-block img-fluid" style="height:50%; width:37.5%;">
