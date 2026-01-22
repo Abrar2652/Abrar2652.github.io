@@ -68,7 +68,7 @@ images:
 <br>
 
 
-| Lead Researcher | Mar 2023 - Present  |
+| Lead Researcher | Mar 2023 - Aug 2025 |
 |:------------------------------|------------------------|
 | **[Advanced Machine Intelligence Research Lab (AMIRL)](https://amirl.org/), American International University-Bangladesh (AIUB), Bangladesh** | [Portfolio](https://amirl.org/peopleDetailsView/Md-Abrar-Jahin/){:target="_blank"} |
 | _Roles:_ Research Assistant (Mar 2023 - Dec 2023), Researcher (Dec 2023 - Feb 2024), Lead Researcher (May 2024 - Present)||
@@ -242,6 +242,7 @@ images:
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* PLOS One
 * Quantum Machine Intelligence (Springer Nature)
 * Information Systems (Elsevier)
 * ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains
