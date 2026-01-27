@@ -16,6 +16,32 @@ Buttons:
 - `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
 
 
+
+
+
+
+@article{jahin_quantum_2024,
+	journal = {Transactions on Machine Learning Research (TMLR)},
+  	bibtex_show={true},
+	title = {Quantum {Rationale}-{Aware} {Graph} {Contrastive} {Learning} for {Jet} {Discrimination}},
+	html = {https://openreview.net/forum?id=HrA51jCVZ9},
+	arxiv = "2411.01642",
+	doi = {10.48550/arXiv.2411.01642},
+	abstract = {In high-energy physics, particle jet tagging plays a pivotal role in distinguishing quark from gluon jets using data from collider experiments. While graph-based deep learning methods have advanced this task beyond traditional feature-engineered approaches, the complex data structure and limited labeled samples present ongoing challenges. However, existing contrastive learning (CL) frameworks struggle to leverage rationale-aware augmentations effectively, often lacking supervision signals that guide the extraction of salient features and facing computational efficiency issues such as high parameter counts. In this study, we demonstrate that integrating a quantum rationale generator (QRG) within our proposed Quantum Rationale-aware Graph Contrastive Learning (QRGCL) framework significantly enhances jet discrimination performance, reducing reliance on labeled data and capturing discriminative features. Evaluated on the quark-gluon jet dataset, QRGCL achieves an AUC score of 77.5% while maintaining a compact architecture of only 45 QRG parameters, outperforming classical, quantum, and hybrid GCL and GNN benchmarks. These results highlight QRGCL's potential to advance jet tagging and other complex classification tasks in high-energy physics, where computational efficiency and feature extraction limitations persist.},
+	publisher = {arXiv},
+	author = {Jahin, Md Abrar and Masud, Md Akmol and Mridha, M. F. and Dey, Nilanjan and Aung, Zeyar},
+	month = jan,
+	year = {2026},
+	note = {arXiv:2411.01642},
+	keywords = {Computer Science - Machine Learning, High Energy Physics - Phenomenology},
+	abbr= {TMLR},
+  	preview={jahin_quantum_2024.png},
+	altmetric = {true},
+  	selected={true}
+}
+
+
+
 @article{masud_hetero-select_2025,
 	journal = {Under review in IEEE Transactions on Artificial Intelligence},
   	bibtex_show={true},
@@ -26,8 +52,8 @@ Buttons:
 	abstract = {Federated Learning (FL) is a machine learning technique that often suffers from training instability due to the diverse nature of client data. Although utility-based client selection methods like Oort are used to converge by prioritizing high-loss clients, they frequently experience significant drops in accuracy during later stages of training. We propose a theoretical HeteRo-Select framework designed to maintain high performance and ensure long-term training stability. We provide a theoretical analysis showing that when client data is very different (high heterogeneity), choosing a smart subset of client participation can reduce communication more effectively compared to full participation. Our HeteRo-Select method uses a clear, step-by-step scoring system that considers client usefulness, fairness, update speed, and data variety. It also shows convergence guarantees under strong regularization. Our experimental results on the CIFAR-10 dataset under significant label skew (α=0.1) support the theoretical findings. The HeteRo-Select method performs better than existing approaches in terms of peak accuracy, final accuracy, and training stability. Specifically, HeteRo-Select achieves a peak accuracy of 74.75%, a final accuracy of 72.76%, and a minimal stability drop of 1.99%. In contrast, Oort records a lower peak accuracy of 73.98%, a final accuracy of 71.25%, and a larger stability drop of 2.73%.  The theoretical foundations and empirical performance in our study make HeteRo-Select a reliable solution for real-world heterogeneous FL problems.},
 	publisher = {arXiv},
 	author = {Masud, Md Akmol and Jahin, Md Abrar and Hasan, Mahmud},
-	month = aug,
-	year = {2025},
+	month = jan,
+	year = {2026},
 	note = {arXiv:2508.06692},
 	keywords = {Computer Science - Machine Learning},
 	abbr= {IEEE TAI},
@@ -111,7 +137,7 @@ Buttons:
 
 
 @article{jahin_qcl-mixnet,
-	journal = {Under review in Expert Systems with Applications},
+	journal = {Under review in Neurocomputing},
   	bibtex_show={true},
 	title = {{Quantum-Informed Contrastive Learning with Dynamic Mixup Augmentation for Class-Imbalanced Expert Systems}},
 	html = {https://arxiv.org/abs/2506.13987},
@@ -125,7 +151,7 @@ Buttons:
 	year = {2026},
 	note = {arXiv:2503.01284},
 	keywords = {Computer Science - Machine Learning},
-	abbr= {ESWA},
+	abbr= {Neurocomputing},
   	preview={jahin_qcl-mixnet.png},
 	altmetric = {true},
   	selected={true}
@@ -325,29 +351,6 @@ Buttons:
 	altmetric = {true},
   	selected={true}
 }
-
-
-@article{jahin_quantum_2024,
-	journal = {Transactions on Machine Learning Research (TMLR)},
-  	bibtex_show={true},
-	title = {Quantum {Rationale}-{Aware} {Graph} {Contrastive} {Learning} for {Jet} {Discrimination}},
-	html = {https://openreview.net/forum?id=HrA51jCVZ9},
-	arxiv = "2411.01642",
-	doi = {10.48550/arXiv.2411.01642},
-	abstract = {In high-energy physics, particle jet tagging plays a pivotal role in distinguishing quark from gluon jets using data from collider experiments. While graph-based deep learning methods have advanced this task beyond traditional feature-engineered approaches, the complex data structure and limited labeled samples present ongoing challenges. However, existing contrastive learning (CL) frameworks struggle to leverage rationale-aware augmentations effectively, often lacking supervision signals that guide the extraction of salient features and facing computational efficiency issues such as high parameter counts. In this study, we demonstrate that integrating a quantum rationale generator (QRG) within our proposed Quantum Rationale-aware Graph Contrastive Learning (QRGCL) framework significantly enhances jet discrimination performance, reducing reliance on labeled data and capturing discriminative features. Evaluated on the quark-gluon jet dataset, QRGCL achieves an AUC score of 77.5% while maintaining a compact architecture of only 45 QRG parameters, outperforming classical, quantum, and hybrid GCL and GNN benchmarks. These results highlight QRGCL's potential to advance jet tagging and other complex classification tasks in high-energy physics, where computational efficiency and feature extraction limitations persist.},
-	publisher = {arXiv},
-	author = {Jahin, Md Abrar and Masud, Md Akmol and Mridha, M. F. and Dey, Nilanjan and Aung, Zeyar},
-	month = jan,
-	year = {2026},
-	note = {arXiv:2411.01642},
-	keywords = {Computer Science - Machine Learning, High Energy Physics - Phenomenology},
-	abbr= {TMLR},
-  	preview={jahin_quantum_2024.png},
-	altmetric = {true},
-  	selected={true}
-}
-
-
 
 
 
