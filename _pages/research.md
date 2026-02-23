@@ -102,7 +102,7 @@ images:
 |:-------------------------------|--------------------|
 |**[Physics and Biology Unit](https://www.oist.jp/research/research-units/pbu){:target="_blank"}, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://www.oist.jp/research/research-units/pbu/members){:target="_blank"} |
 |_Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
-|_Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
+|_Supervisor:_ [Professor Jonathan Miller](https://www.oist.jp/research/research-units/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech)| |
 | ■ Contributed to [FY2023 Annual Report](https://groups.oist.jp/pbu/fy2023-annual-report){:target="_blank"} | |
 
 
@@ -127,7 +127,7 @@ images:
 |:-----------------------------------|--------------------------|
 | **Physics and Biology Unit, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} |
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
-| _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |  |
+| _Supervisor:_ [Professor Jonathan Miller](https://www.oist.jp/research/research-units/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |  |
 |Collaborators: [Dr. Lucia Zifcakova](https://www.researchgate.net/profile/Lucia-Zifcakova){:target="_blank"}, [Dr. Priscila Do Nascimento Biller](https://scholar.google.com/citations?user=WcCd_BoAAAAJ&hl=it){:target="_blank"}, [Dr. Zdenek Lajbner](https://scholar.google.com/citations?user=9R_ewDcAAAAJ){:target="_blank"}, and [Dr. Reuven Pnini](https://scholar.google.com/citations?user=RVC1fEsAAAAJ&hl=en){:target="_blank"}| |
 | ■ Critically analyzed and visually represented all potential combinations of inter-gap segments (IGS), ancestral repeats (ARs), and contiguous mismatched ARs in human/mouse and human/gorilla genome alignments, focusing on both DNAs and repetitive sequences| |
 | ■ Successfully replicated the findings of the neutral indel model proposed by [Lunter, Pointing, and Hein (2006)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020005){:target="_blank"} | |
@@ -169,7 +169,7 @@ images:
 |:--------------------------|--------------------------|
 | **Physics and Biology Unit, Okinawa Institute of Science and Technology Graduate University (OIST), Japan** | [Affiliation](https://groups.oist.jp/pbu/members){:target="_blank"} (Acceptance Rate: **14%**)|
 | _Research topic:_ Evolutionary dynamics of strongly conserved sequences in vertebrates and insects | [Code Repository](https://github.com/Abrar2652/oist-comparative-genomics){:target="_blank"} |
-| _Supervisor:_ [Professor Jonathan Miller](https://groups.oist.jp/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |
+| _Supervisor:_ [Professor Jonathan Miller](https://www.oist.jp/research/research-units/pbu/jonathan-miller){:target="_blank"} (BS in Statistics, Yale; PhD in Biology, Cambridge; PhD in Physics, Caltech) |
 | _Experiences:_   |  |
 | ■ Awarded with full-funded scholarship with a daily allowance of JPY 2400 per working day (taxable) |
 | ■ Conducted research on perfectly conserved sequence (PCS) length distributions of UCSC 44 pairwise genome sequences |
