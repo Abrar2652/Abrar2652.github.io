@@ -242,12 +242,12 @@ images:
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* ICML 2026
 * PLOS One
 * Quantum Machine Intelligence (Springer Nature)
 * Information Systems (Elsevier)
-* ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains
-* Actionable Interpretability Workshop at ICML 2025
-* LatinX in AI Workshop at ICML 2025
+* ICML 2025 Workshops: LatinX in AI, Actionable Interpretability Workshop, DataWorld
+* IEEE Transactions on Biomedical Engineering
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * Scientific Reports (Nature Portfolio)
 * ACM Transactions on Intelligent Systems and Technology
@@ -280,14 +280,18 @@ images:
 <br>
 
 
-| SpecX     | Aug 2022 - Present |
+| USC CS Undergraduate Mentorship Program (Fall 2025) | Oct 2024 - Present |
 |:--------------------------|--------------------------|
-| Founder & AI Researcher | [MIT Solve 2024](https://solve.mit.edu/challenges/2024-global-health-challenge/solutions/90695){:target="_blank"} |
-| ■ Developed a hybrid DL model architecture, integrated XAI, topic modeling, telemedicine appointment, and personalized treatment |
-| ■ Acquired funding from the University of Aizu (Japan) and AIUB (Bangladesh) to collect patients' data and conduct NLP research |
+| Graduate Mentor | Area: General AI/Machine Learning (theoretical/applied) |
+| ■ Mentoring 2 undergraduate CS students at USC on research preparation, course planning, and pathways to graduate study through recurring one-on-one advising |
+| ■ Advising on faculty outreach, independent skill development, and research-focused internships and REU opportunities |
 
 
-
+| IEEE Computer Society - Coastal Los Angeles Section | Jan 2026 - Present |
+|:--------------------------|--------------------------|
+| Treasurer @ Chapter C16 (CH06240) |  |
+| ■ Managed chapter financial operations, including budgeting, expense review, record maintenance, and reporting to the Section Executive Committee |
+| ■ Prepared and submitted annual financial statements (L-50) and ensured compliance with IEEE MGA policies and audit requirements |
 
 
 

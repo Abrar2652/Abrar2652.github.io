@@ -52,8 +52,11 @@ nav_order: 4
 Besides conducting independent research, I supervise self-driven students from the leading Bangladeshi universities: KUET, AIUB, IUT, and SUST. They are mostly in their 3rd and 4th years of their studies. I teach them how to do scientific research, how to write articles, what are the do's and don'ts of research ethics are, and how to follow the formats of different journals. I also help them acquire funding to support their research endeavors. I am proud to have supervised two talented high-school students in their research projects, both of whom earned merit scholarships to pursue a BS in the US universities.
 
 _Current & Previous Students_:
+
 * Shaikh Shehab Ahamed (BS, KUET IEM 2k21)
 * Taufikur Rahman Fuad (BS, IUT EEE)
+* Jimena Arce (BS, USC CS Fall 2022)
+* Zaki Cole (BS, USC CS Fall 2022)
 * Saleh Akram Naife (BS, KUET IEM 2k19)
 * Adiba Abid (BS, KUET IEM 2k19)
 * Raihan Rafi Prottoy (BS, KUET IEM 2k19)
