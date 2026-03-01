@@ -355,9 +355,9 @@ Association for Computing Machinery
 
 <br>
 
-| IEEE Computer Society - Coastal Los Angeles Section | Jan 2026 - Present |
+| IEEE Computer Society - Coastal Los Angeles Section, Chapter C16 (CH06240) | Jan 2026 - Present |
 |:--------------------------|--------------------------|
-| Treasurer @ Chapter C16 (CH06240) |  |
+| Treasurer |  |
 | ■ Managed chapter financial operations, including budgeting, expense review, record maintenance, and reporting to the Section Executive Committee |
 | ■ Prepared and submitted annual financial statements (L-50) and ensured compliance with IEEE MGA policies and audit requirements |
 
