@@ -353,6 +353,8 @@ Association for Computing Machinery
 | ■ Advising on faculty outreach, independent skill development, and research-focused internships and REU opportunities |
 
 
+<br>
+
 | IEEE Computer Society - Coastal Los Angeles Section | Jan 2026 - Present |
 |:--------------------------|--------------------------|
 | Treasurer @ Chapter C16 (CH06240) |  |
