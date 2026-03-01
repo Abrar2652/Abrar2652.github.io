@@ -265,6 +265,72 @@ images:
 
 <br>
 
+## Professional Affiliations
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>AAAI Student Member</strong> (Member #649479)</span>
+<span><em>Dec 2025 – Nov 2026</em></span>
+</div>
+Association for the Advancement of Artificial Intelligence  
+✉️ <a href="mailto:mjahin@acm.org">mjahin@acm.org</a>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>ACM Student Member</strong> (Member #3553960, USC ACM Chapter)</span>
+<span><em>Aug 2025 – Jul 2026</em></span>
+</div>
+Association for Computing Machinery  
+✉️ <a href="mailto:mjahin@acm.org">mjahin@acm.org</a>  
+🔗 <a href="https://member.acm.org/~abrar2652" target="_blank">Official Member Profile</a>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>IEEE Graduate Student Member</strong> (Member #96981120, Coastal Los Angeles Section)</span>
+<span><em>Jan 2026 – Present</em></span>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>IEEE Computational Intelligence Society</strong></span>
+<span><em>Jan 2026 – Present</em></span>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>IEEE Computer Society</strong></span>
+<span><em>Jan 2026 – Present</em></span>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>IEEE Communications Society</strong></span>
+<span><em>Jan 2026 – Present</em></span>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>IEEE Young Professionals</strong></span>
+<span><em>Jan 2026 – Present</em></span>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+<span><strong>Quantum Technical Community</strong>, IEEE Computer Society</span>
+<span><em>Jan 2022 – Dec 2025</em></span>
+</div>
+
+---
+
+
+<br>
+
 ## Leadership and Advisory Roles
 
 | KUET Research Society     | Nov 2023 - May 2024  |
