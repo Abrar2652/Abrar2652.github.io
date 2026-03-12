@@ -53,6 +53,7 @@ Besides conducting independent research, I supervise self-driven students from t
 
 _Current & Previous Students_:
 
+* Md. Akramuddoula (BS, KUET ECE 2k20)
 * Shaikh Shehab Ahamed (BS, KUET IEM 2k21)
 * Taufikur Rahman Fuad (BS, IUT EEE)
 * Jimena Arce (BS, USC CS Fall 2022)
