@@ -58,6 +58,7 @@ _Current & Previous Students_:
 * Taufikur Rahman Fuad (BS, IUT EEE)
 * Jimena Arce (BS, USC CS Fall 2022)
 * Zaki Cole (BS, USC CS Fall 2022)
+* Md. Saiful Islam Seam (Lecturer @ KUET IEM; BS & MS, KUET IEM 2k19)
 * Saleh Akram Naife (BS, KUET IEM 2k19)
 * Adiba Abid (BS, KUET IEM 2k19)
 * Raihan Rafi Prottoy (BS, KUET IEM 2k19)
