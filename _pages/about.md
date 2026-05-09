@@ -192,6 +192,27 @@ During the review phase of this paper in 2023, I was honored to receive an encou
 </div>
 
 
+<div class="row mt-3">
+    <!-- Left video -->
+    <div class="col-12 col-md-6 d-flex flex-column align-items-center">
+        <div class="embed-responsive embed-responsive-16by9 w-100">
+            {% include video.html path="https://www.youtube.com/embed/CGVjQw2zglI" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="caption mt-2">
+            Presentation on project: "Can Graph Foundation Models Actually See What GNNs Can't?"
+        </div>
+    </div>
+
+    <!-- Right video -->
+    <div class="col-12 col-md-6 d-flex flex-column align-items-center mt-3 mt-md-0">
+        <div class="embed-responsive embed-responsive-16by9 w-100">
+            {% include video.html path="https://www.youtube.com/embed/J7rug-JyLD8?si=DX6SkXlJ5eRF1h_p" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="caption mt-2">
+            My presentation demo on undergraduate thesis defense.
+        </div>
+    </div>
+</div>
 
 
 
