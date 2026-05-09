@@ -49,10 +49,11 @@ nav_order: 4
 
 
 #### Research Mentor
-Besides conducting independent research, I supervise self-driven students from the leading Bangladeshi universities: KUET, AIUB, IUT, and SUST. They are mostly in their 3rd and 4th years of their studies. I teach them how to do scientific research, how to write articles, what are the do's and don'ts of research ethics are, and how to follow the formats of different journals. I also help them acquire funding to support their research endeavors. I am proud to have supervised two talented high-school students in their research projects, both of whom earned merit scholarships to pursue a BS in the US universities.
+Besides conducting independent research, I supervise self-driven students from the leading Bangladeshi universities: KUET, NSU, AIUB, IUT, and SUST. They are mostly in their 3rd and 4th years of their studies. I teach them how to do scientific research, how to write articles, what the do's and don'ts of research ethics are, and how to follow the formats of different venues. I also support them with experiments involving HPC and funding to support their research endeavors. I am proud to have supervised two talented high-school students in their research projects, both of whom earned merit scholarships to pursue a BS in the US universities.
 
 _Current & Previous Students_:
 
+* S. M. Muhtasimul Hasan (BS, NSU CSE 2k20)
 * Md. Akramuddoula (BS, KUET ECE 2k20)
 * Shaikh Shehab Ahamed (BS, KUET IEM 2k21)
 * Taufikur Rahman Fuad (BS, IUT EEE)

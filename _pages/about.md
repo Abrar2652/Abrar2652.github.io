@@ -180,19 +180,6 @@ During the review phase of this paper in 2023, I was honored to receive an encou
 
 
 <div class="row mt-3">
-    <div class="col-12 d-flex justify-content-center align-items-center mt-3 mt-md-0">
-        <div class="embed-responsive embed-responsive-16by9">
-            {% include video.html path="https://www.youtube.com/embed/J7rug-JyLD8?si=DX6SkXlJ5eRF1h_p" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
-</div>
-
-<div class="caption">
-    My presentation demo on undergraduate thesis defense.
-</div>
-
-
-<div class="row mt-3">
     <!-- Left video -->
     <div class="col-12 col-md-6 d-flex flex-column align-items-center">
         <div class="embed-responsive embed-responsive-16by9 w-100">
