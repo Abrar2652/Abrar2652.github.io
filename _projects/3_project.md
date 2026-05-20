@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {Temporal Knowledge Graphs for Multi-Hop Pattern Recognition}
+title: Temporal Knowledge Graphs for Multi-Hop Pattern Recognition
 description: 
 img: assets/img/projects/tkg.png
 redirect: # https://unsplash.com

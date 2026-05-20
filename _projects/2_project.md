@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {KGs for Enterprise Defense Solutions}
+title: KGs for Enterprise Defense Solutions
 description: Enhancing Scalability of Knowledge Graphs for Enterprise Defense Solutions (STTR Phase-I)
 img: assets/img/projects/afrl.png
 importance: 2
