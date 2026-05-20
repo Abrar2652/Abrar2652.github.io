@@ -242,7 +242,8 @@ images:
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
-* ICML 2026
+* NeurIPS 2026
+* ICML 2026 (Gold Reviewer Award)
 * PLOS One
 * Quantum Machine Intelligence (Springer Nature)
 * Information Systems (Elsevier)
