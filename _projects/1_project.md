@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modeling Sparse and Heterogeneous Geochemistry Data
+title: {Modeling Sparse and Heterogeneous Geochemistry Data}
 description: Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase-II)
 img: assets/img/projects/darpa.png
 importance: 1
