@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded <span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">Gold Reviewer Award</span>} at ICML 2026.
+I have been awarded <span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">Gold Reviewer Award</span> at ICML 2026.
 
 <br>
 <div class="mb-3">
