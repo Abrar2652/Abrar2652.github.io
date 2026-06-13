@@ -238,12 +238,18 @@ images:
 
 <br>
 
-## Peer Review Experiences
+## Professional Service
+### Program Committee Member
+
+* ICDM 2026
+
+### Peer Reviewer
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* ICDM 2026
 * NeurIPS 2026
-* ICML 2026 (Gold Reviewer Award)
+* ICML 2026 (<span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">Gold Reviewer Award</span>)
 * PLOS One
 * Quantum Machine Intelligence (Springer Nature)
 * Information Systems (Elsevier)
