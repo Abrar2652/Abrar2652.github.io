@@ -15,14 +15,14 @@ This project develops a secure, scalable knowledge graph platform for defense su
 ### **Funding Source(s)**
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row align-items-center">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/afrl.png" title="AFRL" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/simba.png" title="SIMBA Chain, Inc." class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/isi.jpg" title="USC ISI" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

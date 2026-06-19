@@ -604,6 +604,7 @@ footer.sticky-bottom {
 
 
 // Projects
+
 .projects {
   a {
     text-decoration: none;
@@ -631,17 +632,39 @@ footer.sticky-bottom {
     }
   }
 
-  // ⬇️ Change this part
+  .project-logo {
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    figure,
+    picture {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
+    }
+  }
+
   .grid-sizer,
   .grid-item {
-    width: 300px;   // was 250px → wider project containers
+    width: 300px;
     margin-bottom: 15px;
   }
 
-  // ⬇️ Add new rules here
   .card-title {
-    text-transform: capitalize;   // converts to Title Case
-    font-size: 1.1rem;            // smaller font for thumbnails
+    text-transform: capitalize;
+    font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.3em;
     word-break: break-word;
@@ -652,6 +675,7 @@ footer.sticky-bottom {
     .grid-item {
       width: 100% !important;
     }
+
     .card-title {
       font-size: 1rem;
     }

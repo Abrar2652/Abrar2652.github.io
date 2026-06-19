@@ -13,19 +13,22 @@ This project develops AI-driven methods to automatically extract and interpret c
 ---
 
 ### **Funding Source(s)**
-The project is funded under the **[DARPA](https://www.darpa.mil/){:target="_blank"} STTR (Small Business Technology Transfer) program**, with collaboration from:
+The project is funded under the **[DARPA/USGS](https://www.darpa.mil/){:target="_blank"} STTR (Small Business Technology Transfer) program**, with collaboration from:
 - **USC Information Sciences Institute (ISI)**
 - **InferLink Corporation**
 - **Jataware Corporation**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row align-items-center">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
+        {% include figure.html path="assets/img/projects/usgs.png" title="USC ISI" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/isi.jpg" title="USC ISI" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/inferlink.png" title="InferLink Corporation" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 project-logo">
         {% include figure.html path="assets/img/projects/jataware.png" title="Jataware Corporation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
