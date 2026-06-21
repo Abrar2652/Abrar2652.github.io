@@ -13,23 +13,41 @@ images:
 ## Research Interests
 
 * Efficient Machine Learning (ML) & Deep Learning (DL)
-    * Kolmogorov Arnold Networks (KAN)
-    * Geometric & Spiking Neural Networks
-    * Physics-Informed Neural Network (PINN)
+    * Kolmogorov–Arnold Networks (KAN)
+    * Geometric & Equivariant Deep Learning
+    * Spiking Neural Networks (SNN)
+    * Physics-Informed Neural Networks (PINN)
+    * Neural Operators
+
+* Graph Representation Learning
+    * Graph Neural Networks (GNN)
+    * Temporal / Dynamic Graph Learning
+    * Knowledge Graphs & Ontologies (Semantic Web)
+
+* Neurosymbolic AI
+    * Knowledge Representation & Reasoning
+    * Scientific Knowledge Discovery & Automated Scientific Discovery
+
 * Quantum Computing
     * Quantum Machine Learning (QML)
+    * Equivariant / Geometric QML
+    * Neural Quantum States (NQS) for Many-Body Physics
+
 * Trustworthy AI
     * Explainable AI (XAI)
     * Uncertainty Quantification (UQ)
-        * Conformal Prediction (CP)
-* Self-Supervised Learning (SSL)
-    * Contrastive Learning
+         * Conformal Prediction (CP)
+    * Certified / Verifiable ML
+
+* Foundation Models & Agentic AI
+    * Multi-Agent AI Systems
+    * Human-AI Knowledge Systems
+
 * Reinforcement Learning (RL)
     * Inverse RL (IRL)
     * Imitation Learning
     * Human-in-the-loop RL
-* Natural Language Processing (NLP)
-    * Sentiment Analysis
+
 
 <br>
 
