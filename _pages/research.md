@@ -247,6 +247,7 @@ images:
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* TMLR
 * ICDM 2026
 * NeurIPS 2026
 * ICML 2026 (<span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">Gold Reviewer Award</span>)
