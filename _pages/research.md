@@ -16,20 +16,14 @@ images:
     * Kolmogorov–Arnold Networks (KAN)
     * Geometric & Equivariant Deep Learning
     * Spiking Neural Networks (SNN)
-    * Physics-Informed Neural Networks (PINN)
-    * Neural Operators
+    * Physics-Informed Neural Networks (PINN) & Neural Operators
 
-* Graph Representation Learning
-    * Graph Neural Networks (GNN)
-    * Temporal / Dynamic Graph Learning
-    * Knowledge Graphs & Ontologies (Semantic Web)
+* Graph Representation Learning & Neurosymbolic AI
+    * Graph Neural Networks (GNN); Temporal / Dynamic Graphs
+    * Knowledge Graphs, Ontologies & Reasoning (Semantic Web)
+    * Scientific & Automated Knowledge Discovery
 
-* Neurosymbolic AI
-    * Knowledge Representation & Reasoning
-    * Scientific Knowledge Discovery & Automated Scientific Discovery
-
-* Quantum Computing
-    * Quantum Machine Learning (QML)
+* Quantum Machine Learning (QML)
     * Equivariant / Geometric QML
     * Neural Quantum States (NQS) for Many-Body Physics
 
@@ -40,13 +34,10 @@ images:
     * Certified / Verifiable ML
 
 * Foundation Models & Agentic AI
-    * Multi-Agent AI Systems
-    * Human-AI Knowledge Systems
+    * Multi-Agent & Human-AI Knowledge Systems
 
 * Reinforcement Learning (RL)
-    * Inverse RL (IRL)
-    * Imitation Learning
-    * Human-in-the-loop RL
+    * Inverse RL, Imitation Learning, Human-in-the-loop RL
 
 
 <br>
