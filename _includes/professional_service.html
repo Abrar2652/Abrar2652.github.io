@@ -1,0 +1,99 @@
+{%- comment -%}
+============================================================
+  Professional Service — al-folio include
+  Renders the venue list from _data/service.yml.
+  To change CONTENT, edit _data/service.yml — not this file.
+  To change LOOK, edit the .svc__ CSS below.
+  Usage in a page:  {% include professional_service.liquid %}
+============================================================
+{%- endcomment -%}
+<section class="svc" aria-labelledby="svc-title">
+  <style>
+    .svc{
+      --svc-accent:#8b0000;     /* dark red — theme color */
+      --svc-gold:#b8860b;       /* lone honour accent, used only on the award seal */
+      --svc-rule:rgba(0,0,0,.14);   /* neutral hairline on white */
+      --svc-soft:rgba(0,0,0,.55);   /* muted gray for labels + notes */
+      --svc-mono:'SFMono-Regular',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace;
+      margin:0;
+    }
+    .svc__title{
+      font-size:1.5rem;font-weight:700;letter-spacing:.01em;
+      margin:0 0 1rem;display:flex;align-items:baseline;gap:.6rem;flex-wrap:wrap;
+    }
+    .svc__title em{font-style:italic;color:var(--svc-accent);}
+    .svc__id{
+      font-family:var(--svc-mono);font-size:.66rem;letter-spacing:.1em;
+      text-transform:uppercase;font-weight:400;
+    }
+    .svc__id a{color:var(--svc-accent);text-decoration:none;border-bottom:1px dotted var(--svc-accent);}
+    .svc__id a:hover,.svc__id a:focus-visible{background:rgba(139,0,0,.10);}
+    .svc__group{margin:0 0 1.05rem;}
+    .svc__group:last-of-type{margin-bottom:0;}
+    .svc__label{
+      font-family:var(--svc-mono);font-size:.64rem;letter-spacing:.14em;
+      text-transform:uppercase;color:var(--svc-soft);
+      margin:0 0 .4rem;display:flex;align-items:center;gap:.55rem;
+    }
+    .svc__label::after{content:"";flex:1;height:0;border-top:1px solid var(--svc-rule);}
+    .svc__list{
+      list-style:none;margin:0;padding:0;
+      display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+      gap:.02rem .9rem;
+    }
+    .svc__item{
+      display:flex;align-items:baseline;gap:.45rem;
+      padding:.12rem 0;font-size:.92rem;line-height:1.35;
+    }
+    .svc__mark{
+      font-family:var(--svc-mono);font-size:.68rem;color:var(--svc-accent);
+      flex:none;transform:translateY(-1px);user-select:none;
+    }
+    .svc__name{flex:1;}
+    .svc__pub{display:block;font-size:.7rem;color:var(--svc-soft);font-style:italic;}
+    .svc__item--award .svc__name{font-weight:600;}
+    .svc__seal{
+      font-family:var(--svc-mono);font-size:.58rem;letter-spacing:.05em;
+      text-transform:uppercase;color:var(--svc-gold);
+      border:1px solid var(--svc-gold);border-radius:2px;
+      padding:.03rem .3rem;white-space:nowrap;display:inline-block;
+      box-shadow:inset 0 0 6px rgba(184,134,11,.18);transform:rotate(-3deg);
+    }
+    .svc__stamp{
+      font-family:var(--svc-mono);font-size:.56rem;letter-spacing:.1em;
+      text-transform:uppercase;color:#fff;background:var(--svc-accent);
+      padding:.05rem .34rem;border-radius:2px;white-space:nowrap;
+    }
+    @media (prefers-color-scheme:dark){
+      .svc{--svc-accent:#b22222;        /* stays dark red, just enough lift to read on dark */
+        --svc-gold:#d4a843;            /* seal stays gold */
+        --svc-rule:rgba(255,255,255,.16);
+        --svc-soft:rgba(255,255,255,.6);}
+      /* stamp keeps white text on its dark-red fill (set in base rule) */
+    }
+    @media (max-width:480px){
+      .svc__list{grid-template-columns:1fr;}
+    }
+  </style>
+
+  <h2 class="svc__title" id="svc-title">
+    Professional <em>Service</em>
+    <span class="svc__id">Reviewer ·
+      <a href="https://www.webofscience.com/wos/author/record/AFE-0313-2022">WoS AFE-0313-2022</a>
+    </span>
+  </h2>
+
+  {%- for block in site.data.service -%}
+  <div class="svc__group">
+    <p class="svc__label">{{ block.group }}</p>
+    <ul class="svc__list">
+      {%- for v in block.venues -%}
+      <li class="svc__item{% if v.seal %} svc__item--award{% endif %}">
+        <span class="svc__mark">{% if v.stamp %}§{% else %}✓{% endif %}</span>
+        <span class="svc__name">{{ v.name }}{% if v.stamp %} <span class="svc__stamp">{{ v.stamp }}</span>{% endif %}{% if v.seal %} <span class="svc__seal">{{ v.seal }}</span>{% endif %}{% if v.note %}<span class="svc__pub">{{ v.note }}</span>{% endif %}</span>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  {%- endfor -%}
+</section>

@@ -1,0 +1,62 @@
+# ============================================================
+#  Professional Service — venue data
+#  Add a venue: add a "- name:" line under the right group.
+#  Optional keys per venue:
+#    stamp: <text>   → red committee stamp  (also flips the mark to §)
+#    seal:  <text>   → gold reviewer seal   (bolds the name)
+#    note:  <text>   → small italic line under the name (publisher, place/date)
+#  Use only the keys you need; omit the rest for a plain entry.
+#  To add a whole new group, copy a "- group:" block.
+# ============================================================
+
+- group: Conferences & Committees
+  venues:
+    - name: ICDM 2026
+      stamp: PC member
+    - name: ICML 2026
+      seal: Gold reviewer
+    - name: NeurIPS 2026
+    - name: ICDM 2026
+    - name: ICML 2025 Workshops
+      note: LatinX in AI · Actionable Interpretability · DataWorld
+    - name: 7th European Conference on IEOM
+      note: Augsburg, Germany · Jul 2024
+
+- group: Machine Learning & Computing Journals
+  venues:
+    - name: TMLR
+    - name: Neural Networks
+      note: Elsevier
+    - name: Quantum Machine Intelligence
+      note: Springer Nature
+    - name: ACM Trans. Intelligent Systems & Technology
+    - name: Expert Systems with Applications
+      note: Elsevier
+    - name: Engineering Applications of AI
+      note: Elsevier
+    - name: Information Systems
+      note: Elsevier
+    - name: Multimedia Tools & Applications
+      note: Springer Nature
+    - name: The Journal of Supercomputing
+      note: Springer Nature
+    - name: Cluster Computing
+      note: Springer Nature
+    - name: Computers & Industrial Engineering
+      note: Elsevier
+    - name: IEEE Access
+
+- group: IEEE Transactions
+  venues:
+    - name: Biomedical Engineering
+    - name: "Systems, Man & Cybernetics: Systems"
+
+- group: Multidisciplinary, Life & Social Sciences
+  venues:
+    - name: Scientific Reports
+      note: Nature Portfolio
+    - name: PLOS One
+    - name: Journal of Multidisciplinary Healthcare
+      note: Taylor & Francis
+    - name: Journal of Contemporary African Studies
+      note: Taylor & Francis
