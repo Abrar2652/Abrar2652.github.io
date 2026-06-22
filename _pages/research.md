@@ -247,12 +247,12 @@ images:
 
 <br>
 
-## Professional Service
-### Program Committee Member
+### Professional Service
+#### Program Committee Member
 
 * ICDM 2026
 
-### Peer Reviewer
+#### Peer Reviewer
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
