@@ -17,7 +17,10 @@ profile:
     <p>jahin[at]{<span style="color:#990000; font-weight:600;">usc</span>, <span style="color:#FFCC00; font-weight:600; text-shadow:0 0 1px #990000;">isi</span>}.edu</p>
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit:  # leave blank to include all the blog posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 images:
