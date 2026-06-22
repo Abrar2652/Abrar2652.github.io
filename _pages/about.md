@@ -180,6 +180,7 @@ My research focuses on the foundations of **Structural and Geometric AI**. I wor
 </div>
 
 
+{% include service.html %}
 
 
 <!--
