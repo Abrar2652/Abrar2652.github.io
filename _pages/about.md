@@ -157,27 +157,6 @@ My research focuses on the foundations of **Structural and Geometric AI**. I wor
 
 
 
-## Early Research Achievements
-
-From my first year of university (2019), I started learning C/C++ and Python for problem-solving while maintaining strong academic performance. I participated in international competitions like IYMC (2019) and IAAC (2020), where I tackled challenging research-level problems. My first success on the international stage came from solving these problems using my own algorithms. This experience boosted my confidence and helped me realize my passion for research, leading me to pursue a career in AI. Since then, I haven’t looked back. I see learning as a lifelong journey. I deeply believe in the value of knowledge: its loyalty, its depth, and its power to endure over time.
-
-I feel fortunate to have been the first Bangladeshi undergraduate student to receive the opportunity for two international research internships in the same year.  After leading my team to win the ["Smart Roads – Winter Road Maintenance Hackathon 2021"](https://dit4bears.devpost.com/project-gallery){:target="_blank"}, I was offered a 3-week Machine Learning research internship at [UiT - The Arctic University of Norway](https://en.uit.no/){:target="_blank"}. During this internship, I contributed to the [DIT4BEARs Smart Roads project](http://dit4bears.org/){:target="_blank"}.
-
-I was honored to receive a **fully-funded scholarship** as the first Bangladeshi **Research Intern (RI)** (October 2021) at the [Okinawa Institute of Science and Technology Graduate University (OIST)](https://www.oist.jp/){:target="_blank"}. Under the supervision of **[Prof. Jonathan Miller](https://www.oist.jp/research/research-units/pbu/jonathan-miller){:target="_blank"}** (PhD in Biology, Cambridge; PhD in Physics, Caltech), I conducted research on perfectly conserved sequences in humans and other species in the *Physics and Biology Unit (Miller Unit)*. Thanks to this early experience, I was fortunate to be offered another opportunity in 2023 as a **Visiting Research Student (VRS)** at OIST. After graduating in March 2024, I continued collaborating as a **Visiting Researcher (VR)** until March 2025, working closely with Prof. Miller as well as [Dr. Zifcakova](https://www.researchgate.net/profile/Lucia-Zifcakova){:target="_blank"}, [Dr. Biller](https://scholar.google.com/citations?user=WcCd_BoAAAAJ&hl=it){:target="_blank"}, [Dr. Lajbner](https://scholar.google.com/citations?user=9R_ewDcAAAAJ){:target="_blank"}, and [Dr. Pnini](https://scholar.google.com/citations?user=RVC1fEsAAAAJ&hl=en){:target="_blank"} on the evolutionary dynamics of strongly conserved sequences in vertebrates and insects.
-
-I had the privilege of being co-supervised by **[Prof. M. F. Mridha](https://www.aiub.edu/faculty-list/faculty-profile#firoz.mridha@aiub.edu){:target="_blank"}**, **[Prof. Nilanjan Dey](https://scholar.google.co.in/citations?user=uZmrRHAAAAAJ&hl=en){:target="_blank"}**, **[Prof. Md. Saiful Islam](https://scholar.google.com/citations?user=PsHZ75wAAAAJ&hl=en){:target="_blank"}**, and **[Dr. Mohammad Arafat Hussain](https://marafathussain.github.io/){:target="_blank"}** (Postdoctoral Fellow at Harvard Medical School) during my undergraduate studies and early research career. Additionally, I have had the opportunity to collaborate with distinguished computer scientists, including **[Prof. R. Simon Sherratt](https://scholar.google.co.uk/citations?user=FmTl_5UAAAAJ&hl=en){:target="_blank"}** (IEEE Fellow), **[Prof. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html){:target="_blank"}**, **[Prof. Yuichi Okuyama](https://scholar.google.com/citations?user=K8i6uGkAAAAJ&hl=en){:target="_blank"}**, **[Prof. Zeyar Aung](https://scholar.google.com/citations?user=FPTI7B4AAAAJ&hl=en){:target="_blank"}**, **[Prof. Yutaka Watanobe](https://u-aizu.ac.jp/~yutaka/){:target="_blank"}**, **[Prof. Md. Rashedul Islam](https://scholar.google.com/citations?hl=en&user=V-HK1CEAAAAJ){:target="_blank"}**, and **[Prof. Md. Jakir Hossen](https://mmuexpert.mmu.edu.my/jakirhossen){:target="_blank"}**.
-
-In Bangladesh, my undergraduate thesis was the first to focus on Quantum Machine Learning (QML) which ultimately led to a publication in *Nature Scientific Reports*. Some remarkable aspects of this achievement include:
-
-* The first undergraduate thesis from KUET to be accepted by a Nature Portfolio journal, and notably, this occurred 5–6 months prior to graduation.
-* The first publication from the KUET IEM department, by any student or faculty, in a Nature Portfolio journal.
-* The first successful research on Quantum Computing to be published from KUET.
-* The first application of Explainable Quantum Machine Learning in the domain of Supply Chain Management.
-
-During the review phase of this paper in 2023, I was honored to receive an encouraging email from **[Professor Junyu Liu](https://sites.google.com/view/junyuliu/main){:target="_blank"}**, a respected researcher in quantum information and ML and currently an Assistant Professor at the University of Pittsburgh. Professor Liu came across my thesis on arXiv while he was a postdoctoral researcher at the University of Chicago and kindly shared his appreciation for the work.
-
-
-
 <div class="row mt-3">
     <!-- Left video -->
     <div class="col-12 col-md-6 d-flex flex-column align-items-center">
