@@ -179,9 +179,9 @@ My research focuses on the foundations of **Structural and Geometric AI**. I wor
     </div>
 </div>
 
-
+<br>
 {% include professional_service.html %}
-
+<br>
 
 <!--
 Use https://www.posterburner.com/Image-Size-Finder.aspx website to calculate the image dimensions and then use the aspect ratio to make the carousel's dimension adaptive. I took the width 500px and adjusted height maintaining the ratio and finally converting it to percentage. If 519.28px is the width, then the percentage will be 51.928%, if the container dimension remains by-default.
