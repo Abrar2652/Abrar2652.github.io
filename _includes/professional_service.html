@@ -4,9 +4,34 @@
   Renders the venue list from _data/service.yml.
   To change CONTENT, edit _data/service.yml — not this file.
   To change LOOK, edit the .svc__ CSS below.
+
+  The role labels in the header (Reviewer · PC member · …)
+  are DERIVED from the seal/stamp values in service.yml.
+  Add a venue with a new stamp or seal and the header picks
+  it up automatically — nothing here needs editing.
+
   Usage in a page:  {% include professional_service.liquid %}
 ============================================================
 {%- endcomment -%}
+
+{%- comment -%} ---- derive distinct role labels from the data ---- {%- endcomment -%}
+{%- assign svc_roles = "" -%}
+{%- for block in site.data.service -%}
+  {%- for v in block.venues -%}
+    {%- if v.seal and v.seal != "" -%}
+      {%- unless svc_roles contains v.seal -%}
+        {%- assign svc_roles = svc_roles | append: v.seal | append: "|" -%}
+      {%- endunless -%}
+    {%- endif -%}
+    {%- if v.stamp and v.stamp != "" -%}
+      {%- unless svc_roles contains v.stamp -%}
+        {%- assign svc_roles = svc_roles | append: v.stamp | append: "|" -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- assign svc_roles = svc_roles | split: "|" -%}
+
 <section class="svc" aria-labelledby="svc-title">
   <style>
     .svc{
@@ -78,7 +103,8 @@
 
   <h2 class="svc__title" id="svc-title">
     Professional <em>Service</em>
-    <span class="svc__id">Reviewer ·
+    <span class="svc__id">
+      {%- for role in svc_roles -%}{{ role }} · {%- endfor -%}
       <a href="https://www.webofscience.com/wos/author/record/AFE-0313-2022">WoS AFE-0313-2022</a>
     </span>
   </h2>

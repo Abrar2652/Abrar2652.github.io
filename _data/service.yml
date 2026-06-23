@@ -7,6 +7,10 @@
 #    note:  <text>   → small italic line under the name (publisher, place/date)
 #  Use only the keys you need; omit the rest for a plain entry.
 #  To add a whole new group, copy a "- group:" block.
+#
+#  ROLES IN THE HEADER are derived automatically from the
+#  stamp/seal values below — no need to edit the HTML.
+#  A new stamp/seal text appears in the title on its own.
 # ============================================================
 
 - group: Program Committees
@@ -14,10 +18,8 @@
     - name: ICDM 2026
       stamp: PC member
 
-
 - group: Conferences & Committees
   venues:
-    - name: ICDM 2026
     - name: ICML 2026
       seal: Gold reviewer
     - name: NeurIPS 2026
