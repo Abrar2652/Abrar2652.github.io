@@ -9,14 +9,18 @@
 #  To add a whole new group, copy a "- group:" block.
 # ============================================================
 
-- group: Conferences & Committees
+- group: Program Committees
   venues:
     - name: ICDM 2026
       stamp: PC member
+
+
+- group: Conferences & Committees
+  venues:
+    - name: ICDM 2026
     - name: ICML 2026
       seal: Gold reviewer
     - name: NeurIPS 2026
-    - name: ICDM 2026
     - name: ICML 2025 Workshops
       note: LatinX in AI · Actionable Interpretability · DataWorld
     - name: 7th European Conference on IEOM
