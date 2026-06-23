@@ -1,24 +1,22 @@
 # ============================================================
 #  Professional Service — venue data
+#  Two groups only:
+#    PC        → program-committee roles (rendered with § + stamp)
+#    Reviewer  → everything else (rendered with ✓)
 #  Add a venue: add a "- name:" line under the right group.
 #  Optional keys per venue:
 #    stamp: <text>   → red committee stamp  (also flips the mark to §)
 #    seal:  <text>   → gold reviewer seal   (bolds the name)
 #    note:  <text>   → small italic line under the name (publisher, place/date)
 #  Use only the keys you need; omit the rest for a plain entry.
-#  To add a whole new group, copy a "- group:" block.
-#
-#  ROLES IN THE HEADER are derived automatically from the
-#  stamp/seal values below — no need to edit the HTML.
-#  A new stamp/seal text appears in the title on its own.
 # ============================================================
 
-- group: Program Committees
+- group: Program Committee Member
   venues:
     - name: ICDM 2026
       stamp: PC member
 
-- group: Conferences & Committees
+- group: Reviewer
   venues:
     - name: ICML 2026
       seal: Gold reviewer
@@ -27,9 +25,6 @@
       note: LatinX in AI · Actionable Interpretability · DataWorld
     - name: 7th European Conference on IEOM
       note: Augsburg, Germany · Jul 2024
-
-- group: Machine Learning & Computing Journals
-  venues:
     - name: TMLR
     - name: Neural Networks
       note: Elsevier
@@ -51,14 +46,8 @@
     - name: Computers & Industrial Engineering
       note: Elsevier
     - name: IEEE Access
-
-- group: IEEE Transactions
-  venues:
-    - name: Biomedical Engineering
-    - name: "Systems, Man & Cybernetics: Systems"
-
-- group: Multidisciplinary, Life & Social Sciences
-  venues:
+    - name: "IEEE Trans. Biomedical Engineering"
+    - name: "IEEE Trans. Systems, Man & Cybernetics: Systems"
     - name: Scientific Reports
       note: Nature Portfolio
     - name: PLOS One
