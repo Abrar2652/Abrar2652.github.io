@@ -18,14 +18,12 @@
 
 - group: Reviewer
   venues:
+    - name: NeurIPS 2026
+    - name: TMLR
     - name: ICML 2026
       seal: Gold reviewer
-    - name: NeurIPS 2026
     - name: ICML 2025 Workshops
       note: LatinX in AI · Actionable Interpretability · DataWorld
-    - name: 7th European Conference on IEOM
-      note: Augsburg, Germany · Jul 2024
-    - name: TMLR
     - name: Neural Networks
       note: Elsevier
     - name: Quantum Machine Intelligence
@@ -46,8 +44,8 @@
     - name: Computers & Industrial Engineering
       note: Elsevier
     - name: IEEE Access
-    - name: "IEEE Trans. Biomedical Engineering"
-    - name: "IEEE Trans. Systems, Man & Cybernetics: Systems"
+    - name: "IEEE Transactions on Biomedical Engineering"
+    - name: "IEEE Transactions on Systems, Man & Cybernetics: Systems"
     - name: Scientific Reports
       note: Nature Portfolio
     - name: PLOS One
@@ -55,3 +53,5 @@
       note: Taylor & Francis
     - name: Journal of Contemporary African Studies
       note: Taylor & Francis
+    - name: 7th European Conference on IEOM
+      note: Augsburg, Germany · Jul 2024
