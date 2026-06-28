@@ -20,6 +20,7 @@
   venues:
     - name: NeurIPS 2026
     - name: TMLR
+    - name: ICDM 2026
     - name: ICML 2026
       seal: Gold reviewer
     - name: ICML 2025 Workshops
