@@ -11,6 +11,11 @@
 #  Use only the keys you need; omit the rest for a plain entry.
 # ============================================================
 
+- group: Associate Editor
+  venues:
+    - name: Frontiers in Sustainable Food Systems
+      note: "Section: Agricultural and Food Economics"
+
 - group: Program Committee Member
   venues:
     - name: ICDM 2026

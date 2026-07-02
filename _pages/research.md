@@ -248,6 +248,11 @@ images:
 <br>
 
 ### Professional Service
+
+#### Associate Editor
+
+* Frontiers in Sustainable Food Systems (Section: Agricultural and Food Economics)
+
 #### Program Committee Member
 
 * ICDM 2026
