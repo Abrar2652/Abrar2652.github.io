@@ -14,17 +14,6 @@ nav_order: 4
   * Fellow Teachers: [Dr. Nicholas Wardhana](https://scholar.google.com/citations?user=efSIn7oAAAAJ&hl=en){:target="_blank"} and [Dr. Jeremie Gillet](https://scholar.google.co.jp/citations?user=SSCq_nYAAAAJ&hl=en){:target="_blank"}
 
 
-<div class="row mt-1">
-    <div class="col-sm mt-1 mt-md-0">
-        {% include video.html path="assets/video/meeting_skill_pill.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-<div class="caption">
-    Meeting with Dr. Nicholas Wardhana (right) and Dr. Jeremie Gillet (left) for preparing mini-course materials.
-</div>
-
-<div class="section-sep"></div>
-
 #### Operations Research 
 * Developed and presented first-ever comprehensive Bengali online tutorials on Operations Research topics, facilitating 3rd-year IPE students.
 * Topics covered: Simplex Method, Two-Phase, Big M, Graphical Sensitivity Analysis, TORA.
