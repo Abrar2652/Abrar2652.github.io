@@ -8,7 +8,7 @@ profile:
   name: Md Abrar Jahin
   position: CS PhD Student & Graduate Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, USC ISI
   align: right
-  image: md_abrar_jahin.png
+  image: md_abrar_jahin.JPG
   email: abrar.jahin.2652@gmail.com
   image_circular: False # crops the image to make it circular
   more_info: >
