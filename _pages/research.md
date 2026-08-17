@@ -261,6 +261,8 @@ images:
 
 ([Web of Science ResearcherID: AFE-0313-2022](https://www.webofscience.com/wos/author/record/AFE-0313-2022)).
 
+* Sci-K co-located with ISWC 2026
+* AAAI 2027
 * TMLR
 * ICDM 2026
 * NeurIPS 2026
