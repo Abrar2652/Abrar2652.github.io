@@ -18,11 +18,12 @@
 
 - group: Program Committee Member
   venues:
+    - name: AAAI 2027
     - name: ICDM 2026
-      stamp: PC member
 
 - group: Reviewer
   venues:
+    - name: AAAI 2027
     - name: NeurIPS 2026
     - name: TMLR
     - name: ICDM 2026
