@@ -105,13 +105,13 @@ My research focuses on the foundations of **Structural and Geometric AI**. I wor
               <img src="https://abrar2652.github.io/assets/img/me5.jpeg" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:100.00%;">
             </div>
             <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me7.jpeg" alt="Abrar at TCC Ballroom @ USC" class="d-block img-fluid" style="height:50%; width:37.5%;">
+              <img src="https://abrar2652.github.io/assets/img/me6.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
+            </div>
+            <div class="carousel-item">
+              <img src="https://abrar2652.github.io/assets/img/me7.jpeg" alt="Abrar at TCC Ballroom @ USC" class="d-block img-fluid" style="height:50%; width:100%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me8.jpeg" alt="Abrar at Downtown LA" class="d-block img-fluid" style="height:50%; width:37.5%;">
-            </div>
-            <div class="carousel-item">
-              <img src="https://abrar2652.github.io/assets/img/me6.JPG" alt="Md Abrar Jahin" class="d-block img-fluid" style="height:50%; width:37.5%;">
             </div>
             <div class="carousel-item">
               <img src="https://abrar2652.github.io/assets/img/me9.jpeg" alt="Abrar with his supervisor Professor Craig" class="d-block img-fluid" style="height:50%; width:66.78%;">
