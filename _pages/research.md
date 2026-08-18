@@ -62,15 +62,16 @@ images:
 <br>
 
 
-| AI Researcher | Aug 2025 - Present  |
+| AI Researcher | Aug 2025 - Present |
 |:------------------------------|------------------------|
-| **[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}, [Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}, Marina Del Rey, CA, USA** | [Portfolio](https://www.isi.edu/centers-ckg/people/phd-students/){:target="_blank"} |
-|_Office Location:_ ISI 718 (7th floor), 1038 (10th floor), and 922 (9th floor), Information Sciences Institute, 4676 Admiralty Way, Marina del Rey, CA 90292 | |
-|_Supervisors:_ [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"} | |
-| _Research Projects:_||
-| ■ Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase II) [Funded by DARPA/USGS] | |
-| ■ Enhancing Scalability of Knowledge Graphs for Enterprise Defense Solutions (STTR Phase I funded by [U.S. Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/){:target="_blank"}, led by [SIMBA Chain, Inc.](https://simbachain.com/){:target="_blank"} | |
-| ■ Temporal Knowledge Graphs for Multi-Hop Pattern Recognition | |
+| **[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}, [Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}, Marina del Rey, CA, USA** | [Portfolio](https://www.isi.edu/centers-ckg/people/phd-students/){:target="_blank"} |
+| _Office Location:_ ISI 718 (7th floor), 1038 (10th floor), and 922 (9th floor), Information Sciences Institute, 4676 Admiralty Way, Marina del Rey, CA 90292 | |
+| _Supervisors:_ [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"} and [Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"} | |
+| _Research Projects:_ | |
+| ■ **Modeling Sparse and Heterogeneous Geochemistry Data to Accelerate Critical Mineral Discovery (STTR Phase II)** [Funded by **DARPA/USGS**; **$759,346**] <br> Collaborators: [Inferlink](https://www.inferlink.com/){:target="_blank"}, [Jataware](https://jataware.com/){:target="_blank"} <br> • Developing a geochemistry knowledge base to integrate sparse mining literature data <br> • Automating article discovery, method extraction, and structured table understanding <br> • Supporting USGS critical mineral resource estimation | Jan 2026 - Jul 2027 |
+| ■ **Enhancing Scalability of Knowledge Graphs for Enterprise Defense Solutions (STTR Phase I)** [Funded by the **[U.S. Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/){:target="_blank"}**, led by [SIMBA Chain, Inc.](https://simbachain.com/){:target="_blank"}] | Apr 2026 - Jun 2026 |
+| ■ **FinSemKG: A Semantic Mediation Layer for Grounded, Auditable LLM Question Answering over Financial Tables** [Funded by the **USC–Capital One Center for Responsible AI Decision Making in Finance (CREDIF)**; **Project Award: $84,000**; Role: **Capital One Fellow (50% Research Assistant)**; PI: [Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"}] <br> Collaborators: [Dr. Anoop Kumar](https://scholar.google.com/citations?user=NTqD9TAAAAAJ&hl=en){:target="_blank"}, [Dr. Wenqing Zheng](https://scholar.google.com/citations?user=LBJv1gsAAAAJ&hl=zh-CN){:target="_blank"}, [Dr. Lev Telyatnikov](https://scholar.google.com/citations?user=MzFz-tcAAAAJ&hl=en){:target="_blank"} | Aug 2026 - Aug 2027 |
+| ■ **Temporal Knowledge Graphs for Multi-Hop Pattern Recognition** | |
 
 
 
