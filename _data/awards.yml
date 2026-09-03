@@ -7,6 +7,7 @@
   description: "I was selected as the designated Capital One PhD Fellow for 'FinSemKG: A Semantic Mediation Layer for Grounded, Auditable LLM Question Answering over Financial Tables'. The approximately $84,000 project award provides a 50% research assistantship for 12 months and additional research support under PI Professor Craig Knoblock. FinSemKG aims to enable grounded, provenance-aware, and auditable LLM question answering over heterogeneous financial tables."
   preview_images:
     - "/assets/img/awards/capitalone.webp"
+  pdf: "/assets/pdf/awards/2026 PhD Fellow Bios.pdf"
 
 - year: "2025"
   month: "September"
