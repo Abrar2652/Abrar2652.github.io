@@ -18,11 +18,11 @@ Buttons:
 
 
 @article{jahin_wltest_gtmlp_2026,
+  	journal = {Proceedings of the 2nd Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2026)},
   	title = {{A Weisfeiler-Leman Characterization of Global-Attention Graph Transformers for Mixed-Integer Linear Programs}},
 	arxiv = "2607.17570",
   	abstract = {Graph foundation models (GFMs) equipped with global attention are increasingly used to learn representations of mixed-integer linear programs (MILPs), with the stated aim of capturing structural information beyond the locality of standard graph neural networks. We study the expressive power of these architectures through the lens of graph isomorphism testing and ask which MILP instances they map to identical representations. We prove that a broad class of hierarchical graph transformers combining global linear attention, edge-weighted cross-attention, and bipartite message passing is bounded by the one-dimensional Weisfeiler-Leman (1-WL) test: for any parameter setting, any pair of 1-WL-equivalent MILP graphs receives an identical graph embedding. The result follows from a compositional analysis in which each architectural component is shown to be a symmetric multiset function and therefore to preserve 1-WL equivalence. We validate the characterization across ten architecturally diverse graph encoders, including Graphormer-, GraphGPS-, Set-Transformer-, and Gasse-style models. Across model capacities, graph scales, and pooling operators, all tested encoders map 1-WL-equivalent non-isomorphic graph pairs to numerically identical embeddings. We then analyze the consequences of this representation equivalence for downstream prediction: graph invariants that vary within a 1-WL equivalence class are not recoverable from the resulting representations. Finally, we localize the source of expressiveness beyond 1-WL to the input encoding rather than the attention mechanism. Random-walk positional encodings separate the constructed pairs, while additional constructions characterize the limits of this remedy. Together, these results provide a theoretical and empirical characterization of the expressive power of global-attention graph foundation models, together with an encoder-agnostic diagnostic for detecting 1-WL-induced representation equivalence.}
-  	author = {Jahin, Md Abrar and Knoblock, Craig A and Pujara, Jay},
-  	journal = {Proceedings of the 2nd Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2026)},
+  	author = {Jahin, Md Abrar and Knoblock, Craig A. and Pujara, Jay},
   	pages =  {123--142},
   	year = {2026},
   	bibtex_show={true},
@@ -55,7 +55,7 @@ Buttons:
 	doi = {https://doi.org/10.48550/arXiv.2602.01124},
 	abstract = {Spiking neural networks (SNNs) offer a promising framework for dynamic graph learning through sparse, event-driven computation and inherent capacity to model temporal dynamics. However, existing spiking approaches struggle with limited adaptability and difficulty capturing long-range dependencies. We propose ChronoSpike, an adaptive spiking graph neural network that integrates multi-head neighborhood attention, learnable LIF neurons, and a lightweight Transformer-based temporal encoder. ChronoSpike models both fine-grained local interactions and global temporal dependencies while maintaining linear memory complexity and efficient temporal aggregation. Experiments on three large-scale dynamic graph benchmarks demonstrate that ChronoSpike consistently outperforms recent state-of-the-art methods, achieving average improvements of 2.0% Macro-F1 and 2.4% Micro-F1 while scaling efficiently to long temporal horizons. We provide a theoretical analysis guaranteeing training stability under temporal spiking dynamics, supported by comprehensive interpretability and parameter-sensitivity studies.},
 	publisher = {arXiv},
-	author = {Jahin, Md Abrar and Fuad, Taufikur Rahman and Pujara, Jay and Knoblock, Craig},
+	author = {Jahin, Md Abrar and Fuad, Taufikur Rahman and Pujara, Jay and Knoblock, Craig A.},
 	month = jan,
 	year = {2026},
 	note = {},
