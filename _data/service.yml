@@ -19,16 +19,18 @@
 - group: Program Committee Member
   venues:
     - name: Sci-K co-located with ISWC 2026
-    - name: AAAI 2027
-    - name: ICDM 2026
+    - name: AAAI (2027 - Present)
+    - name: ICDM (2026 - Present)
 
 - group: Reviewer
   venues:
-    - name: AAAI 2027
-    - name: NeurIPS 2026
+    - name: AAMAS (2027 - Present)
+    - name: WWW (2027 - Present)
+    - name: AAAI (2027 - Present)
+    - name: NeurIPS (2026 - Present)
     - name: TMLR
-    - name: ICDM 2026
-    - name: ICML 2026
+    - name: ICDM (2026 - Present)
+    - name: ICML (2026 - Present)
       seal: Gold reviewer
     - name: ICML 2025 Workshops
       note: LatinX in AI · Actionable Interpretability · DataWorld
