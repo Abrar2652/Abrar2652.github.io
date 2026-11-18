@@ -18,21 +18,46 @@ Buttons:
 
 
 
+
+@article{masud_hetero-select_2026,
+	journal = {2026 IEEE International Conference on Data Mining (ICDM)},
+  	bibtex_show={true},
+	title = {{HeteRo-Select: Informativeness as the Participation Driver in Heterogeneous Federated Learning}},
+	arxiv = "2508.06692",
+	doi = {https://doi.org/10.48550/arXiv.2508.06692},
+	abstract = {In heterogeneous federated learning, the clients whose data are most statistically valuable are not necessarily the clients with the most bandwidth. Under a non-IID data distribution, this mismatch means a bandwidth-driven allocator can compress the most informative updates most aggressively. We propose HeteRo-Select, a framework that uses a per-client informativeness score as the primary signal for communication allocation. The score jointly governs client selection, compression ratio, and server aggregation weight, while bandwidth remains a hard ceiling. We characterize a high-temperature limiting case of the selection rule and the convex-optimal score-informed compression allocation, and support both with targeted ablations across the tested non-IID regimes. HeteRo-Select delivers a 1.78× speedup and an 18.2% reduction in traffic on CIFAR-10. The same configuration, without retuning, spans models from 7,850 parameters to $11.27$M parameters and reaches the target on three of four benchmarks. Under deliberately anti-correlated bandwidth and informativeness, it still reaches the target with less traffic than the normal-bandwidth run. Codes are available at https://github.com/masud1901/hetero-select},
+	publisher = {IEEE Computer Society},
+	author = {Masud, Md Akmol and Jahin, Md Abrar and Hasan, Mahmud},
+	html = {},
+	pages = {},
+	month = nov,
+	year = {2026},
+	note = {<span style="color: red; font-weight: 700;">CORE Rank: A*</span>; <span style="color: white; font-weight: 600;">Acceptance Rate: 392/1,966 = 19.94%</span>. Shenyang, China. November 12--15, 2026.},
+	keywords = {Computer Science - Machine Learning},
+	code = {https://github.com/masud1901/hetero-select},
+	video = {https://youtu.be/2bFdmk_K5sg},
+	poster = {posters/ICDM26_720_poster.pdf},
+	abbr= {IEEE ICDM},
+  	preview={masud_hetero-select_2026.jpg},
+	altmetric = {true},
+  	selected={false}
+}
+
+
+
 @article{jahin_gui-primitives_2026,
   	journal = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)},
   	title = {{GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding}},
 	arxiv = "2608.21832",
 	abstract = {Computer-use agents ground natural-language instructions in screenshots to locate interface elements, yet existing benchmarks do not isolate whether models bind relational language to the correct element. We introduce GUI-Primitives, a 994-item benchmark of contrastive instruction pairs covering seven spatial relations in graphical user interfaces: left/right, above/below, containment, alignment, proximity, list ordinal, and occlusion. Each pair holds the screenshot and anchor fixed while changing the relation expression, causing the correct target to move between two designated candidates. Five annotators validate a 196-item subset ($\kappa=0.94$ for well-formedness and $\kappa=0.79$ for target selection). Nineteen vision-language models achieve at most 32\% strict point-in-box accuracy. Because models emit unconstrained coordinates, we classify each prediction according to the candidate region in which it falls. Predictions fall outside both candidates on 60--92\% of items. Conditional on falling within a candidate region, target-selection accuracy reaches 0.82--0.90 for horizontal position, vertical position, proximity, and list ordinal, but does not differ significantly from 0.50 for containment and occlusion. These results indicate that most failures reflect candidate localization rather than relation understanding. Across ten models, benchmark accuracy correlates with ScreenSpot-Pro accuracy (Spearman's $\rho=+0.74$), although this association is exploratory given the sample size. Marking the two designated candidates raises selection accuracy by 35--57 percentage points, providing an oracle diagnostic that supplies the candidate set rather than a deployable method. We release the benchmark, model predictions, and code.},
   	author = {Jahin, Md Abrar and Parvez, Md Rizwan},
-  	pages =  {},
+  	pages =  {59530–59564},
   	year = {2026},
   	bibtex_show={true},
-  	volume = {},
-  	number =  {},
 	note = {<span style="color: red; font-weight: 700;">CORE Rank: A*</span>; <span style="color: white; font-weight: 600;">Acceptance Rate: 2,719/17,669 = 15.4%</span>. Budapest, Hungary. October 24--29, 2026.},
-  	month = {24--29 Oct},
+  	month = {Oct},
   	publisher = {Association for Computational Linguistics (ACL)},
-  	html = {},
+  	html = {https://aclanthology.org/2026.emnlp-main.2620/},
 	code = {https://github.com/Abrar2652/gui-primitives/},
 	website={https://abrar2652.github.io/gui-primitives/},
 	keywords = {Computer Science - Machine Learning},
@@ -162,30 +187,6 @@ Buttons:
 	altmetric = {true},
   	selected={false}
 
-}
-
-
-@article{masud_hetero-select_2025,
-	journal = {Under review in ICDM 2026},
-  	bibtex_show={true},
-	title = {{HeteRo-Select: Informativeness as the Participation Driver in Heterogeneous Federated Learning}},
-	html = {https://arxiv.org/abs/2508.06692},
-	arxiv = "2508.06692",
-	doi = {https://doi.org/10.48550/arXiv.2508.06692},
-	abstract = {Federated Learning (FL) is a machine learning technique that often suffers from training instability due to the diverse nature of client data. Although utility-based client selection methods like Oort are used to converge by prioritizing high-loss clients, they frequently experience significant drops in accuracy during later stages of training. We propose a theoretical HeteRo-Select framework designed to maintain high performance and ensure long-term training stability. We provide a theoretical analysis showing that when client data is very different (high heterogeneity), choosing a smart subset of client participation can reduce communication more effectively compared to full participation. Our HeteRo-Select method uses a clear, step-by-step scoring system that considers client usefulness, fairness, update speed, and data variety. It also shows convergence guarantees under strong regularization. Our experimental results on the CIFAR-10 dataset under significant label skew (α=0.1) support the theoretical findings. The HeteRo-Select method performs better than existing approaches in terms of peak accuracy, final accuracy, and training stability. Specifically, HeteRo-Select achieves a peak accuracy of 74.75%, a final accuracy of 72.76%, and a minimal stability drop of 1.99%. In contrast, Oort records a lower peak accuracy of 73.98%, a final accuracy of 71.25%, and a larger stability drop of 2.73%.  The theoretical foundations and empirical performance in our study make HeteRo-Select a reliable solution for real-world heterogeneous FL problems.},
-	publisher = {arXiv},
-	author = {Masud, Md Akmol and Jahin, Md Abrar and Hasan, Mahmud},
-	volume = {6},
-	number = {12},
-	pages = {3195-3206},
-	month = jan,
-	year = {2026},
-	note = {arXiv:2508.06692},
-	keywords = {Computer Science - Machine Learning},
-	abbr= {ICDM},
-  	preview={masud_hetero-select_2025.jpg},
-	altmetric = {true},
-  	selected={false}
 }
 
 
