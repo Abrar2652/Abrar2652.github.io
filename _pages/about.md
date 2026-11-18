@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS PhD Student & Graduate Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, USC ISI # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS PhD Scholar & Capital One Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, USC ISI # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   name: Md Abrar Jahin
-  position: CS PhD Student & Graduate Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, USC ISI
+  position: CS PhD Scholar & Capital One Fellow, USC Viterbi | AI Researcher, Center on Knowledge Graphs, USC ISI
   align: right
   image: md_abrar_jahin.jpg
   email: abrar.jahin.2652@gmail.com
@@ -26,7 +26,7 @@ images:
 
 This is *Md Abrar Jahin, CSCA<sup>&trade;</sup>*; however, you can call me *Abrar*. 
 
-I am a **CS PhD student** at the [Thomas Lord Department of Computer Science, Viterbi School of Engineering](https://www.cs.usc.edu/){:target="_blank"}, **[University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}**. I am affiliated with the *[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}* at the **[Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}**, located at the heart of Silicon Beach. I am fortunate to be co-advised by **[Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"}** and **[Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"}**. My research at ISI is generously supported by **Defense Advanced Research Projects Agency (DARPA)** and **US Air Force Research Laboratory (AFRL)**. I am also honored to be a **Viterbi Graduate School Fellow** (2025-2026) and **Capital One Fellow** (2026-27).
+I am a **CS PhD scholar** at the [Thomas Lord Department of Computer Science, Viterbi School of Engineering](https://www.cs.usc.edu/){:target="_blank"}, **[University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}**. I am affiliated with the *[Center on Knowledge Graphs](https://www.isi.edu/centers-ckg/){:target="_blank"}* at the **[Information Sciences Institute (ISI)](https://www.isi.edu/){:target="_blank"}**, located at the heart of Silicon Beach. I am fortunate to be co-advised by **[Prof. Craig Knoblock](https://www.isi.edu/people-knoblock/){:target="_blank"}** and **[Prof. Jay Pujara](https://www.isi.edu/directory/jpujara/){:target="_blank"}**. My research at ISI is generously supported by **Defense Advanced Research Projects Agency (DARPA)** and **US Air Force Research Laboratory (AFRL)**. I am also honored to be a **Viterbi Graduate School Fellow** (2025-2026) and **Capital One Fellow** (2026-27).
 
 Before joining USC, I obtained my B.Sc. in Industrial & Production Engineering (IPE) in March 2024 from the Department of Industrial Engineering and Management at [Khulna University of Engineering and Technology (KUET)](https://www.kuet.ac.bd/){:target="_blank"}.
 
